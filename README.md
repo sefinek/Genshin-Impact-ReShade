@@ -4,9 +4,10 @@
             <img src="https://sefinek.net/images/stella/banner/meta2-alpha-min.png" id="header-pic" alt="🌟 Genshin Impact Stella Mod 2024 🌟">
         </a>
     </p>
-    <a href="https://sefinek.net" title="sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=Website&up_message=Online&url=https%3A%2F%2Fsefinek.net" alt="Status page"></a>
-    <a href="https://api.sefinek.net" title="api.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=API&up_message=Online&url=https%3A%2F%2Fapi.sefinek.net" alt="Status page"></a>
-    <a href="https://cdn.sefinek.net" title="cdn.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=CDN&up_message=Online&url=https%3A%2F%2Fcdn.sefinek.net" alt="Status page"></a>
+    <a href="https://sefinek.net" title="sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=Website&up_message=Online&url=https%3A%2F%2Fsefinek.net" alt="sefinek.net status update"></a>
+    <a href="https://api.sefinek.net" title="api.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=API&up_message=Online&url=https%3A%2F%2Fapi.sefinek.net" alt="api.sefinek.net status page"></a>
+    <a href="https://cdn.sefinek.net" title="cdn.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=CDN&up_message=Online&url=https%3A%2F%2Fcdn.sefinek.net" alt="cdn.sefinek.net status page"></a>
+    <a href="https://patrons.sefinek.net" title="patrons.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=SPC&up_message=Online&url=https%3A%2F%2Fpatrons.sefinek.net" alt="patrons.sefinek.net status page"></a>
     <br>
     <a href="https://github.com/sefinek/Genshin-Impact-ReShade" title="Repository size"><img src="https://img.shields.io/github/repo-size/sefinek/Genshin-Impact-ReShade?label=Repo%20size" alt="Repo size"></a>
     <a href="https://github.com/sefinek/Genshin-Impact-ReShade/commits/main" title="Commit activity"><img src="https://img.shields.io/github/commit-activity/w/sefinek/Genshin-Impact-ReShade?label=Commit%20activity" alt="Commit activity"></a>
