@@ -71,4 +71,4 @@ Thank you! 🌟
 </div>
 
 ## 🔖 〢 License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsefinek%2FGenshin-Impact-ReShade.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsefinek%2FGenshin-Impact-ReShade?ref=badge_large)
+[Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE)
