@@ -1,6 +1,5 @@
 # Workspace
 .vs
-.idea
 *.cache
 *.bin
 *.user
