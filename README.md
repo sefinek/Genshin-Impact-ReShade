@@ -4,16 +4,16 @@
             <img src="https://sefinek.net/images/stella/banner/meta2-alpha-min.png" id="header-pic" alt="🌟 Genshin Impact Stella Mod 2024 🌟">
         </a>
     </p>
-    <a href="https://sefinek.net" title="sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=Website&up_message=Online&url=https%3A%2F%2Fsefinek.net" alt="sefinek.net status update"></a>
-    <a href="https://api.sefinek.net" title="api.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=API&up_message=Online&url=https%3A%2F%2Fapi.sefinek.net" alt="api.sefinek.net status page"></a>
-    <a href="https://cdn.sefinek.net" title="cdn.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=CDN&up_message=Online&url=https%3A%2F%2Fcdn.sefinek.net" alt="cdn.sefinek.net status page"></a>
-    <a href="https://patrons.sefinek.net" title="patrons.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=SPC&up_message=Online&url=https%3A%2F%2Fpatrons.sefinek.net" alt="patrons.sefinek.net status page"></a>
+    <a href="https://sefinek.net/?referrer=github_readme" title="sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=Website&up_message=Online&url=https%3A%2F%2Fsefinek.net" alt="sefinek.net status update"></a>
+    <a href="https://api.sefinek.net/?referrer=github_readme" title="api.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=API&up_message=Online&url=https%3A%2F%2Fapi.sefinek.net" alt="api.sefinek.net status page"></a>
+    <a href="https://cdn.sefinek.net/?referrer=github_readme" title="cdn.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=CDN&up_message=Online&url=https%3A%2F%2Fcdn.sefinek.net" alt="cdn.sefinek.net status page"></a>
+    <a href="https://patrons.sefinek.net/?referrer=github_readme" title="patrons.sefinek.net status"><img src="https://img.shields.io/website?down_message=Offline&label=SPC&up_message=Online&url=https%3A%2F%2Fpatrons.sefinek.net" alt="patrons.sefinek.net status page"></a>
     <br>
     <a href="https://github.com/sefinek/Genshin-Impact-ReShade" title="Repository size"><img src="https://img.shields.io/github/repo-size/sefinek/Genshin-Impact-ReShade?label=Repo%20size" alt="Repo size"></a>
     <a href="https://github.com/sefinek/Genshin-Impact-ReShade/commits/main" title="Commit activity"><img src="https://img.shields.io/github/commit-activity/w/sefinek/Genshin-Impact-ReShade?label=Commit%20activity" alt="Commit activity"></a>
     <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://img.shields.io/discord/1044713077125435492?label=Discord%20server" alt="Our Discord server"></a>
     <h3>
-        For a safer and enhanced experience with mods, consider subscribing to <a href="https://sefinek.net/genshin-stella-mod/subscription" title="Subscription: Unlock more benefits - Genshin Stella Mod">Stella Mod Plus</a>.<br>
+        For a safer and enhanced experience with mods, consider subscribing to <a href="https://sefinek.net/genshin-stella-mod/subscription?referrer=github_readme" title="Subscription: Unlock more benefits - Genshin Stella Mod">Stella Mod Plus</a>.<br>
         ⭐ » If you like this project, star the repository. Have a great day or night! « ⭐
     </h3>
     <img src="https://api.sefinek.net/api/v2/moecounter/@Genshin-Stella-Mod-Repo?theme=default" alt="Views" title="README.md views - starting from June 15, 2023, 12:26 PM GMT+2">
@@ -45,7 +45,7 @@
 <div align="center">
     <a href="https://sefinek.net/genshin-stella-mod?download=true&referrer=github_readme" title="Download stable release"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="144px"></a>
     <br>
-    <a href="https://stella.sefinek.net" title="Official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Website" height="138px"></a>
+    <a href="https://sefinek.net/genshin-stella-mod?referrer=github_readme" title="Official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Website" height="138px"></a>
     <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Discord" height="138px"></a>
 </div>
 <br>
@@ -69,11 +69,6 @@ Thank you! 🌟
         <img src="https://sefinek.net/images/stella/gallery/v7.9.7/1-2.png" alt="Screenshot number 1">
     </a>
 </div>
-
-## 📥 〢 Cloning
-```bash
-git clone --recurse-submodules https://github.com/sefinek/Genshin-Impact-ReShade.git
-```
 
 ## 🔖 〢 License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsefinek%2FGenshin-Impact-ReShade.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsefinek%2FGenshin-Impact-ReShade?ref=badge_large)
