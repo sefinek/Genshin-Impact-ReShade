@@ -12,7 +12,7 @@
     <a href="https://github.com/sefinek/Genshin-Impact-ReShade/commits/main" title="Commit activity"><img src="https://img.shields.io/github/commit-activity/w/sefinek/Genshin-Impact-ReShade?label=Commit%20activity" alt="Commit activity"></a>
     <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://img.shields.io/discord/1044713077125435492?label=Discord%20server" alt="Our Discord server"></a>
     <h3>
-        » For a safer and enhanced experience with mods, consider subscribing to <a href="https://sefinek.net/genshin-stella-mod/subscription" title="Subscription: Unlock more benefits - Genshin Stella Mod">Stella Mod Plus</a> «<br>
+        For a safer and enhanced experience with mods, consider subscribing to <a href="https://sefinek.net/genshin-stella-mod/subscription" title="Subscription: Unlock more benefits - Genshin Stella Mod">Stella Mod Plus</a><br>
         ⭐ » If you enjoy the repository, don't forget to give it a star. Thank you! « ⭐
     </h3>
     <img src="https://api.sefinek.net/api/v2/moecounter/@Genshin-Stella-Mod-Repo?theme=default" alt="Views" title="README.md views - starting from June 15, 2023, 12:26 PM GMT+2">
