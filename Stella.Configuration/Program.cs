@@ -12,7 +12,6 @@ internal static class Program
 	[STAThread]
 	private static void Main()
 	{
-		// Prepare NLog
 		LogManagerHelper.Initialize(Path.Combine(Window.AppPath, "NLog.config"), "Configuration window", Window.AppVersion);
 		Logger = LogManagerHelper.GetLogger();
 
