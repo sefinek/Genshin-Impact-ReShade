@@ -27,6 +27,7 @@
     <ApplicationIcon>Resources\cat-black_52x52.ico</ApplicationIcon>
     <PackageLicenseFile>../LICENSE</PackageLicenseFile>
     <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+    <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

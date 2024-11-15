@@ -32,6 +32,7 @@
     <PackageLicenseFile>../LICENSE</PackageLicenseFile>
     <PlatformTarget>AnyCPU</PlatformTarget>
     <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+    <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
