@@ -50,18 +50,11 @@
 </div>
 <br>
 
-Welcome to the official GitHub repository for [Genshin Stella Mod](https://stella.sefinek.net)! We've made some important updates to how we host our documentation.
+Welcome to the official GitHub repository for [Genshin Stella Mod](https://stella.sefinek.net)!
 
-The entire documentation for Stella Mod has now been transferred to our official website.
-This move allows us to provide you with the most up-to-date information, guides, and resources in a more organized and accessible manner.
-
-To access the documentation, please visit our [official website](https://sefinek.net/genshin-stella-mod/docs).
-We've ensured that the documentation is comprehensive and easy to navigate, allowing you to find everything you need quickly.
-
-We appreciate your understanding and hope you find the new documentation helpful.
-If you have any questions or need assistance, please don't hesitate to reach out to us on our [Discord server](https://discord.com/invite/k2wfGRq4dT).
-
-Thank you! 🌟
+Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and mods provide players with an even better gaming experience than ever before!
+Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.
+Don't wait, download it now! Take your gameplay to the next level. Immerse yourself in the enhanced world of Teyvat and create unforgettable moments. Have fun!
 
 ## 📷 〢 Screenshot (see more [here](https://sefinek.net/genshin-stella-mod/gallery?page=1))
 <div id="images">
