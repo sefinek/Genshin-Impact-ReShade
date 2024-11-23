@@ -9,7 +9,7 @@
    [<a href="https://semver.org/lang/ko">KO</a>]
 </div>
 
-## 📥 Changelog for v8.x.x
+## 📥 Changelog for v8.X.X
 https://sefinek.net/genshin-stella-mod/docs?page=changelog_v8
 
 ## 🗑️ Deprecated releases
