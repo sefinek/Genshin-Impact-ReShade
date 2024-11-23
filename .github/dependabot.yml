@@ -7,12 +7,12 @@ updates:
       interval: "weekly"
     labels:
       - "dependencies"
-    open-pull-requests-limit: 7
+    open-pull-requests-limit: 4
 
   - package-ecosystem: "nuget"
     directory: "/"
     schedule:
       interval: "weekly"
-    open-pull-requests-limit: 8
+    open-pull-requests-limit: 5
     labels:
       - "dependencies"
