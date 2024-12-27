@@ -4,11 +4,13 @@
 *.bin
 *.user
 *.csproj.user
+shelf
+httpRequests
+workspace.xml
 
 # Build
 Build
 packages
-unlocker.config.json
 data/unlocker/unlocker.config.json
 data/sounds/*.mp3
 Screenshots/*.png
@@ -19,9 +21,6 @@ Screenshots/*.bmp
 # InnoSetup
 InnoSetup/*.exe
 InnoSetup/Output
-
-# Configs
-.eslintrc.js
 
 # Solutions
 ## Configuration Window
