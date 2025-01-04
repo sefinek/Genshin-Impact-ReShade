@@ -113,7 +113,7 @@ internal partial class MainForm : Form
 	private void ViewDocs_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 	{
 		if (_openedDocs) return;
-		Process.Start(new ProcessStartInfo($"{Data.AppWebsiteFull}/docs?page=terms-of-use") { UseShellExecute = true });
+		Process.Start(new ProcessStartInfo($"{Data.WebsiteFull}/docs?page=terms-of-use") { UseShellExecute = true });
 
 		label3.Visible = true;
 		_openedDocs = true;
