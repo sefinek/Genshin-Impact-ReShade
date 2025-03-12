@@ -19,6 +19,7 @@
     <NeutralLanguage>en</NeutralLanguage>
     <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
     <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+    <PackageId>Stella Mod Test</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

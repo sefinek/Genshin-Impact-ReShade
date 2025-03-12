@@ -20,7 +20,7 @@
     <PackageId>Stella Configuration Window</PackageId>
     <PackageProjectUrl>https://stella.sefinek.net</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
-    <Product>Configuration Window</Product>
+    <Product>$(AssemblyName)</Product>
     <RepositoryUrl>https://github.com/sefinek/Genshin-Impact-ReShade</RepositoryUrl>
     <AssemblyName>Configuration Window</AssemblyName>
     <StartupObject>ConfigurationNC.Program</StartupObject>
