@@ -18,10 +18,6 @@
 	path = Stella.Scripts
 	url = https://github.com/sefinek/Stella-Mod-Scripts.git
 
-[submodule "Stella-Mod-Injector"]
-	path = Stella.Injector
-	url = https://github.com/sefinek/Stella-Mod-Injector.git
-
 [submodule "Stella-Mod-DeviceIdentifier"]
 	path = Stella.DeviceIdentifier
 	url = https://github.com/sefinek/Stella-Mod-DeviceIdentifier.git
