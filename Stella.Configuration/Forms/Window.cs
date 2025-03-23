@@ -25,11 +25,7 @@ internal partial class Window : Form
 	internal Window()
 	{
 		InitializeComponent();
-
 		_prepareIni = new IniFile(PrepareCfgPath);
-
-		SetStyle(ControlStyles.AllPaintingInWmPaint | ControlStyles.UserPaint | ControlStyles.DoubleBuffer, true);
-		UpdateStyles();
 	}
 
 	private void Main_Load(object sender, EventArgs e)

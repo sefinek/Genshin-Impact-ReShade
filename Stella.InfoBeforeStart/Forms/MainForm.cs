@@ -18,9 +18,6 @@ internal partial class MainForm : Form
 	{
 		InitializeComponent();
 
-		SetStyle(ControlStyles.AllPaintingInWmPaint | ControlStyles.UserPaint | ControlStyles.DoubleBuffer, true);
-		UpdateStyles();
-
 		_timer = new Timer { Interval = 1000 };
 		_timer.Tick += Timer_Tick;
 		_timer.Start();
