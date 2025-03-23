@@ -22,10 +22,10 @@
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
     <ApplicationIcon>Resources\angry-paimon.ico</ApplicationIcon>
     <PackageOutputPath>$(OutputPath)</PackageOutputPath>
-    <AssemblyVersion>2.0.1.0</AssemblyVersion>
-    <FileVersion>2.0.1.0</FileVersion>
+    <AssemblyVersion>2.1.0.0</AssemblyVersion>
+    <FileVersion>2.1.0.0</FileVersion>
     <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
-    <Version>2.0.1.0</Version>
+    <Version>2.1.0.0</Version>
     <Title>$(AssemblyName)</Title>
     <Authors>Sefinek</Authors>
     <PackageId>Stella Mod Information</PackageId>
