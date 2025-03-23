@@ -139,11 +139,20 @@ namespace InfoBeforeStart.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This window will close in {0}s....
+        ///   Looks up a localized string similar to This information will disappear in {0}s....
         /// </summary>
-        internal static string ThisWindowWillCloseIn {
+        internal static string ThisInformationWillDisappearIn_ {
             get {
-                return ResourceManager.GetString("ThisWindowWillCloseIn", resourceCulture);
+                return ResourceManager.GetString("ThisInformationWillDisappearIn_", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Take a moment to review the contents of this information. The documentation has been opened in your default browser..
+        /// </summary>
+        internal static string ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation {
+            get {
+                return ResourceManager.GetString("ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation", resourceCulture);
             }
         }
     }

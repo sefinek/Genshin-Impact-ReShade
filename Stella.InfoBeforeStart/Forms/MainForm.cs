@@ -9,15 +9,10 @@ namespace InfoBeforeStart.Forms;
 
 internal partial class MainForm : Form
 {
-	private const uint SwpNoSize = 0x0001;
-	private const uint SwpNoMove = 0x0002;
-
 	private readonly Timer _autoCloseTimer;
 	private readonly Timer _timer;
 	private int _displayCount;
-	private bool _openedDocs;
-	private bool _openedOfficialWebsite;
-	private int _remainingSeconds = 20;
+	private int _remainingSeconds = 19;
 
 	internal MainForm()
 	{
@@ -35,7 +30,7 @@ internal partial class MainForm : Form
 		_autoCloseTimer.Start();
 
 		TimeSpan time = TimeSpan.FromSeconds(_remainingSeconds);
-		label4.Text = string.Format(Resources.ThisWindowWillCloseIn, $"{time.Seconds:D2}");
+		label4.Text = string.Format(Resources.ThisInformationWillDisappearIn_, $"{time.Seconds:D2}");
 	}
 
 	[LibraryImport("user32.dll")]
@@ -60,13 +55,12 @@ internal partial class MainForm : Form
 		if (_remainingSeconds >= 0)
 		{
 			TimeSpan time = TimeSpan.FromSeconds(_remainingSeconds);
-			label4.Text = string.Format(Resources.ThisWindowWillCloseIn, $"{time.Seconds:D2}");
+			label4.Text = string.Format(Resources.ThisInformationWillDisappearIn_, $"{time.Seconds:D2}");
 		}
 		else
 		{
 			label4.Text = Resources.Closing;
 			_autoCloseTimer.Stop();
-
 			Application.Exit();
 		}
 	}
@@ -74,11 +68,10 @@ internal partial class MainForm : Form
 	protected override void OnLoad(EventArgs e)
 	{
 		base.OnLoad(e);
-
-		SetWindowPos(Handle, -1, 0, 0, 0, 0, SwpNoMove | SwpNoSize);
+		SetWindowPos(Handle, -1, 0, 0, 0, 0, 0x0002 | 0x0001);
 	}
 
-	// Sound Effect from <a href="https://pixabay.com/sound-effects/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=47485">Pixabay</a>
+	// Sound Effect from Pixabay: https://pixabay.com/sound-effects/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=47485
 	private async void Meow_Click(object sender, EventArgs e)
 	{
 		Random random = new();
@@ -101,21 +94,12 @@ internal partial class MainForm : Form
 		}
 	}
 
-	private void Copyright_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-	{
-		if (_openedOfficialWebsite) return;
-		Process.Start(new ProcessStartInfo("https://sefinek.net") { UseShellExecute = true });
-
-		label3.Visible = true;
-		_openedOfficialWebsite = true;
-	}
-
 	private void ViewDocs_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 	{
-		if (_openedDocs) return;
 		Process.Start(new ProcessStartInfo($"{Data.WebsiteFull}/docs?page=terms-of-use") { UseShellExecute = true });
 
-		label3.Visible = true;
-		_openedDocs = true;
+		linkLabel3.Text = Resources.ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation;
+		linkLabel3.LinkBehavior = LinkBehavior.NeverUnderline;
+		linkLabel3.Links.Clear();
 	}
 }

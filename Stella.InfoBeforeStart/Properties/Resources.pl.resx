@@ -123,7 +123,7 @@
 	<data name="Error" xml:space="preserve">
     <value>Błąd</value>
   </data>
-	<data name="ThisWindowWillCloseIn" xml:space="preserve">
+	<data name="ThisInformationWillDisappearIn_" xml:space="preserve">
     <value>Okno zostanie zamknięte za {0}s...</value>
   </data>
 </root>

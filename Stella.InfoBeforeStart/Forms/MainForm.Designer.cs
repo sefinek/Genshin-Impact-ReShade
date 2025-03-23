@@ -36,8 +36,6 @@ namespace InfoBeforeStart.Forms
 			label1 = new Label();
 			label2 = new Label();
 			pictureBox1 = new PictureBox();
-			linkLabel1 = new LinkLabel();
-			label3 = new Label();
 			label4 = new Label();
 			label5 = new Label();
 			pictureBox2 = new PictureBox();
@@ -46,6 +44,7 @@ namespace InfoBeforeStart.Forms
 			pictureBox4 = new PictureBox();
 			label6 = new Label();
 			linkLabel3 = new LinkLabel();
+			label3 = new Label();
 			((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
 			((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
 			((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -73,24 +72,6 @@ namespace InfoBeforeStart.Forms
 			pictureBox1.Image = Properties.Resources.PaimonShock;
 			pictureBox1.Name = "pictureBox1";
 			pictureBox1.TabStop = false;
-			// 
-			// linkLabel1
-			// 
-			linkLabel1.ActiveLinkColor = Color.DeepSkyBlue;
-			linkLabel1.BackColor = Color.Transparent;
-			resources.ApplyResources(linkLabel1, "linkLabel1");
-			linkLabel1.LinkBehavior = LinkBehavior.HoverUnderline;
-			linkLabel1.Name = "linkLabel1";
-			linkLabel1.TabStop = true;
-			toolTip1.SetToolTip(linkLabel1, resources.GetString("linkLabel1.ToolTip"));
-			linkLabel1.LinkClicked += Copyright_LinkClicked;
-			// 
-			// label3
-			// 
-			resources.ApplyResources(label3, "label3");
-			label3.BackColor = Color.Transparent;
-			label3.ForeColor = Color.White;
-			label3.Name = "label3";
 			// 
 			// label4
 			// 
@@ -150,12 +131,20 @@ namespace InfoBeforeStart.Forms
 			linkLabel3.TabStop = true;
 			linkLabel3.LinkClicked += ViewDocs_LinkClicked;
 			// 
+			// label3
+			// 
+			resources.ApplyResources(label3, "label3");
+			label3.BackColor = Color.Transparent;
+			label3.ForeColor = Color.DeepSkyBlue;
+			label3.Name = "label3";
+			// 
 			// MainForm
 			// 
 			resources.ApplyResources(this, "$this");
 			AutoScaleMode = AutoScaleMode.Dpi;
 			BackColor = Color.Black;
 			BackgroundImage = Properties.Resources.bg;
+			Controls.Add(label3);
 			Controls.Add(linkLabel3);
 			Controls.Add(label6);
 			Controls.Add(pictureBox4);
@@ -163,8 +152,6 @@ namespace InfoBeforeStart.Forms
 			Controls.Add(pictureBox2);
 			Controls.Add(label5);
 			Controls.Add(label4);
-			Controls.Add(label3);
-			Controls.Add(linkLabel1);
 			Controls.Add(pictureBox1);
 			Controls.Add(label2);
 			Controls.Add(label1);
@@ -188,8 +175,6 @@ namespace InfoBeforeStart.Forms
 		private Label label1;
         private Label label2;
         private PictureBox pictureBox1;
-        private LinkLabel linkLabel1;
-        private Label label3;
         private Label label4;
 		  private Label label5;
 		  private PictureBox pictureBox2;
@@ -198,5 +183,6 @@ namespace InfoBeforeStart.Forms
 		  private PictureBox pictureBox4;
 		  private Label label6;
 		  private LinkLabel linkLabel3;
-	 }
+		private Label label3;
+	}
 }
