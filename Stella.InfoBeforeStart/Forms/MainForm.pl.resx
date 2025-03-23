@@ -139,7 +139,7 @@
     <value>0</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>READ BEFORE PLAYING</value>
+    <value>PRZECZYTAJ PRZED GRĄ</value>
   </data>
   <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -172,11 +172,11 @@
     <value>1</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>The game will soon be launched. Please use the Stella Mod software responsibly by strictly adhering to its usage guidelines. Respect the integrity of the game and Hoyoverse's policies. Be aware that any actions aimed at harming the game will be reported to the Hoyoverse company.
+    <value>Gra zostanie wkrótce uruchomiona. Prosimy o odpowiedzialne korzystanie z oprogramowania Stella Mod i ścisłe przestrzeganie jego zasad użytkowania. Szanuj integralność gry i stosuj się do polityki HoYoverse. Wszelkie działania mające na celu zaszkodzenie grze będą zgłaszane do HoYoverse.
 
-The most important principles are: do not cheat, do not cause harm, and do not engage in activities prohibited by law.
+Kluczowe zasady to: nie oszukuj, nie wyrządzaj szkód i nie podejmuj żadnych nielegalnych działań.
 
-By diligently following these rules, you can be confident that your account will remain secure, and you will avoid the risk of being banned from the game while using the Stella Mod.</value>
+Przestrzegając tych zasad, możesz bezpiecznie korzystać ze Stella Mod. Baw się dobrze!</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -239,7 +239,7 @@ By diligently following these rules, you can be confident that your account will
     <value>6</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>Please wait a moment...</value>
+    <value>Poczekaj chwilę...</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -275,7 +275,7 @@ By diligently following these rules, you can be confident that your account will
     <value>7</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>By using this software, the user agrees to comply with the guidelines.</value>
+    <value>Korzystając z tego oprogramowania, użytkownik zgadza się na przestrzeganie wytycznych.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -437,7 +437,7 @@ By diligently following these rules, you can be confident that your account will
     <value>13</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Click here to view the documentation and explore more detailed information &gt;&gt;</value>
+    <value>Kliknij tutaj, aby zobaczyć dokumentację i zapoznać się ze szczegółowymi informacjami &gt;&gt;</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -473,7 +473,7 @@ By diligently following these rules, you can be confident that your account will
     <value>14</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Copyright 2025 © by Sefinek. All Rights Reserved.</value>
+    <value>Copyright 2025 © by Sefinek. Wszelkie prawa zastrzeżone.</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -509,7 +509,7 @@ By diligently following these rules, you can be confident that your account will
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Read before playing</value>
+    <value>Przeczytaj, zanim zagrasz</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

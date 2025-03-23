@@ -172,11 +172,11 @@
     <value>1</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>The game will soon be launched. Please use the Stella Mod software responsibly by strictly adhering to its usage guidelines. Respect the integrity of the game and Hoyoverse's policies. Be aware that any actions aimed at harming the game will be reported to the Hoyoverse company.
+    <value>The game will be launched soon. Please use the Stella Mod software responsibly and in strict accordance with its usage guidelines. Respect the integrity of the game and abide by HoYoverse's policies. Any actions intended to harm the game will be reported to HoYoverse.
 
-The most important principles are: do not cheat, do not cause harm, and do not engage in activities prohibited by law.
+Key principles include: do not cheat, do not cause harm, and do not engage in any illegal activities.
 
-By diligently following these rules, you can be confident that your account will remain secure, and you will avoid the risk of being banned from the game while using the Stella Mod.</value>
+By following these rules, you can enjoy using Stella Mod safely.</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>

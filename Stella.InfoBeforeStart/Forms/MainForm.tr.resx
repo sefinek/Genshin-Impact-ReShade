@@ -172,11 +172,11 @@
     <value>1</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>The game will soon be launched. Please use the Stella Mod software responsibly by strictly adhering to its usage guidelines. Respect the integrity of the game and Hoyoverse's policies. Be aware that any actions aimed at harming the game will be reported to the Hoyoverse company.
+    <value>Oyun yakında başlatılacaktır. Lütfen Stella Mod programını kullanırken sorumluluk bilinciyle ve bu programın kullanım yönergelerine sıkı sıkıya bağlı kalarak kullanın. Oyunun bütünlüğüne ve Hoyoverse'in politikalarına saygı gösterin. Oyuna zarar vermeyi amaçlayan her türlü faaliyetin Hoyoverse şirketine rapor edileceğini unutmayın.
 
-The most important principles are: do not cheat, do not cause harm, and do not engage in activities prohibited by law.
+En önemli kurallar şunlardır: hile yapmamak, kimseye zarar vermemek ve yasalarca yasaklanmış eylemlerde bulunmamak.
 
-By diligently following these rules, you can be confident that your account will remain secure, and you will avoid the risk of being banned from the game while using the Stella Mod.</value>
+Bu kurallara özenle uyarak, hesabınızın güvende kalacağından emin olabilir ve Stella Modunu kullanırken oyundan yasaklanma riskinden kaçınabilirsiniz.</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -239,7 +239,7 @@ By diligently following these rules, you can be confident that your account will
     <value>6</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>Please wait a moment...</value>
+    <value>Lütfen bir süre bekleyin...</value>
   </data>
   <data name="label4.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -275,7 +275,7 @@ By diligently following these rules, you can be confident that your account will
     <value>7</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>By using this software, the user agrees to comply with the guidelines.</value>
+    <value>Kullanıcı bu programı kullanmak suretiyle kurallara uyacağını kabul etmektedir.</value>
   </data>
   <data name="label5.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -437,7 +437,7 @@ By diligently following these rules, you can be confident that your account will
     <value>13</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Click here to view the documentation and explore more detailed information &gt;&gt;</value>
+    <value>Belgeleri görüntülemek ve daha ayrıntılı bilgileri incelemek için buraya tıklayınız &gt;&gt;</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -473,7 +473,7 @@ By diligently following these rules, you can be confident that your account will
     <value>14</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Copyright 2025 © by Sefinek. All Rights Reserved.</value>
+    <value>Telif Hakkı 2025 © Sefinek tarafındandır. Tüm Hakları Saklıdır.</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
@@ -509,7 +509,7 @@ By diligently following these rules, you can be confident that your account will
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Read before playing</value>
+    <value>Oynamadan önce okuyunuz</value>
   </data>
   <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
     <value>toolTip1</value>

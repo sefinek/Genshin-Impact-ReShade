@@ -585,7 +585,7 @@ Ancak hazır ayarlarınız ve diğer özel gölgelendiricileriniz silinmeyecekti
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Genshin Stella Modu Ayarlanıyor</value>
+    <value>Genshin Stella Modu Ayarla</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Window</value>
