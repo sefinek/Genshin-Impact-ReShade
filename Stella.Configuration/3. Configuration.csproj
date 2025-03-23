@@ -14,7 +14,7 @@
     <Authors>Sefinek</Authors>
     <Copyright>Copyright 2025 © by Sefinek. All Rights Reserved.</Copyright>
     <Company>Sefinek Inc.</Company>
-    <Version>2.0.1.0</Version>
+    <Version>2.0.2.0</Version>
     <Title>$(AssemblyName)</Title>
     <PackageId>Stella Configuration Window</PackageId>
     <PackageProjectUrl>https://stella.sefinek.net</PackageProjectUrl>
