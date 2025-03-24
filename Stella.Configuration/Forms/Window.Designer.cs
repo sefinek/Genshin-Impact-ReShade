@@ -53,7 +53,7 @@ namespace ConfigurationNC.Forms
 			linkLabel1.LinkBehavior = LinkBehavior.HoverUnderline;
 			linkLabel1.LinkColor = Color.LightSkyBlue;
 			linkLabel1.Name = "linkLabel1";
-			linkLabel1.TabStop = true;
+			linkLabel1.TabStop = false;
 			linkLabel1.LinkClicked += LetsGo_LinkClicked;
 			// 
 			// MadeBySefinek
