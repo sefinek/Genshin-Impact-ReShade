@@ -1,5 +1,6 @@
 using ConfigurationNC.Forms;
 using ConfigurationNC.Properties;
+using NLog;
 using StellaUtils;
 
 namespace ConfigurationNC;

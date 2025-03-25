@@ -1,6 +1,7 @@
 using System.Reflection;
 using InfoBeforeStart.Forms;
 using InfoBeforeStart.Properties;
+using NLog;
 using StellaUtils;
 
 namespace InfoBeforeStart;
