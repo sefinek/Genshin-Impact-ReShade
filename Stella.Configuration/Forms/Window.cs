@@ -10,7 +10,7 @@ internal partial class Window : Form
 	internal static readonly string? AppName = Assembly.GetExecutingAssembly().GetName().Name;
 	internal static readonly string AppVersion = Assembly.GetExecutingAssembly().GetName().Version!.ToString();
 	internal static readonly string AppPath = AppDomain.CurrentDomain.BaseDirectory;
-	private static readonly string AppData = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Stella Mod Launcher");
+	private static readonly string AppData = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Genshin Stella Mod");
 
 	private static readonly string PrepareCfgPath = Path.Combine(AppData, "prepare-stella.ini");
 	private static IniFile _prepareIni = null!;

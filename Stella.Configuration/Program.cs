@@ -9,7 +9,7 @@ namespace ConfigurationNC;
 internal static class Program
 {
 	internal static Logger Logger = null!;
-	private static readonly string AppData = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Stella Mod Launcher");
+	private static readonly string AppData = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Genshin Stella Mod");
 	private static readonly IniFile Settings = new(Path.Combine(AppData, "settings.ini"));
 
 	[STAThread]
