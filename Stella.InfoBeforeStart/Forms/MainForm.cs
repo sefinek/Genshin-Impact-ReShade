@@ -3,6 +3,7 @@ using System.Runtime.InteropServices;
 using InfoBeforeStart.Properties;
 using NAudio.Wave;
 using StellaTelemetry;
+using StellaUtils;
 using Timer = System.Windows.Forms.Timer;
 
 namespace InfoBeforeStart.Forms;
@@ -93,7 +94,7 @@ internal partial class MainForm : Form
 
 	private void ViewDocs_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 	{
-		Process.Start(new ProcessStartInfo($"{Data.WebsiteFull}/docs?page=terms-of-use") { UseShellExecute = true });
+		Process.Start(new ProcessStartInfo($"{Variables.WebsiteFull}/docs?page=terms-of-use") { UseShellExecute = true });
 
 		linkLabel3.Text = Resources.ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation;
 		linkLabel3.LinkBehavior = LinkBehavior.NeverUnderline;

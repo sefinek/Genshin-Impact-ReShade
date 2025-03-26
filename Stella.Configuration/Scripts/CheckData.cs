@@ -1,6 +1,7 @@
 using ConfigurationNC.Properties;
 using Microsoft.Win32;
 using StellaTelemetry;
+using StellaUtils;
 
 namespace ConfigurationNC.Scripts;
 
@@ -20,7 +21,7 @@ internal static class CheckData
 	{
 		try
 		{
-			using RegistryKey? key = Registry.CurrentUser.OpenSubKey(Data.RegistryPath);
+			using RegistryKey? key = Registry.CurrentUser.OpenSubKey(Variables.RegistryPath);
 			if (key is not null)
 			{
 				value = key.GetValue(keyName) as string;
