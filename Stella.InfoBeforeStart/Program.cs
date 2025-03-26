@@ -1,3 +1,4 @@
+using System.Globalization;
 using System.Reflection;
 using InfoBeforeStart.Forms;
 using InfoBeforeStart.Properties;
@@ -12,6 +13,10 @@ internal static class Program
 	private static readonly string AppVersion = Assembly.GetExecutingAssembly().GetName().Version!.ToString();
 	private static readonly string? AppPath = AppDomain.CurrentDomain.BaseDirectory;
 
+	// Other
+	private static readonly string AppData = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Stella Mod Launcher");
+	private static readonly IniFile Settings = new(Path.Combine(AppData, "settings.ini"));
+
 	// Logger
 	private static Logger _logger = null!;
 
@@ -21,6 +26,34 @@ internal static class Program
 		// Prepare NLog
 		LogManagerHelper.Initialize(Path.Combine(AppPath!, "NLog.config"), "Info 4842", AppVersion);
 		_logger = LogManagerHelper.GetLogger();
+
+		// Set the correct language
+		string currentLang = Settings.ReadString("Language", "UI");
+		_logger.Info($"Loaded language from settings: {currentLang}");
+		if (!Variables.SupportedLangs.Contains(currentLang))
+		{
+			string sysLang = CultureInfo.InstalledUICulture.TwoLetterISOLanguageName;
+			currentLang = Array.Find(Variables.SupportedLangs, lang => lang == sysLang) ?? "en";
+			_logger.Info($"System language detected: {sysLang}. Using: {currentLang}");
+			Settings.WriteString("Language", "UI", currentLang);
+		}
+		else
+		{
+			_logger.Info($"Using supported language: {currentLang}");
+		}
+
+		try
+		{
+			CultureInfo culture = new(currentLang);
+			CultureInfo.DefaultThreadCurrentCulture = CultureInfo.DefaultThreadCurrentUICulture = culture;
+			_logger.Info($"Application culture set to: {culture.Name}");
+		}
+		catch (CultureNotFoundException)
+		{
+			_logger.Error($"CultureNotFoundException! Invalid language detected: {currentLang}; Falling back to English...");
+			CultureInfo fallback = new("en");
+			CultureInfo.DefaultThreadCurrentCulture = CultureInfo.DefaultThreadCurrentUICulture = fallback;
+		}
 
 		ApplicationConfiguration.Initialize();
 		Application.ThreadException += (_, e) => _logger.Error($"ThreadException: {e.Exception.Message}");
