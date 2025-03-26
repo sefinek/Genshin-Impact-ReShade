@@ -253,7 +253,7 @@
     <value>82</value>
   </data>
   <data name="checkBox2.Text" xml:space="preserve">
-    <value>Crear acceso directo en el escritorio y en el menú de inicio</value>
+    <value>Crear acceso directo en el escritorio y en el menú de inicio *</value>
   </data>
   <data name="&gt;&gt;checkBox2.Name" xml:space="preserve">
     <value>checkBox2</value>
