@@ -1,8 +1,8 @@
+using System.Globalization;
 using ConfigurationNC.Forms;
 using ConfigurationNC.Properties;
 using NLog;
 using StellaUtils;
-using System.Globalization;
 
 namespace ConfigurationNC;
 

@@ -1,6 +1,5 @@
 using ConfigurationNC.Properties;
 using Microsoft.Win32;
-using StellaTelemetry;
 using StellaUtils;
 
 namespace ConfigurationNC.Scripts;

@@ -2,7 +2,6 @@ using System.Diagnostics;
 using System.Runtime.InteropServices;
 using InfoBeforeStart.Properties;
 using NAudio.Wave;
-using StellaTelemetry;
 using StellaUtils;
 using Timer = System.Windows.Forms.Timer;
 
