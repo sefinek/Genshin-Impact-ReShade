@@ -10,29 +10,23 @@
     <BaseOutputPath>..\Build\</BaseOutputPath>
     <GenerateDocumentationFile>False</GenerateDocumentationFile>
     <Company>Sefinek Inc.</Company>
-    <Product>$(AssemblyName)</Product>
-    <Copyright>Copyright 2025 © by Sefinek. All Rights Reserved.</Copyright>
-    <PackageProjectUrl>https://stella.sefinek.net</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/sefinek/Genshin-Impact-ReShade</RepositoryUrl>
-    <RepositoryType>git</RepositoryType>
+    <Product>Stella Mod Information</Product>
+    <Copyright>© 2022–2025 Sefinek. All rights reserved.</Copyright>
     <NeutralLanguage>en</NeutralLanguage>
-    <UseWPF>False</UseWPF>
     <AssemblyName>InfoBeforeStart</AssemblyName>
     <RootNamespace>InfoBeforeStart</RootNamespace>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
     <ApplicationIcon>Resources\angry-paimon.ico</ApplicationIcon>
-    <PackageOutputPath>$(OutputPath)</PackageOutputPath>
     <AssemblyVersion>2.1.0.0</AssemblyVersion>
     <FileVersion>2.1.0.0</FileVersion>
     <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
     <Version>2.1.0.0</Version>
     <Title>$(AssemblyName)</Title>
-    <Authors>Sefinek</Authors>
-    <PackageId>Stella Mod Information</PackageId>
-    <PackageLicenseFile>../LICENSE</PackageLicenseFile>
     <PlatformTarget>AnyCPU</PlatformTarget>
     <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
     <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>D:\Projects\stella\SignAssembly\Stella.InfoBeforeStart.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

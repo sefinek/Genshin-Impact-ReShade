@@ -11,22 +11,18 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
     <BaseOutputPath>..\Build\</BaseOutputPath>
     <NeutralLanguage>en</NeutralLanguage>
-    <Authors>Sefinek</Authors>
-    <Copyright>Copyright 2025 © by Sefinek. All Rights Reserved.</Copyright>
+    <Copyright>© 2022–2025 Sefinek. All rights reserved.</Copyright>
     <Company>Sefinek Inc.</Company>
     <Version>2.0.2.0</Version>
     <Title>$(AssemblyName)</Title>
-    <PackageId>Stella Configuration Window</PackageId>
-    <PackageProjectUrl>https://stella.sefinek.net</PackageProjectUrl>
-    <RepositoryType>git</RepositoryType>
-    <Product>$(AssemblyName)</Product>
-    <RepositoryUrl>https://github.com/sefinek/Genshin-Impact-ReShade</RepositoryUrl>
+    <Product>Stella Configuration Window</Product>
     <AssemblyName>Configuration Window</AssemblyName>
     <StartupObject>ConfigurationNC.Program</StartupObject>
     <ApplicationIcon>Resources\cat-black_52x52.ico</ApplicationIcon>
-    <PackageLicenseFile>../LICENSE</PackageLicenseFile>
     <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
     <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>D:\Projects\stella\SignAssembly\Stella.Configuration.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

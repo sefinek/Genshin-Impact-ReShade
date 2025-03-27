@@ -10,16 +10,11 @@
     <AssemblyName>GenshinImpact</AssemblyName>
     <StartupObject>GenshinTest.Program</StartupObject>
     <BaseOutputPath>..\Build</BaseOutputPath>
-    <Authors>Sefinek</Authors>
     <Company>Sefinek Inc.</Company>
-    <Copyright>Copyright 2025 © by Sefinek. All Rights Reserved.</Copyright>
-    <RepositoryUrl>https://github.com/sefinek/Genshin-Impact-ReShade</RepositoryUrl>
-    <PackageProjectUrl>https://stella.sefinek.net</PackageProjectUrl>
-    <RepositoryType>git</RepositoryType>
+    <Copyright>© 2022–2025 Sefinek. All rights reserved.</Copyright>
     <NeutralLanguage>en</NeutralLanguage>
     <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
     <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
-    <PackageId>Stella Mod Test</PackageId>
     <Title>$(AssemblyName)</Title>
   </PropertyGroup>
 
