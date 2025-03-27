@@ -1,4 +1,5 @@
 using System.Globalization;
+using System.Reflection;
 using ConfigurationNC.Forms;
 using ConfigurationNC.Properties;
 using NLog;
@@ -8,14 +9,16 @@ namespace ConfigurationNC;
 
 internal static class Program
 {
-	internal static Logger Logger = null!;
+	private static readonly string AppName = Assembly.GetExecutingAssembly().GetName().Name!;
 	private static readonly string AppData = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Genshin Stella Mod");
 	private static readonly IniFile Settings = new(Path.Combine(AppData, "settings.ini"));
+
+	internal static Logger Logger = null!;
 
 	[STAThread]
 	private static void Main()
 	{
-		LogManagerHelper.Initialize(Path.Combine(Window.AppPath, "NLog.config"), "Configuration window", Window.AppVersion);
+		LogManagerHelper.Initialize(Path.Combine(Window.AppPath, "NLog.config"), AppName, Window.AppVersion);
 		Logger = LogManagerHelper.GetLogger();
 
 		// Set the correct language

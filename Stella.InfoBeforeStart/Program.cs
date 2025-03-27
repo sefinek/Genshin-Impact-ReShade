@@ -10,6 +10,7 @@ namespace InfoBeforeStart;
 internal static class Program
 {
 	// App
+	private static readonly string AppName = Assembly.GetExecutingAssembly().GetName().Name!;
 	private static readonly string AppVersion = Assembly.GetExecutingAssembly().GetName().Version!.ToString();
 	private static readonly string? AppPath = AppDomain.CurrentDomain.BaseDirectory;
 
@@ -24,7 +25,7 @@ internal static class Program
 	private static void Main()
 	{
 		// Prepare NLog
-		LogManagerHelper.Initialize(Path.Combine(AppPath!, "NLog.config"), "Info 4842", AppVersion);
+		LogManagerHelper.Initialize(Path.Combine(AppPath!, "NLog.config"), AppName, AppVersion);
 		_logger = LogManagerHelper.GetLogger();
 
 		// Set the correct language
