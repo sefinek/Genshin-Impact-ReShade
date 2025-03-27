@@ -23,6 +23,7 @@
     <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>D:\Projects\stella\SignAssembly\Stella.Configuration.snk</AssemblyOriginatorKeyFile>
+    <Deterministic>false</Deterministic>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
