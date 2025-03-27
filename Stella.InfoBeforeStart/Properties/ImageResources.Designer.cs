@@ -22,14 +22,14 @@ namespace InfoBeforeStart.Properties {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    internal class ImageResources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resources() {
+        internal ImageResources() {
         }
         
         /// <summary>
@@ -39,7 +39,7 @@ namespace InfoBeforeStart.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("InfoBeforeStart.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("InfoBeforeStart.Properties.ImageResources", typeof(ImageResources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -71,38 +71,52 @@ namespace InfoBeforeStart.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Closing....
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static string Closing {
+        internal static System.Drawing.Bitmap background {
             get {
-                return ResourceManager.GetString("Closing", resourceCulture);
+                object obj = ResourceManager.GetObject("background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Error.
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static string Error {
+        internal static System.Drawing.Bitmap info {
             get {
-                return ResourceManager.GetString("Error", resourceCulture);
+                object obj = ResourceManager.GetObject("info", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to This information will disappear in {0}s....
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static string ThisInformationWillDisappearIn_ {
+        internal static System.Drawing.Bitmap paimon_peek {
             get {
-                return ResourceManager.GetString("ThisInformationWillDisappearIn_", resourceCulture);
+                object obj = ResourceManager.GetObject("paimon_peek", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Take a moment to review the contents of this information. The documentation has been opened in your default browser..
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static string ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation {
+        internal static System.Drawing.Bitmap paimon_shock {
             get {
-                return ResourceManager.GetString("ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation", resourceCulture);
+                object obj = ResourceManager.GetObject("paimon_shock", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap party_cat {
+            get {
+                object obj = ResourceManager.GetObject("party_cat", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }

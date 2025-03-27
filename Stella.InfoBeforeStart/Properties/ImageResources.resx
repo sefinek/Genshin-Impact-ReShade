@@ -121,16 +121,19 @@
   <data name="angry-paimon_ico" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\angry-paimon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ThisInformationWillDisappearIn_" xml:space="preserve">
-    <value>Esta información desaparecerá en {0}s...</value>
+  <data name="info" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\info.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Error" xml:space="preserve">
-    <value>Error</value>
+  <data name="background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Closing" xml:space="preserve">
-    <value>Cerrando...</value>
+  <data name="paimon_peek" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paimon_peek.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation" xml:space="preserve">
-    <value>Toma un momento para revisar el contenido de esta información. La documentación ha sido abierta en tu navegador predeterminado.</value>
+  <data name="paimon_shock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paimon_shock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="party_cat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\party_cat.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

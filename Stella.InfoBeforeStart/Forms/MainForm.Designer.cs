@@ -69,7 +69,7 @@ namespace InfoBeforeStart.Forms
 			// 
 			resources.ApplyResources(pictureBox1, "pictureBox1");
 			pictureBox1.BackColor = Color.Transparent;
-			pictureBox1.Image = Properties.Resources.PaimonShock;
+			pictureBox1.Image = Properties.ImageResources.paimon_shock;
 			pictureBox1.Name = "pictureBox1";
 			pictureBox1.TabStop = false;
 			// 
@@ -92,7 +92,7 @@ namespace InfoBeforeStart.Forms
 			resources.ApplyResources(pictureBox2, "pictureBox2");
 			pictureBox2.BackColor = Color.Transparent;
 			pictureBox2.Cursor = Cursors.Hand;
-			pictureBox2.Image = Properties.Resources.partycat;
+			pictureBox2.Image = Properties.ImageResources.party_cat;
 			pictureBox2.Name = "pictureBox2";
 			pictureBox2.TabStop = false;
 			pictureBox2.Click += Meow_Click;
@@ -101,14 +101,14 @@ namespace InfoBeforeStart.Forms
 			// 
 			resources.ApplyResources(pictureBox3, "pictureBox3");
 			pictureBox3.BackColor = Color.Transparent;
-			pictureBox3.Image = Properties.Resources.paimonpeek;
+			pictureBox3.Image = Properties.ImageResources.paimon_peek;
 			pictureBox3.Name = "pictureBox3";
 			pictureBox3.TabStop = false;
 			// 
 			// pictureBox4
 			// 
 			pictureBox4.BackColor = Color.Transparent;
-			pictureBox4.Image = Properties.Resources.info;
+			pictureBox4.Image = Properties.ImageResources.info;
 			resources.ApplyResources(pictureBox4, "pictureBox4");
 			pictureBox4.Name = "pictureBox4";
 			pictureBox4.TabStop = false;
@@ -143,7 +143,7 @@ namespace InfoBeforeStart.Forms
 			resources.ApplyResources(this, "$this");
 			AutoScaleMode = AutoScaleMode.Dpi;
 			BackColor = Color.Black;
-			BackgroundImage = Properties.Resources.bg;
+			BackgroundImage = Properties.ImageResources.background;
 			Controls.Add(label3);
 			Controls.Add(linkLabel3);
 			Controls.Add(label6);
