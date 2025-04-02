@@ -2,7 +2,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net8.0-windows10.0.26100.0</TargetFramework>
-    <RootNamespace>ConfigurationNC</RootNamespace>
+    <RootNamespace>StellaConfiguration</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
@@ -16,13 +16,12 @@
     <Title>$(AssemblyName)</Title>
     <Product>Stella Configuration Window</Product>
     <AssemblyName>Configuration Window</AssemblyName>
-    <StartupObject>ConfigurationNC.Program</StartupObject>
+    <StartupObject>StellaConfiguration.Program</StartupObject>
     <ApplicationIcon>Resources\cat-black_52x52.ico</ApplicationIcon>
     <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
     <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>D:\Projects\stella\SignAssembly\Stella.Configuration.snk</AssemblyOriginatorKeyFile>
-    <Deterministic>false</Deterministic>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

@@ -1,9 +1,9 @@
 using System.Diagnostics;
 using System.Reflection;
-using ConfigurationNC.Properties;
-using ConfigurationNC.Scripts;
+using StellaConfiguration.Properties;
+using StellaConfiguration.Scripts;
 
-namespace ConfigurationNC.Forms;
+namespace StellaConfiguration.Forms;
 
 internal partial class Window : Form
 {

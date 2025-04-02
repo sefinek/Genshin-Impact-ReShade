@@ -1,11 +1,11 @@
 using System.Globalization;
 using System.Reflection;
-using ConfigurationNC.Forms;
-using ConfigurationNC.Properties;
 using NLog;
+using StellaConfiguration.Forms;
+using StellaConfiguration.Properties;
 using StellaUtils;
 
-namespace ConfigurationNC;
+namespace StellaConfiguration;
 
 internal static class Program
 {

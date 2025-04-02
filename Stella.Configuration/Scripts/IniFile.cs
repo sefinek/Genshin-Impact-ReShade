@@ -1,7 +1,7 @@
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace ConfigurationNC.Scripts;
+namespace StellaConfiguration.Scripts;
 
 public class IniFile
 {

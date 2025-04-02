@@ -1,8 +1,8 @@
-using ConfigurationNC.Properties;
 using Microsoft.Win32;
+using StellaConfiguration.Properties;
 using StellaUtils;
 
-namespace ConfigurationNC.Scripts;
+namespace StellaConfiguration.Scripts;
 
 internal static class CheckData
 {

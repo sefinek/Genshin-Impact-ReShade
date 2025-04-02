@@ -1,4 +1,4 @@
-namespace ConfigurationNC.Forms
+namespace StellaConfiguration.Forms
 {
 	sealed partial class Window
     {
