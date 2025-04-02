@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace InfoBeforeStart.Properties {
+namespace StellaConfiguration.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace InfoBeforeStart.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("InfoBeforeStart.Properties.ImageResources", typeof(ImageResources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("StellaConfiguration.Properties.ImageResources", typeof(ImageResources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,16 +61,6 @@ namespace InfoBeforeStart.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
-        /// </summary>
-        internal static System.Drawing.Icon angry_paimon {
-            get {
-                object obj = ResourceManager.GetObject("angry_paimon", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap bg {
@@ -81,42 +71,12 @@ namespace InfoBeforeStart.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
-        internal static System.Drawing.Bitmap paimon_peek {
+        internal static System.Drawing.Icon cat {
             get {
-                object obj = ResourceManager.GetObject("paimon_peek", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap paimon_shock {
-            get {
-                object obj = ResourceManager.GetObject("paimon_shock", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap party_cat {
-            get {
-                object obj = ResourceManager.GetObject("party_cat", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap stella {
-            get {
-                object obj = ResourceManager.GetObject("stella", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
+                object obj = ResourceManager.GetObject("cat", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
             }
         }
     }

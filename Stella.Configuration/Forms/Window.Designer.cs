@@ -162,7 +162,7 @@ namespace StellaConfiguration.Forms
 			// 
 			resources.ApplyResources(this, "$this");
 			AutoScaleMode = AutoScaleMode.Dpi;
-			BackgroundImage = Properties.Resources.bg;
+			BackgroundImage = Properties.ImageResources.bg;
 			Controls.Add(label5);
 			Controls.Add(label4);
 			Controls.Add(checkBox7);

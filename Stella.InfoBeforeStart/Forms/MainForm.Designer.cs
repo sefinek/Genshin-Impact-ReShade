@@ -108,7 +108,7 @@ namespace InfoBeforeStart.Forms
 			// pictureBox4
 			// 
 			pictureBox4.BackColor = Color.Transparent;
-			pictureBox4.Image = Properties.ImageResources.info;
+			pictureBox4.Image = Properties.ImageResources.stella;
 			resources.ApplyResources(pictureBox4, "pictureBox4");
 			pictureBox4.Name = "pictureBox4";
 			pictureBox4.TabStop = false;
@@ -143,7 +143,7 @@ namespace InfoBeforeStart.Forms
 			resources.ApplyResources(this, "$this");
 			AutoScaleMode = AutoScaleMode.Dpi;
 			BackColor = Color.Black;
-			BackgroundImage = Properties.ImageResources.background;
+			BackgroundImage = Properties.ImageResources.bg;
 			Controls.Add(label3);
 			Controls.Add(linkLabel3);
 			Controls.Add(label6);

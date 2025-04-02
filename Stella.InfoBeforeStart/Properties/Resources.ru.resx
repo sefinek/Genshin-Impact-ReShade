@@ -117,20 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="RequiredFile_WasNotFound" xml:space="preserve">
-    <value>Wymagany plik '{0}' nie został znaleziony.
-
-Zainstaluj ponownie tę aplikację lub dołącz na nasz serwer Discord.</value>
+  <data name="ThisInformationWillDisappearIn_" xml:space="preserve">
+    <value>Эта информация исчезнет через {0}...</value>
   </data>
-  <data name="TheStellaResourcesDirWasNotFoundOnYourPC" xml:space="preserve">
-    <value>Katalog zasobów Stella nie został znaleziony na Twoim komputerze, więc nie możesz odznaczyć tego pola wyboru.</value>
+  <data name="Error" xml:space="preserve">
+    <value>Ошибка</value>
   </data>
-  <data name="CheckData_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Przepraszamy, ale coś poszło nie tak. Prosimy o zgłoszenie tego błędu.
-
-{0}</value>
+  <data name="Closing" xml:space="preserve">
+    <value>Закрытие...</value>
   </data>
-  <data name="CheckData_FatalError" xml:space="preserve">
-    <value>Fatalny błąd</value>
+  <data name="ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation" xml:space="preserve">
+    <value>Ознакомьтесь с представленной информацией. Документация открыта в вашем браузере по умолчанию.</value>
   </data>
 </root>

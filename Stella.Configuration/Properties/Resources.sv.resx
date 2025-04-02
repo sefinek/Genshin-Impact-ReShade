@@ -117,13 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
-  <data name="bg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="cat_white_52x52" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\cat-white_52x52.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="RequiredFile_WasNotFound" xml:space="preserve">
     <value>Den nödvändiga filen '{0}' hittades inte.
 Vänligen installera om denna app eller gå med i vår Discord-server.</value>
@@ -132,11 +125,11 @@ Vänligen installera om denna app eller gå med i vår Discord-server.</value>
     <value>Stella-resurskatalogen hittades inte på din dator, så du kan inte avmarkera kryssrutan.</value>
   </data>
   <data name="CheckData_SorryButSomethingWentWrong" xml:space="preserve">
-	  <value>Tyvärr, något gick fel. Vänligen rapportera detta problem.
+    <value>Tyvärr, något gick fel. Vänligen rapportera detta problem.
 
 {0}</value>
   </data>
   <data name="CheckData_FatalError" xml:space="preserve">
-	  <value>Kritiskt fel</value>
+    <value>Kritiskt fel</value>
   </data>
 </root>

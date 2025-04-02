@@ -56,7 +56,7 @@ internal static class Program
 
 		try
 		{
-			Application.Run(new Window { Icon = Resources.cat_white_52x52 });
+			Application.Run(new Window { Icon = ImageResources.cat });
 
 			Logger.Info("Application.Run(): new Window");
 		}

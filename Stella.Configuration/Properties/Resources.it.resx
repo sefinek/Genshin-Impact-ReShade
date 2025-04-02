@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="RequiredFile_WasNotFound" xml:space="preserve">
-    <value>Wymagany plik '{0}' nie został znaleziony.
+    <value>Il file richiesto '{0}' non è stato trovato.
 
-Zainstaluj ponownie tę aplikację lub dołącz na nasz serwer Discord.</value>
+Per favore reinstalla quest'app o unisciti al nostro server Discord.</value>
   </data>
   <data name="TheStellaResourcesDirWasNotFoundOnYourPC" xml:space="preserve">
-    <value>Katalog zasobów Stella nie został znaleziony na Twoim komputerze, więc nie możesz odznaczyć tego pola wyboru.</value>
+    <value>La cartella delle risorse di Stella non è stata trovata nel tuo computer, quindi non puoi deselezionare la casella di spunta.</value>
   </data>
   <data name="CheckData_SorryButSomethingWentWrong" xml:space="preserve">
-    <value>Przepraszamy, ale coś poszło nie tak. Prosimy o zgłoszenie tego błędu.
+    <value>Spiacenti, ma qualcosa è andato storto. Si prega di segnalare questo problema.
 
 {0}</value>
   </data>
   <data name="CheckData_FatalError" xml:space="preserve">
-    <value>Fatalny błąd</value>
+    <value>Errore fatale</value>
   </data>
 </root>
