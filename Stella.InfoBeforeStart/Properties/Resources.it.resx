@@ -117,16 +117,27 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ThisInformationWillDisappearIn_" xml:space="preserve">
-    <value>Questa informazione scomparirà in {0}s...</value>
+  <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
+    <value>Run the official launcher for Genshin Stella Mod.</value>
   </data>
-  <data name="Error" xml:space="preserve">
-    <value>Errore</value>
+  <data name="StellaResources_SelectAFolderForStellaModResources" xml:space="preserve">
+    <value>Select a folder for Stella Mod resources.</value>
   </data>
-  <data name="Closing" xml:space="preserve">
-    <value>Chiusura...</value>
+  <data name="StellaResources_ThatSNotTheRightPlace" xml:space="preserve">
+    <value>That's not the right place.</value>
   </data>
-  <data name="ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation" xml:space="preserve">
-    <value>Prenditi un momento per rivedere i contenuti di quest'informazione. La documentazione è stata aperta nel tuo browser predefinito.</value>
+  <data name="GamePath_PleaseSelectTheGameExe_" xml:space="preserve">
+    <value>Please select the game exe.
+* GenshinImpact.exe for OS version (main)
+* YuanShen.exe for CN (Chinese) version</value>
+  </data>
+  <data name="GamePath_TheSpecifiedLocationDoesNotAppearToBeValid_" xml:space="preserve">
+    <value>The specified location does not appear to be valid.
+
+Selected path:
+{0}</value>
+  </data>
+  <data name="GamePath_PleaseSelectTheCorrectFile" xml:space="preserve">
+    <value>Please select the correct file.</value>
   </data>
 </root>
