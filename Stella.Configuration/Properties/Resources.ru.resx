@@ -120,7 +120,7 @@
   <data name="RequiredFile_WasNotFound" xml:space="preserve">
     <value>Требуемый файл '{0}' не найден.
 
-Попробуйте переустановить приложение или зайдите к нам в Discord-сервер!</value>
+Попробуйте переустановить приложение или зайдите к нам в Discord-сервер.</value>
   </data>
   <data name="TheStellaResourcesDirWasNotFoundOnYourPC" xml:space="preserve">
     <value>Каталог ресурсов Stella не найден на вашем компьютере - снятие флажка невозможно.</value>
