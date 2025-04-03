@@ -128,7 +128,6 @@ namespace InfoBeforeStart.Forms
 			linkLabel3.LinkBehavior = LinkBehavior.HoverUnderline;
 			linkLabel3.LinkColor = Color.Cyan;
 			linkLabel3.Name = "linkLabel3";
-			linkLabel3.TabStop = false;
 			linkLabel3.LinkClicked += ViewDocs_LinkClicked;
 			// 
 			// label3

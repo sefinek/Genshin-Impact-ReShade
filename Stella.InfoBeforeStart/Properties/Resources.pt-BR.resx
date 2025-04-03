@@ -117,27 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
-    <value>Executar o launcher oficial do Stella Mod.</value>
+  <data name="ThisInformationWillDisappearIn_" xml:space="preserve">
+    <value>Essa informação vai desaparecer em {0} segundos...</value>
   </data>
-  <data name="StellaResources_SelectAFolderForStellaModResources" xml:space="preserve">
-    <value>Selecione a pasta para os recursos do Stella Mod.</value>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
   </data>
-  <data name="StellaResources_ThatSNotTheRightPlace" xml:space="preserve">
-    <value>Esse não é o lugar correto.</value>
+  <data name="Closing" xml:space="preserve">
+    <value>Fechando...</value>
   </data>
-  <data name="GamePath_PleaseSelectTheGameExe_" xml:space="preserve">
-    <value>Por favor, selecione o executável do jogo.
-* GenshinImpact.exe para a versão global
-*YuanShen.exe para a versão chinesa</value>
-  </data>
-  <data name="GamePath_TheSpecifiedLocationDoesNotAppearToBeValid_" xml:space="preserve">
-    <value>O local especificado não parece ser valido.
-
-Caminho selecionado:
-{0}</value>
-  </data>
-  <data name="GamePath_PleaseSelectTheCorrectFile" xml:space="preserve">
-    <value>Por favor, selecione o arquivo correto.</value>
+  <data name="ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation" xml:space="preserve">
+    <value>Tire um tempo para revisar essas informações. A documentação foi aberta no seu navegador padrão.</value>
   </data>
 </root>

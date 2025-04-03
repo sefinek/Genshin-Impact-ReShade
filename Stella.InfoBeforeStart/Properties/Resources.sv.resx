@@ -117,29 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
-    <value>Starta den officiella launchern för Genshin Stella Mod.</value>
+  <data name="ThisInformationWillDisappearIn_" xml:space="preserve">
+    <value>Denna information försvinner om {0} sekunder...</value>
   </data>
-  <data name="StellaResources_SelectAFolderForStellaModResources" xml:space="preserve">
-    <value>Välj en mapp för Stella Mod-resurser.</value>
+  <data name="Error" xml:space="preserve">
+    <value>Fel</value>
   </data>
-  <data name="StellaResources_ThatSNotTheRightPlace" xml:space="preserve">
-    <value>Det där är inte rätt plats.</value>
+  <data name="Closing" xml:space="preserve">
+    <value>Stänger...</value>
   </data>
-  <data name="GamePath_PleaseSelectTheGameExe_" xml:space="preserve">
-    <value>Vänligen välj spelets exe-fil.
-
-* GenshinImpact.exe för OS-versionen (huvudversionen)
-
-* YuanShen.exe för CN-versionen (kinesiska versionen)</value>
-  </data>
-  <data name="GamePath_TheSpecifiedLocationDoesNotAppearToBeValid_" xml:space="preserve">
-    <value>Den angivna platsen verkar inte vara giltig.
-
-Vald sökväg:
-{0}</value>
-  </data>
-  <data name="GamePath_PleaseSelectTheCorrectFile" xml:space="preserve">
-    <value>Vänligen välj rätt fil.</value>
+  <data name="ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation" xml:space="preserve">
+    <value>Ta en stund att granska innehållet i denna information. Dokumentationen har öppnats i din standardwebbläsare.</value>
   </data>
 </root>

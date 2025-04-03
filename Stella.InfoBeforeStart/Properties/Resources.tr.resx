@@ -117,27 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Shortcut_RunOfficialLauncherForGenshinStellaMod" xml:space="preserve">
-    <value>Genshin Stella Mod un resmi başlatıcısını başlatın.</value>
+  <data name="ThisInformationWillDisappearIn_" xml:space="preserve">
+    <value>Bu bilgi {0}s içinde kaybolacaktır...</value>
   </data>
-  <data name="StellaResources_SelectAFolderForStellaModResources" xml:space="preserve">
-    <value>Stella Mod kaynakları için bir klasör seçin.</value>
+  <data name="Error" xml:space="preserve">
+    <value>Hata</value>
   </data>
-  <data name="StellaResources_ThatSNotTheRightPlace" xml:space="preserve">
-    <value>Burası uygun bir yer değil.</value>
+  <data name="Closing" xml:space="preserve">
+    <value>Kapatılıyor...</value>
   </data>
-  <data name="GamePath_PleaseSelectTheGameExe_" xml:space="preserve">
-    <value>Lütfen oyun exe'sini seçin.
-* OS sürümü için GenshinImpact.exe (ana)
-CN (Çince) sürümü için * YuanShen.exe</value>
-  </data>
-  <data name="GamePath_TheSpecifiedLocationDoesNotAppearToBeValid_" xml:space="preserve">
-    <value>Belirtilen konum geçerli görünmüyor.
-
-Seçilen yol:
-{0}</value>
-  </data>
-  <data name="GamePath_PleaseSelectTheCorrectFile" xml:space="preserve">
-    <value>Lütfen doğru dosyayı seçin.</value>
+  <data name="ViewDocs_TakeAMomentToReviewTheContentsOfThisInformation" xml:space="preserve">
+    <value>Bu bilgilerin ayrıntılarını gözden geçirmek için bir dakikanızı ayırın. Belgeler varsayılan tarayıcınızda açılmıştır.</value>
   </data>
 </root>
