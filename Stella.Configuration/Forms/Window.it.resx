@@ -253,7 +253,7 @@
     <value>82</value>
   </data>
   <data name="checkBox2.Text" xml:space="preserve">
-    <value>Crea scorciatoia sul desktop e nel Menu Start</value>
+    <value>Crea scorciatoia sul desktop e nel Menu Start *</value>
   </data>
   <data name="&gt;&gt;checkBox2.Name" xml:space="preserve">
     <value>checkBox2</value>
