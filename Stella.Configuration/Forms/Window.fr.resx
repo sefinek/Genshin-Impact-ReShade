@@ -175,7 +175,7 @@
     <value>78</value>
   </data>
   <data name="MadeBySefinek.Text" xml:space="preserve">
-    <value>made by Sefinek</value>
+    <value>Créé par Sefinek</value>
   </data>
   <data name="MadeBySefinek.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleRight</value>
@@ -415,7 +415,7 @@
     <value>87</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Welcome to the configuration window</value>
+    <value>Bienvenue dans la fenêtre de configuration</value>
   </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -448,8 +448,8 @@
     <value>88</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>It seems that this is your first run or you have just successfully updated the program.
-Congratulations! Now let's proceed to complete the final steps. Please select the appropriate fields.</value>
+    <value>Il semble que ce soit votre première exécution ou que vous avez mis à jour le programme avec succès.
+Félicitations ! Maintenant procédons pour compléter les dernières étapes. Veuillez sélectionner les champs appropriés.</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>TopCenter</value>
