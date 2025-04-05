@@ -46,7 +46,7 @@ internal partial class Window : Form
 		else
 		{
 			bool stellaModPlusSubscriber = CheckData.IsAStellaPlusSubscriber();
-			if (stellaModPlusSubscriber)
+			if (stellaModPlusSubscriber && foundResources)
 			{
 				checkBox7.Checked = false;
 				checkBox7.Enabled = false;

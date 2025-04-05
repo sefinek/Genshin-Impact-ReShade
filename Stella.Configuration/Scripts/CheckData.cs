@@ -1,4 +1,5 @@
 using Microsoft.Win32;
+using Newtonsoft.Json.Linq;
 using StellaConfiguration.Properties;
 using StellaUtils;
 
@@ -13,7 +14,11 @@ internal static class CheckData
 
 	public static bool ResourcesPath()
 	{
-		return TryGetRegistryValue("ResourcesPath", out string? data) && Directory.Exists(data);
+		using RegistryKey? key = Registry.CurrentUser.OpenSubKey(Variables.RegistryPath);
+		if (key == null) return false;
+
+		string? path = key.GetValue("ResourcesPath") as string;
+		return !string.IsNullOrEmpty(path) && Directory.Exists(path) && File.Exists(Path.Combine(path, "data.json"));
 	}
 
 	private static bool TryGetRegistryValue(string keyName, out string? value)
