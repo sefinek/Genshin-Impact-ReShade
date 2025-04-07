@@ -81,16 +81,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="sound\meow1.mp3">
+    <None Update="data\sounds\meows\1.mp3">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="sound\meow2.mp3">
+    <None Update="data\sounds\meows\2.mp3">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="sound\meow3.mp3">
+    <None Update="data\sounds\meows\3.mp3">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="sound\meow4.mp3">
+    <None Update="data\sounds\meows\4.mp3">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>

@@ -72,7 +72,7 @@ internal partial class MainForm : Form
 	private async void Meow_Click(object sender, EventArgs e)
 	{
 		Random random = new();
-		string mp3FilePath = Path.Combine(Directory.GetCurrentDirectory(), "sound", $"meow{random.Next(1, 5)}.mp3");
+		string mp3FilePath = Path.Combine(Directory.GetCurrentDirectory(), "data", "sounds", "meows", $"{random.Next(1, 5)}.mp3");
 		if (!File.Exists(mp3FilePath)) return;
 
 		try
