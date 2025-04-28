@@ -1,0 +1,30 @@
+name: Update WinGet Packages
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 3 * * *'
+
+jobs:
+  update:
+    name: Update Genshin Stella Mod
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Packages
+        uses: michidk/winget-updater@v1
+        with:
+          komac-token: ${{ secrets.KOMAC_TOKEN }}
+          identifier: "Sefinek.GenshinStellaMod"
+          repo: "sefinek/Genshin-Impact-ReShade"
+          url: "https://github.com/sefinek/Genshin-Impact-ReShade/releases/download/v{VERSION}/Stella-Mod-Setup_{VERSION}.exe"
+
+  cleanup:
+    name: Cleanup branches
+    needs: update # Not necessarily needed as PRs don't get closed that quick but still nice to have it in order
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Run Komac
+        uses: michidk/run-komac@latest
+        with:
+          args: 'cleanup --only-merged --token=${{ secrets.KOMAC_TOKEN }}'
