@@ -1,5 +1,6 @@
-using System.Diagnostics;
 using System.Reflection;
+using CliWrap;
+using CliWrap.Buffered;
 using StellaConfiguration.Properties;
 using StellaConfiguration.Scripts;
 
@@ -12,6 +13,7 @@ internal partial class Window : Form
 	internal static readonly string AppPath = AppDomain.CurrentDomain.BaseDirectory;
 	private static readonly string AppData = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Genshin Stella Mod");
 
+	private static readonly string Terminal = Path.Combine(AppPath, "data", "dependencies", "windows-terminal", "wt.exe");
 	private static readonly string PrepareCfgPath = Path.Combine(AppData, "prepare-stella.ini");
 	private static IniFile _prepareIni = null!;
 
@@ -121,25 +123,23 @@ internal partial class Window : Form
 		Program.Logger.Info("Saved ini config");
 	}
 
-	private void LetsGo_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+	private async void LetsGo_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
 	{
 		SaveIniData();
 
 		string prepareStellaExe = Path.Combine(AppPath, "Prepare Stella Mod.exe");
-		if (!File.Exists(prepareStellaExe))
-		{
-			Program.Logger.Error($"File {prepareStellaExe} was not found");
-			MessageBox.Show(string.Format(Resources.RequiredFile_WasNotFound, prepareStellaExe), AppName, MessageBoxButtons.OK, MessageBoxIcon.Error);
-			return;
-		}
+		string[] requiredFiles = [prepareStellaExe, Terminal];
+		foreach (string file in requiredFiles)
+			if (!File.Exists(file))
+			{
+				Program.Logger.Error($"File {file} was not found");
+				MessageBox.Show(string.Format(Resources.RequiredFile_WasNotFound, file), AppName, MessageBoxButtons.OK, MessageBoxIcon.Error);
+				return;
+			}
 
-		Process.Start(new ProcessStartInfo
-		{
-			FileName = prepareStellaExe,
-			WorkingDirectory = AppPath,
-			Verb = "runas",
-			UseShellExecute = true
-		});
+		await Cli.Wrap(Terminal)
+			.WithArguments(prepareStellaExe)
+			.ExecuteBufferedAsync();
 
 		Application.Exit();
 	}
