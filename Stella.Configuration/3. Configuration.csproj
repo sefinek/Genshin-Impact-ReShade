@@ -37,6 +37,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="CliWrap" Version="3.8.2" />
     <PackageReference Include="NLog" Version="5.4.0" />
   </ItemGroup>
 
