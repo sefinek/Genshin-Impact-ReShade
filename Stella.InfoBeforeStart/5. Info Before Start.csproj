@@ -12,7 +12,7 @@
     <Product>Stella Mod Information</Product>
     <Copyright>© 2022–2025 Sefinek. All rights reserved.</Copyright>
     <NeutralLanguage>en</NeutralLanguage>
-    <AssemblyName>InfoBeforeStart</AssemblyName>
+    <AssemblyName>Info Before Start</AssemblyName>
     <RootNamespace>InfoBeforeStart</RootNamespace>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
     <ApplicationIcon>Resources\angry-paimon.ico</ApplicationIcon>
