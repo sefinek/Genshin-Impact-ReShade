@@ -10,9 +10,9 @@
     path = Stella.Prepare
     url = https://github.com/sefinek/Stella-Mod-Prepare.git
 
-[submodule "Stella-Mod-Telemetry"]
-	path = Stella.Telemetry
-	url = https://github.com/sefinek/Stella-Mod-Telemetry.git
+[submodule "Stella-Mod-StartupBeacon"]
+	path = Stella.StartupBeacon
+	url = https://github.com/sefinek/Stella-Mod-StartupBeacon.git
 
 [submodule "Stella-Mod-Scripts"]
 	path = Stella.Scripts
