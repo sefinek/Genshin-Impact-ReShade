@@ -7,8 +7,8 @@
     <mapping directory="$PROJECT_DIR$/Stella.DeviceIdentifier" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Stella.Launcher" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Stella.Prepare" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Stella.Scripts" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Stella.Telemetry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stella.StartupBeacon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Stella.Utils" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Stella.Worker" vcs="Git" />
   </component>
 </project>
