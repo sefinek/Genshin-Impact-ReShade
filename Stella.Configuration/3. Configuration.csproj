@@ -42,7 +42,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Stella.Utils\Utils.csproj" />
+    <ProjectReference Include="..\Stella.Utils\Stella.Utils.csproj" />
   </ItemGroup>
 
   <ItemGroup>

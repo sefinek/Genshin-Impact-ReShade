@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Stella Mod Launcher", "Stella.Launcher\1. Stella Mod Launcher.csproj", "{B3221007-7FE1-48B7-9FFC-5F3FC9A78170}"
 EndProject
@@ -15,9 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Info Before Start", "Ste
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Device Identifier", "Stella.DeviceIdentifier\6. Device Identifier.csproj", "{0342DB1D-9DF9-4D0B-95E1-748A7FFB1335}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Utils", "Stella.Utils\Utils.csproj", "{71CA6589-B194-4698-BDC4-0CFD421CA159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Utils", "Stella.Utils\Stella.Utils.csproj", "{71CA6589-B194-4698-BDC4-0CFD421CA159}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.StartupBeacon", "Stella.StartupBeacon\Startup Beacon.csproj", "{32DA3988-3857-44D0-A9C7-CCF3822CA49E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Startup Beacon", "Stella.StartupBeacon\Startup Beacon.csproj", "{32DA3988-3857-44D0-A9C7-CCF3822CA49E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Build", "Stella.Build\Stella.Build.csproj", "{816A792E-E9C9-4FA0-AA0A-8502F65A0F9D}"
 EndProject
@@ -242,7 +242,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {63AF8DD0-0BB6-4174-89B3-9A3B63D4465E}
 		RESX_NeutralResourcesLanguage = en-US
+		SolutionGuid = {63AF8DD0-0BB6-4174-89B3-9A3B63D4465E}
 	EndGlobalSection
 EndGlobal
