@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Device Identifier", "Ste
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Utils", "Stella.Utils\Stella.Utils.csproj", "{71CA6589-B194-4698-BDC4-0CFD421CA159}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Startup Beacon", "Stella.StartupBeacon\Startup Beacon.csproj", "{32DA3988-3857-44D0-A9C7-CCF3822CA49E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Beacon", "Stella.StartupBeacon\Stella.Beacon.csproj", "{32DA3988-3857-44D0-A9C7-CCF3822CA49E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Build", "Stella.Build\Stella.Build.csproj", "{816A792E-E9C9-4FA0-AA0A-8502F65A0F9D}"
 EndProject
@@ -242,7 +242,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		RESX_NeutralResourcesLanguage = en-US
 		SolutionGuid = {63AF8DD0-0BB6-4174-89B3-9A3B63D4465E}
+		RESX_NeutralResourcesLanguage = en-US
 	EndGlobalSection
 EndGlobal
