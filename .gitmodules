@@ -14,9 +14,9 @@
 	path = Stella.StartupBeacon
 	url = https://github.com/sefinek/Stella-Mod-StartupBeacon.git
 
-[submodule "Stella-Mod-Scripts"]
-	path = Stella.Scripts
-	url = https://github.com/sefinek/Stella-Mod-Scripts.git
+[submodule "Stella-Mod-Utils"]
+	path = Stella.Utils
+	url = https://github.com/sefinek/Stella-Mod-Utils.git
 
 [submodule "Stella-Mod-DeviceIdentifier"]
 	path = Stella.DeviceIdentifier
