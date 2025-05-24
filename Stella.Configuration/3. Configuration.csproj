@@ -43,7 +43,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Stella.Scripts\7. Utils.csproj" />
-    <ProjectReference Include="..\Stella.Telemetry\8. Telemetry.csproj" />
+    <ProjectReference Include="..\Stella.StartupBeacon\8. Telemetry.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -48,8 +48,8 @@ Stella.Scripts/bin
 Stella.Scripts/obj
 
 ## Stella Telemetry
-Stella.Telemetry/bin
-Stella.Telemetry/obj
+Stella.StartupBeacon/bin
+Stella.StartupBeacon/obj
 
 ## Genshin test file
 Test.Genshin/bin

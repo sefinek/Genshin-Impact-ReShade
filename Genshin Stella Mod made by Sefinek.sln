@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Device Identifier", "Ste
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Utils", "Stella.Scripts\7. Utils.csproj", "{71CA6589-B194-4698-BDC4-0CFD421CA159}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. Telemetry", "Stella.Telemetry\8. Telemetry.csproj", "{32DA3988-3857-44D0-A9C7-CCF3822CA49E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. StartupBeacon", "Stella.StartupBeacon\8. Startup Beacon.csproj", "{32DA3988-3857-44D0-A9C7-CCF3822CA49E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Build", "Stella.Build\Stella.Build.csproj", "{816A792E-E9C9-4FA0-AA0A-8502F65A0F9D}"
 EndProject
