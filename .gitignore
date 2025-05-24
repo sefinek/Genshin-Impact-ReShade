@@ -36,28 +36,16 @@ Stella.InfoBeforeStart/bin
 Stella.InfoBeforeStart/obj
 
 ## Device Identifier
-Stella.DeviceIdentifier/bin
-Stella.DeviceIdentifier/obj
+Stella.DeviceIdentifier
 
-## Sefin Anti Cheat
-Stella.SefinAntiCheat/bin
-Stella.SefinAntiCheat/obj
+## Stella Utils
+Stella.Utils
 
-## Stella ClassLibrary
-Stella.Scripts/bin
-Stella.Scripts/obj
-
-## Stella Telemetry
-Stella.StartupBeacon/bin
-Stella.StartupBeacon/obj
+## Stella Startup Beacon
+Stella.StartupBeacon
 
 ## Genshin test file
-Test.Genshin/bin
-Test.Genshin/obj
-
-## Win App Packaging Project
-WinAppPackagingProject
+Test.Genshin
 
 ## Build project
-Stella.Build/bin
-Stella.Build/obj
+Stella.Build
