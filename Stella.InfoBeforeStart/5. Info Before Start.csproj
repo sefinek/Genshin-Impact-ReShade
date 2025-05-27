@@ -24,6 +24,8 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
     <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
     <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+	 <SignAssembly>true</SignAssembly>
+	 <AssemblyOriginatorKeyFile>..\Stella.StartupBeacon\stella.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
