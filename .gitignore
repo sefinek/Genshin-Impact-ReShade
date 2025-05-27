@@ -4,6 +4,7 @@
 *.bin
 *.user
 *.csproj.user
+Stella.StartupBeacon/stella.snk
 shelf
 httpRequests
 workspace.xml
