@@ -6,7 +6,9 @@ root = true
 charset = utf-8
 indent_style = tab
 indent_size = 4
+tab_width = 4
 trim_trailing_whitespace = true
+insert_final_newline = true
 
 # Microsoft .NET properties
 csharp_new_line_before_members_in_object_initializers = false
@@ -15,6 +17,16 @@ csharp_style_prefer_utf8_string_literals = true:suggestion
 csharp_style_var_elsewhere = false
 csharp_style_var_for_built_in_types = true
 csharp_style_var_when_type_is_apparent = true
+dotnet_naming_rule.private_instance_fields_rule_1.import_to_resharper = True
+dotnet_naming_rule.private_instance_fields_rule_1.resharper_description = Instance fields (private)
+dotnet_naming_rule.private_instance_fields_rule_1.resharper_guid = 4a98fdf6-7d98-4f5a-afeb-ea44ad98c70c
+dotnet_naming_rule.private_instance_fields_rule_1.severity = warning
+dotnet_naming_rule.private_instance_fields_rule_1.style = lower_camel_case_style
+dotnet_naming_rule.private_instance_fields_rule_1.symbols = private_instance_fields_symbols_1
+dotnet_naming_symbols.private_instance_fields_symbols_1.applicable_accessibilities = private
+dotnet_naming_symbols.private_instance_fields_symbols_1.applicable_kinds = field
+dotnet_naming_symbols.private_instance_fields_symbols_1.resharper_applicable_kinds = field,readonly_field
+dotnet_naming_symbols.private_instance_fields_symbols_1.resharper_required_modifiers = instance
 
 dotnet_style_parentheses_in_arithmetic_binary_operators = never_if_unnecessary:none
 dotnet_style_parentheses_in_other_binary_operators = always_for_clarity:none
@@ -116,6 +128,7 @@ resharper_arrange_redundant_parentheses_highlighting = hint
 resharper_arrange_this_qualifier_highlighting = hint
 resharper_arrange_type_member_modifiers_highlighting = hint
 resharper_arrange_type_modifiers_highlighting = hint
+resharper_async_void_method_highlighting = none
 resharper_built_in_type_reference_style_for_member_access_highlighting = hint
 resharper_built_in_type_reference_style_highlighting = hint
 resharper_localizable_element_highlighting = none
@@ -123,6 +136,15 @@ resharper_redundant_base_qualifier_highlighting = warning
 resharper_suggest_var_or_type_built_in_types_highlighting = hint
 resharper_suggest_var_or_type_elsewhere_highlighting = hint
 resharper_suggest_var_or_type_simple_types_highlighting = hint
+
+# ReSharper properties
+resharper_csharp_wrap_lines = false
+resharper_html_wrap_lines = false
+resharper_vb_wrap_lines = false
+resharper_xmldoc_wrap_lines = false
+resharper_xml_blank_line_after_pi = false
+resharper_xml_wrap_lines = false
+resharper_xmldoc_blank_line_after_pi = false
 
 # C# file rules
 [*.cs]
@@ -163,25 +185,3 @@ resharper_suggest_var_or_type_simple_types_highlighting = hint
 # Shell
 [*.sh]
 end_of_line = lf
-
-# Web & markup
-[*.{asax,ascx,aspx,cshtml,htm,html,master,razor,skin}]
-indent_style = tab
-indent_size = tab
-tab_width = 4
-
-# XAML & similar
-[*.{axaml,cs,paml,vb,xaml,xamlx,xoml}]
-indent_style = tab
-indent_size = 4
-tab_width = 4
-
-# Project & config files
-[*.{appxmanifest,axml,build,config,csproj,dbml,discomap,dtd,jsproj,lsproj,njsproj,nuspec,proj,props,resw,resx,StyleCop,targets,tasks,vbproj,xml,xsd}]
-indent_style = tab
-indent_size = 2
-tab_width = 2
-
-[*.xml]
-insert_final_newline = false
-trim_trailing_whitespace = false

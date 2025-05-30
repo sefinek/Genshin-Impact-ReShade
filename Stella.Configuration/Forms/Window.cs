@@ -39,7 +39,7 @@ internal partial class Window : Form
 		checkBox3.Checked = _prepareIni.ReadInt("PrepareStella", "InternetShortcutsInStartMenu", 1) != 0;
 
 		// Resources
-		bool foundResources = CheckData.ResourcesPath();
+		var foundResources = CheckData.ResourcesPath();
 		if (!foundResources)
 		{
 			checkBox7.Checked = true;
@@ -47,7 +47,7 @@ internal partial class Window : Form
 		}
 		else
 		{
-			bool stellaModPlusSubscriber = CheckData.IsAStellaPlusSubscriber();
+			var stellaModPlusSubscriber = CheckData.IsAStellaPlusSubscriber();
 			if (stellaModPlusSubscriber && foundResources)
 			{
 				checkBox7.Checked = false;
@@ -83,7 +83,7 @@ internal partial class Window : Form
 
 	private void DownloadOrUpdateShaders(object sender, EventArgs e)
 	{
-		bool foundResources = CheckData.ResourcesPath();
+		var foundResources = CheckData.ResourcesPath();
 		if (!foundResources && !checkBox7.Checked)
 		{
 			checkBox7.Checked = true;
@@ -127,9 +127,9 @@ internal partial class Window : Form
 	{
 		SaveIniData();
 
-		string prepareStellaExe = Path.Combine(AppPath, "Prepare Stella Mod.exe");
+		var prepareStellaExe = Path.Combine(AppPath, "Prepare Stella Mod.exe");
 		string[] requiredFiles = [prepareStellaExe, Terminal];
-		foreach (string file in requiredFiles)
+		foreach (var file in requiredFiles)
 			if (!File.Exists(file))
 			{
 				Program.Logger.Error($"File {file} was not found");

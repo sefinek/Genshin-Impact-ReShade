@@ -11,8 +11,8 @@ internal partial class MainForm : Form
 
 	private void Form_Load(object? sender, EventArgs e)
 	{
-		int screenWidth = Screen.PrimaryScreen!.WorkingArea.Width;
-		int screenHeight = Screen.PrimaryScreen.WorkingArea.Height;
+		var screenWidth = Screen.PrimaryScreen!.WorkingArea.Width;
+		var screenHeight = Screen.PrimaryScreen.WorkingArea.Height;
 
 		Left = screenWidth - Width;
 		Top = screenHeight - Height;

@@ -22,11 +22,11 @@ internal static class Program
 		Logger = LogManagerHelper.GetLogger();
 
 		// Set the correct language
-		string currentLang = Settings.ReadString("Language", "UI");
+		var currentLang = Settings.ReadString("Language", "UI");
 		Logger.Info($"Loaded language from settings: {currentLang}");
 		if (!Variables.SupportedLangs.Contains(currentLang))
 		{
-			string sysLang = CultureInfo.InstalledUICulture.TwoLetterISOLanguageName;
+			var sysLang = CultureInfo.InstalledUICulture.TwoLetterISOLanguageName;
 			currentLang = Array.Find(Variables.SupportedLangs, lang => lang == sysLang) ?? "en";
 			Logger.Info($"System language detected: {sysLang}. Using: {currentLang}");
 			Settings.WriteString("Language", "UI", currentLang);
