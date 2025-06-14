@@ -11,7 +11,8 @@
     <br>
     <a href="https://github.com/sefinek/Genshin-Impact-ReShade" title="Repository size"><img src="https://img.shields.io/github/repo-size/sefinek/Genshin-Impact-ReShade?label=Repo%20size" alt="Repo size"></a>
     <a href="https://github.com/sefinek/Genshin-Impact-ReShade/commits/main" title="Commit activity"><img src="https://img.shields.io/github/commit-activity/w/sefinek/Genshin-Impact-ReShade?label=Commit%20activity" alt="Commit activity"></a>
-    <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://img.shields.io/discord/1044713077125435492?label=Discord%20server" alt="Our Discord server"></a>
+    <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://img.shields.io/discord/1044713077125435492?label=Discord" alt="Our Discord server"></a>
+    <a href="https://crowdin.com/project/genshin-stella-mod" title="Help translate on Crowdin"><img src="https://badges.crowdin.net/genshin-stella-mod/localized.svg" alt="Crowdin translation status"></a>
     <h3>
         For a safer and enhanced experience with mods, consider subscribing to <a href="https://sefinek.net/genshin-stella-mod/subscription?referrer=github_readme" title="Subscription: Unlock more benefits - Genshin Stella Mod">Stella Mod Plus</a>.<br>
         ⭐ » If you like this project, star the repository. Have a great day or night! « ⭐
@@ -51,9 +52,6 @@
   </a>
   <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server">
     <img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Discord" height="138">
-  </a>
-  <a href="https://crowdin.com/project/genshin-stella-mod" title="Help translate on Crowdin">
-    <img src="https://badges.crowdin.net/genshin-stella-mod/localized.svg" alt="Crowdin translation status">
   </a>
 </div>
 
