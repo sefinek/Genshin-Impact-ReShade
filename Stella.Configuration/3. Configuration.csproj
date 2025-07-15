@@ -41,7 +41,6 @@
   <ItemGroup>
     <PackageReference Include="CliWrap" Version="3.9.0" />
     <PackageReference Include="NLog" Version="6.0.1" />
-    <PackageReference Include="NLog.Targets.GZipFile" Version="6.0.1" />
   </ItemGroup>
 
   <ItemGroup>
