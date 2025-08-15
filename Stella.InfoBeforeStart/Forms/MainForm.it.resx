@@ -172,7 +172,7 @@
     <value>1</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>Il gioco verrà avviato presto. Per favore usa il software Stella mod in modo responsabile e in stretto accordo con le sue linee guida sull'utilizzo.
+    <value>Il gioco verrà avviato a breve. Per favore usa il software Stella mod in modo responsabile e in stretto accordo con le sue linee guida sull'utilizzo.
 Rispetta l'integrità del gioco e le policies di HoYoverse. Ogni azione che intende danneggiare il gioco verrà segnalata a HoYoverse.
 
 I principi chiave includono: non usare cheats, non causare danni, e non compiere attività illegali.
@@ -438,7 +438,7 @@ Seguendo queste regole, puoi utilizzare la Stella Mod in modo sicuro. Buon diver
     <value>13</value>
   </data>
   <data name="linkLabel3.Text" xml:space="preserve">
-    <value>Clicca qui per vedere la documentazione ed esplorare più informazioni dettagliate &gt;&gt;</value>
+    <value>Clicca qui per visualizzare la documentazione e ottenere informazioni più dettagliate &gt;&gt;</value>
   </data>
   <data name="linkLabel3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -474,7 +474,7 @@ Seguendo queste regole, puoi utilizzare la Stella Mod in modo sicuro. Buon diver
     <value>14</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>Copyright 2023-2025 © by Sefinek. All Rights Reserved.</value>
+    <value>Copyright 2023-2025 © di Sefinek. Tutti i diritti riservati.</value>
   </data>
   <data name="label3.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
