@@ -1,85 +1,87 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-  <PropertyGroup>
-    <OutputType>WinExe</OutputType>
-    <TargetFramework>net8.0-windows10.0.26100.0</TargetFramework>
-    <RootNamespace>StellaConfiguration</RootNamespace>
-    <Nullable>enable</Nullable>
-    <UseWindowsForms>true</UseWindowsForms>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
-    <PlatformTarget>AnyCPU</PlatformTarget>
-    <BaseOutputPath>..\Build\</BaseOutputPath>
-    <NeutralLanguage>en</NeutralLanguage>
-    <Copyright>© 2022–2025 Sefinek. All rights reserved.</Copyright>
-    <Company>Sefinek Inc.</Company>
-    <Version>2.0.4.0</Version>
-    <Title>$(AssemblyName)</Title>
-    <Product>Stella Configuration Window</Product>
-    <AssemblyName>Configuration Window</AssemblyName>
-    <StartupObject>StellaConfiguration.Program</StartupObject>
-    <ApplicationIcon>Resources\cat-black_52x52.ico</ApplicationIcon>
-    <SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
-    <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
-	 <SignAssembly>true</SignAssembly>
-	 <AssemblyOriginatorKeyFile>..\Stella.StartupBeacon\stella.snk</AssemblyOriginatorKeyFile>
-  </PropertyGroup>
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net9.0-windows10.0.26100.0</TargetFramework>
+		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
+		<RootNamespace>StellaConfiguration</RootNamespace>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+		<BaseOutputPath>..\Build\</BaseOutputPath>
+		<NeutralLanguage>en</NeutralLanguage>
+		<Copyright>© 2022–2025 Sefinek. All rights reserved.</Copyright>
+		<Company>Sefinek Inc.</Company>
+		<Version>2.0.4.0</Version>
+		<Title>$(AssemblyName)</Title>
+		<Product>Stella Configuration Window</Product>
+		<AssemblyName>Configuration Window</AssemblyName>
+		<StartupObject>StellaConfiguration.Program</StartupObject>
+		<ApplicationIcon>Resources\cat-black_52x52.ico</ApplicationIcon>
+		<SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+		<ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+		<SignAssembly>true</SignAssembly>
+		<AssemblyOriginatorKeyFile>..\Stella.StartupBeacon\stella.snk</AssemblyOriginatorKeyFile>
+		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	</PropertyGroup>
 
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <IsPublishable>False</IsPublishable>
-    <DebugType>none</DebugType>
-  </PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<IsPublishable>False</IsPublishable>
+		<DebugType>none</DebugType>
+	</PropertyGroup>
 
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-    <IsPublishable>False</IsPublishable>
-    <DebugType>none</DebugType>
-  </PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<IsPublishable>False</IsPublishable>
+		<DebugType>none</DebugType>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <Content Include="Resources\cat-black_52x52.ico" />
-  </ItemGroup>
+	<ItemGroup>
+		<Content Include="Resources\cat-black_52x52.ico" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="CliWrap" Version="3.9.0" />
-    <PackageReference Include="NLog" Version="6.0.3" />
-  </ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="CliWrap" Version="3.9.0" />
+		<PackageReference Include="NLog" Version="6.0.3" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Stella.Utils\Stella.Utils.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Stella.Utils\Stella.Utils.csproj" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <Compile Update="Forms\Window.cs" />
-    <Compile Update="Properties\ImageResources.Designer.cs">
-      <DependentUpon>ImageResources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-    </Compile>
-    <Compile Update="Properties\Resources.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
-  </ItemGroup>
+	<ItemGroup>
+		<Compile Update="Forms\Window.cs" />
+		<Compile Update="Properties\ImageResources.Designer.cs">
+			<DependentUpon>ImageResources.resx</DependentUpon>
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+		</Compile>
+		<Compile Update="Properties\Resources.Designer.cs">
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>Resources.resx</DependentUpon>
+		</Compile>
+	</ItemGroup>
 
-  <ItemGroup>
-    <EmbeddedResource Update="Properties\ImageResources.resx">
-      <LastGenOutput>ImageResources.Designer.cs</LastGenOutput>
-      <Generator>ResXFileCodeGenerator</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-  </ItemGroup>
+	<ItemGroup>
+		<EmbeddedResource Update="Properties\ImageResources.resx">
+			<LastGenOutput>ImageResources.Designer.cs</LastGenOutput>
+			<Generator>ResXFileCodeGenerator</Generator>
+		</EmbeddedResource>
+		<EmbeddedResource Update="Properties\Resources.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
+		</EmbeddedResource>
+	</ItemGroup>
 
-  <ItemGroup>
-    <None Update="Resources\cat-original-black.png">
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
-    </None>
-    <None Update="Resources\cat.ico">
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
-    </None>
-  </ItemGroup>
+	<ItemGroup>
+		<None Update="Resources\cat-original-black.png">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>
+		<None Update="Resources\cat.ico">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>
+	</ItemGroup>
 </Project>
