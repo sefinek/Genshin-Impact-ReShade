@@ -30,6 +30,3 @@
 	path = InnoSetup
 	url = https://github.com/sefinek/Stella-Mod-InnoSetup.git
 
-[submodule "Stella-DiscordRPC"]
-	path = Stella.DiscordRPC
-	url = https://github.com/sefinek/discord-rpc-csharp
