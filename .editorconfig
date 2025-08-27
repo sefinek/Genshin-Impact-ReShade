@@ -12,7 +12,7 @@ insert_final_newline = true
 
 # Microsoft .NET properties
 csharp_new_line_before_members_in_object_initializers = false
-csharp_preferred_modifier_order = public, private, protected, internal, file, new, static, abstract, virtual, sealed, readonly, override, extern, unsafe, volatile, async, required:suggestion
+csharp_preferred_modifier_order = public, private, protected, internal, file, new, static, abstract, virtual, sealed, readonly, override, extern, unsafe, volatile, async, required:none
 csharp_style_prefer_utf8_string_literals = true:suggestion
 csharp_style_var_elsewhere = false
 csharp_style_var_for_built_in_types = true
@@ -139,12 +139,17 @@ resharper_suggest_var_or_type_simple_types_highlighting = hint
 
 # ReSharper properties
 resharper_csharp_wrap_lines = false
+resharper_enforce_line_ending_style = true
 resharper_html_wrap_lines = false
+resharper_use_indent_from_vs = false
 resharper_vb_wrap_lines = false
 resharper_xmldoc_wrap_lines = false
 resharper_xml_blank_line_after_pi = false
 resharper_xml_wrap_lines = false
 resharper_xmldoc_blank_line_after_pi = false
+
+# Standard properties
+end_of_line = crlf
 
 # C# file rules
 [*.cs]
@@ -168,6 +173,24 @@ dotnet_style_qualification_for_field = false
 dotnet_style_qualification_for_method = false
 dotnet_style_qualification_for_property = false
 dotnet_style_require_accessibility_modifiers = for_non_interface_members
+resharper_apply_file_layout = false
+resharper_sort_type_members = false
+resharper_arrange_type_member_modifiers_highlighting = none
+resharper_arrange_type_modifiers_highlighting = none
+resharper_blank_lines_around_field = 0
+resharper_blank_lines_around_property = 0
+resharper_blank_lines_around_auto_property = 0
+resharper_blank_lines_around_single_line_field = 0
+resharper_blank_lines_around_single_line_property = 0
+resharper_blank_lines_around_single_line_auto_property = 0
+resharper_keep_blank_lines_in_code = 1
+resharper_keep_blank_lines_in_declarations = 1
+resharper_remove_blank_lines_near_braces_in_code = false
+resharper_remove_blank_lines_near_braces_in_declarations = false
+resharper_blank_lines_between_using_groups = 0
+resharper_blank_lines_after_using_list = 1
+resharper_blank_lines_around_type = 1
+resharper_blank_lines_inside_type = 0
 
 # ReSharper C# inspection severities
 [*.cs]
@@ -185,3 +208,8 @@ resharper_suggest_var_or_type_simple_types_highlighting = hint
 # Shell
 [*.sh]
 end_of_line = lf
+
+[*.{appxmanifest,asax,ascx,aspx,axaml,axml,config,cql,cs,cshtml,csproj,dbml,discomap,dtd,htm,html,jsproj,lsproj,master,njsproj,nuspec,paml,proj,props,razor,resw,resx,skin,sql,StyleCop,targets,tasks,vb,vbproj,xaml,xamlx,xml,xoml,xsd}]
+indent_style = tab
+indent_size = tab
+tab_width = 4
