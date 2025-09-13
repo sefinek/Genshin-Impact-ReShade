@@ -1,0 +1,20 @@
+* text eol=crlf
+
+# Use CRLF
+*.cs text eol=crlf
+*.csproj text eol=crlf
+*.sln text eol=crlf
+*.resx text eol=crlf
+*.xml text eol=crlf
+*.config text eol=crlf
+*.json text eol=crlf
+*.md text eol=crlf
+*.txt text eol=crlf
+
+# Binary files should not be modified
+*.dll binary
+*.exe binary
+*.png binary
+*.jpg binary
+*.ico binary
+*.gif binary
