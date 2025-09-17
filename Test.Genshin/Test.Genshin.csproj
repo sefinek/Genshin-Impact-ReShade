@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net9.0-windows10.0.26100.0</TargetFramework>
+		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
+		<RootNamespace>GenshinTest</RootNamespace>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<AssemblyName>GenshinImpact</AssemblyName>
+		<StartupObject>GenshinTest.Program</StartupObject>
+		<BaseOutputPath>..\Build</BaseOutputPath>
+		<Company>Sefinek Inc.</Company>
+		<Copyright>© 2022–2025 Sefinek. Licensed under MIT</Copyright>
+		<NeutralLanguage>en</NeutralLanguage>
+		<SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+		<ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+		<Title>$(AssemblyName)</Title>
+		<Description>Genshin Impact Stella Test Application</Description>
+		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<IsPublishable>False</IsPublishable>
+		<DebugType>none</DebugType>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<IsPublishable>False</IsPublishable>
+		<DebugType>none</DebugType>
+	</PropertyGroup>
+</Project>

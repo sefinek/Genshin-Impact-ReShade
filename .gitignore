@@ -28,24 +28,10 @@ InnoSetup/Output
 Stella.Configuration/bin
 Stella.Configuration/obj
 
-## Prepare Stella Mod
-Stella.Prepare/bin
-Stella.Prepare/obj
-
 ## Info Before Start
-Stella.StartupBeacon/bin
-Stella.StartupBeacon/obj
-
-## Device Identifier
-Stella.DeviceIdentifier
-
-## Stella Utils
-Stella.Utils
-
-## Stella Startup Beacon
-Stella.StartupBeacon
+Stella.Welcome/bin
+Stella.Welcome/obj
 
 ## Genshin test file
-Test.Genshin
-
-## Build project
+Test.Genshin/bin
+Test.Genshin/obj
