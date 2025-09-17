@@ -13,9 +13,9 @@
     url = https://github.com/sefinek/Stella.Prepare.git
     branch = main
 
-[submodule "Stella.Welcome"]
-	path = Stella.Welcome
-	url = https://github.com/sefinek/Stella.Welcome.git
+[submodule "Stella.StartupBeacon"]
+	path = Stella.StartupBeacon
+	url = https://github.com/sefinek/Stella.StartupBeacon.git
 	branch = main
 
 [submodule "Stella.Utils"]
