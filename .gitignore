@@ -33,8 +33,8 @@ Stella.Prepare/bin
 Stella.Prepare/obj
 
 ## Info Before Start
-Stella.InfoBeforeStart/bin
-Stella.InfoBeforeStart/obj
+Stella.Welcome/bin
+Stella.Welcome/obj
 
 ## Device Identifier
 Stella.DeviceIdentifier
@@ -49,4 +49,4 @@ Stella.StartupBeacon
 Test.Genshin
 
 ## Build project
-Stella.Build
+Stella.Builder

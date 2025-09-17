@@ -5,13 +5,13 @@ VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Stella Mod Launcher", "Stella.Launcher\1. Stella Mod Launcher.csproj", "{B3221007-7FE1-48B7-9FFC-5F3FC9A78170}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Genshin Stella Mod", "Stella.Worker\2. Genshin Stella Mod.csproj", "{AA6AF66A-8569-40DF-A751-A8209CA254DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Genshin Stella Mod", "Stella.Core\2. Genshin Stella Mod.csproj", "{AA6AF66A-8569-40DF-A751-A8209CA254DE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Configuration", "Stella.Configuration\3. Configuration.csproj", "{47D8C976-0482-4A63-B0EC-9733961ECC0C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Prepare Stella", "Stella.Prepare\4. Prepare Stella.csproj", "{29D53164-1AF9-47FF-B441-AF15147F0CCB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Info Before Start", "Stella.InfoBeforeStart\5. Info Before Start.csproj", "{5A9340FA-7E3B-433D-9E37-88D86C48B975}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Info Before Start", "Stella.Welcome\5. Info Before Start.csproj", "{5A9340FA-7E3B-433D-9E37-88D86C48B975}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Device Identifier", "Stella.DeviceIdentifier\6. Device Identifier.csproj", "{0342DB1D-9DF9-4D0B-95E1-748A7FFB1335}"
 EndProject
@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Utils", "Stella.Util
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Beacon", "Stella.StartupBeacon\Stella.Beacon.csproj", "{32DA3988-3857-44D0-A9C7-CCF3822CA49E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Build", "Stella.Build\Stella.Build.csproj", "{816A792E-E9C9-4FA0-AA0A-8502F65A0F9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Builder", "Stella.Builder\Stella.Builder.csproj", "{816A792E-E9C9-4FA0-AA0A-8502F65A0F9D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.Genshin", "Test.Genshin\Test.Genshin.csproj", "{53CB19ED-DA08-4CF4-B376-7B26132201BE}"
 EndProject

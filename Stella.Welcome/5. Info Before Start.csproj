@@ -11,7 +11,7 @@
 		<GenerateDocumentationFile>False</GenerateDocumentationFile>
 		<Company>Sefinek Inc.</Company>
 		<Product>Stella Mod Information</Product>
-		<Copyright>© 2022–2025 Sefinek. Licensed under CC BY-NC-SA 4.0</Copyright>
+		<Copyright>© 2022–2025 Sefinek. Licensed under MIT</Copyright>
 		<NeutralLanguage>en</NeutralLanguage>
 		<AssemblyName>Info Before Start</AssemblyName>
 		<RootNamespace>InfoBeforeStart</RootNamespace>
