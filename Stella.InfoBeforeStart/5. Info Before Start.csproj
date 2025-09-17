@@ -41,10 +41,6 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<Content Include="Resources\angry-paimon.ico" />
-	</ItemGroup>
-
-	<ItemGroup>
 		<None Include="..\LICENSE">
 			<Pack>True</Pack>
 			<PackagePath>\</PackagePath>
