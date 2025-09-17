@@ -11,7 +11,7 @@
 		<StartupObject>GenshinTest.Program</StartupObject>
 		<BaseOutputPath>..\Build</BaseOutputPath>
 		<Company>Sefinek Inc.</Company>
-		<Copyright>© 2022–2025 Sefinek. All rights reserved.</Copyright>
+		<Copyright>© 2022–2025 Sefinek. Licensed under MIT</Copyright>
 		<NeutralLanguage>en</NeutralLanguage>
 		<SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
 		<ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
