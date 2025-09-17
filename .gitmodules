@@ -1,16 +1,16 @@
-[submodule "Stella-Mod-Launcher"]
+[submodule "Stella.Launcher"]
 	path = Stella.Launcher
-	url = https://github.com/sefinek/Stella-Mod-Launcher.git
+	url = https://github.com/sefinek/Stella.Launcher.git
     branch = main
 
-[submodule "Genshin-Stella-Mod"]
+[submodule "Stella.Core"]
 	path = Stella.Core
-	url = https://github.com/sefinek/Genshin-Stella-Mod.git
+	url = https://github.com/sefinek/Stella.Core.git
 	branch = main
 
-[submodule "Stella-Mod-Prepare"]
+[submodule "Stella.Prepare"]
     path = Stella.Prepare
-    url = https://github.com/sefinek/Stella-Mod-Prepare.git
+    url = https://github.com/sefinek/Stella.Prepare.git
     branch = main
 
 [submodule "Stella.Welcome"]
@@ -18,22 +18,22 @@
 	url = https://github.com/sefinek/Stella.Welcome.git
 	branch = main
 
-[submodule "Stella-Mod-Utils"]
+[submodule "Stella.Utils"]
 	path = Stella.Utils
-	url = https://github.com/sefinek/Stella-Mod-Utils.git
+	url = https://github.com/sefinek/Stella.Utils.git
 	branch = main
 
 [submodule "Stella-Mod-DeviceIdentifier"]
 	path = Stella.DeviceIdentifier
-	url = https://github.com/sefinek/Stella-Mod-DeviceIdentifier.git
+	url = https://github.com/sefinek/Stella.DeviceIdentifier.git
 	branch = main
 
-[submodule "Stella-Mod-Build"]
+[submodule "Stella.Builder"]
 	path = Stella.Builder
-	url = https://github.com/sefinek/Stella-Mod-Build.git
+	url = https://github.com/sefinek/Stella.Builder.git
 	branch = main
 
-[submodule "Stella-Mod-Setup"]
-	path = InnoSetup
-	url = https://github.com/sefinek/Stella-Mod-InnoSetup.git
+[submodule "Stella.Setup"]
+	path = Stella.Setup
+	url = https://github.com/sefinek/Stella.Setup.git
 	branch = main
