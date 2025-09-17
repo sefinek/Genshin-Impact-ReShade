@@ -4,7 +4,7 @@
     branch = main
 
 [submodule "Genshin-Stella-Mod"]
-	path = Stella.Worker
+	path = Stella.Core
 	url = https://github.com/sefinek/Genshin-Stella-Mod.git
 	branch = main
 
@@ -13,9 +13,9 @@
     url = https://github.com/sefinek/Stella-Mod-Prepare.git
     branch = main
 
-[submodule "Stella-Mod-StartupBeacon"]
-	path = Stella.StartupBeacon
-	url = https://github.com/sefinek/Stella-Mod-StartupBeacon.git
+[submodule "Stella.Welcome"]
+	path = Stella.Welcome
+	url = https://github.com/sefinek/Stella.Welcome.git
 	branch = main
 
 [submodule "Stella-Mod-Utils"]
@@ -29,7 +29,7 @@
 	branch = main
 
 [submodule "Stella-Mod-Build"]
-	path = Stella.Build
+	path = Stella.Builder
 	url = https://github.com/sefinek/Stella-Mod-Build.git
 	branch = main
 
