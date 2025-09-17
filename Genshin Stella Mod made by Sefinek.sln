@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Beacon", "Stella.Sta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Build", "Stella.Build\Stella.Build.csproj", "{816A792E-E9C9-4FA0-AA0A-8502F65A0F9D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stella.Test", "Test.Genshin\Stella.Test.csproj", "{53CB19ED-DA08-4CF4-B376-7B26132201BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.Genshin", "Test.Genshin\Test.Genshin.csproj", "{53CB19ED-DA08-4CF4-B376-7B26132201BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
