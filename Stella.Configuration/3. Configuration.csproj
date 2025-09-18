@@ -11,7 +11,7 @@
 		<BaseOutputPath>..\Build\</BaseOutputPath>
 		<NeutralLanguage>en</NeutralLanguage>
 		<Copyright>© 2022–2025 Sefinek. Licensed under MIT</Copyright>
-		<Company>Sefinek Inc.</Company>
+		<Company>Sefinek</Company>
 		<Version>2.0.4.1</Version>
 		<Title>$(AssemblyName)</Title>
 		<Product>Stella Configuration Window</Product>

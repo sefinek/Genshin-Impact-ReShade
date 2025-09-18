@@ -9,7 +9,7 @@
 		<StartupObject>InfoBeforeStart.Program</StartupObject>
 		<BaseOutputPath>..\Build\</BaseOutputPath>
 		<GenerateDocumentationFile>False</GenerateDocumentationFile>
-		<Company>Sefinek Inc.</Company>
+		<Company>Sefinek</Company>
 		<Product>Stella Mod Information</Product>
 		<Copyright>© 2022–2025 Sefinek. Licensed under MIT</Copyright>
 		<NeutralLanguage>en</NeutralLanguage>
