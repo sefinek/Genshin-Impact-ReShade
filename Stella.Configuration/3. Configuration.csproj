@@ -3,42 +3,45 @@
 		<OutputType>WinExe</OutputType>
 		<TargetFramework>net9.0-windows10.0.26100.0</TargetFramework>
 		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
-		<RootNamespace>StellaConfiguration</RootNamespace>
-		<Nullable>enable</Nullable>
 		<UseWindowsForms>true</UseWindowsForms>
 		<ImplicitUsings>enable</ImplicitUsings>
-		<ApplicationManifest>Properties\app.manifest</ApplicationManifest>
-		<BaseOutputPath>..\Build\</BaseOutputPath>
-		<NeutralLanguage>en</NeutralLanguage>
-		<Copyright>© 2022–2025 Sefinek. Licensed under MIT</Copyright>
-		<Company>Sefinek</Company>
-		<Version>2.0.4.1</Version>
-		<Title>$(AssemblyName)</Title>
-		<Product>Stella Configuration Window</Product>
+		<Nullable>enable</Nullable>
+
 		<AssemblyName>Configuration Window</AssemblyName>
+		<RootNamespace>StellaConfiguration</RootNamespace>
 		<StartupObject>StellaConfiguration.Program</StartupObject>
+		<ApplicationManifest>Properties\app.manifest</ApplicationManifest>
 		<ApplicationIcon>Resources\cat-black_52x52.ico</ApplicationIcon>
-		<SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
 		<ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+
+		<Company>Sefinek</Company>
+		<Product>Stella Configuration Window</Product>
+		<Title>Configuration Window</Title>
+		<FileDescription>Configuration window for Genshin Stella Mod.</FileDescription>
+		<Copyright>© 2022–2025 Sefinek. Licensed under MIT</Copyright>
+		<Authors>Sefinek</Authors>
+		<NeutralLanguage>en-US</NeutralLanguage>
+
+		<Version>2.0.4.1</Version>
+		<AssemblyVersion>$(Version)</AssemblyVersion>
+		<FileVersion>$(Version)</FileVersion>
+
+		<PackageProjectUrl>https://stella.sefinek.net</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/sefinek/Genshin-Impact-ReShade</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageTags>Genshin;Stella;Mod;Configuration;Window</PackageTags>
+
+		<PlatformTarget>x64</PlatformTarget>
+		<SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+		<Prefer32Bit>false</Prefer32Bit>
+
 		<SignAssembly>true</SignAssembly>
 		<AssemblyOriginatorKeyFile>..\Stella.StartupBeacon\stella.snk</AssemblyOriginatorKeyFile>
+
+		<BaseOutputPath>..\Build\</BaseOutputPath>
 		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-		<IsPublishable>False</IsPublishable>
-		<DebugType>none</DebugType>
-	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-		<IsPublishable>False</IsPublishable>
-		<DebugType>none</DebugType>
-	</PropertyGroup>
-
-	<ItemGroup>
-		<Content Include="Resources\cat-black_52x52.ico" />
-	</ItemGroup>
 
 	<ItemGroup>
 		<PackageReference Include="CliWrap" Version="3.9.0" />
@@ -50,28 +53,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<Compile Update="Forms\Window.cs" />
-		<Compile Update="Properties\ImageResources.Designer.cs">
-			<DependentUpon>ImageResources.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="Properties\Resources.Designer.cs">
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-			<DependentUpon>Resources.resx</DependentUpon>
-		</Compile>
-	</ItemGroup>
-
-	<ItemGroup>
-		<EmbeddedResource Update="Properties\ImageResources.resx">
-			<LastGenOutput>ImageResources.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
-		<EmbeddedResource Update="Properties\Resources.resx">
-			<Generator>ResXFileCodeGenerator</Generator>
-			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
-		</EmbeddedResource>
+		<Content Include="Resources\cat-black_52x52.ico" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -83,5 +65,32 @@
 			<Pack>True</Pack>
 			<PackagePath>\</PackagePath>
 		</None>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="Forms\Window.cs" />
+		<Compile Update="Properties\ImageResources.Designer.cs">
+			<AutoGen>True</AutoGen>
+			<DesignTime>True</DesignTime>
+			<DependentUpon>ImageResources.resx</DependentUpon>
+		</Compile>
+		<Compile Update="Properties\Resources.Designer.cs">
+			<AutoGen>True</AutoGen>
+			<DesignTime>True</DesignTime>
+			<DependentUpon>Resources.resx</DependentUpon>
+		</Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Update="Properties\ImageResources.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>ImageResources.Designer.cs</LastGenOutput>
+			<SubType>Designer</SubType>
+		</EmbeddedResource>
+		<EmbeddedResource Update="Properties\Resources.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
+			<SubType>Designer</SubType>
+		</EmbeddedResource>
 	</ItemGroup>
 </Project>

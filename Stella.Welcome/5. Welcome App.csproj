@@ -3,49 +3,47 @@
 		<OutputType>WinExe</OutputType>
 		<TargetFramework>net9.0-windows10.0.26100.0</TargetFramework>
 		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
-		<Nullable>enable</Nullable>
 		<UseWindowsForms>true</UseWindowsForms>
 		<ImplicitUsings>enable</ImplicitUsings>
-		<StartupObject>InfoBeforeStart.Program</StartupObject>
-		<BaseOutputPath>..\Build\</BaseOutputPath>
-		<GenerateDocumentationFile>False</GenerateDocumentationFile>
-		<Company>Sefinek</Company>
-		<Product>Stella Mod Information</Product>
-		<Copyright>© 2022–2025 Sefinek. Licensed under MIT</Copyright>
-		<NeutralLanguage>en</NeutralLanguage>
+		<Nullable>enable</Nullable>
+
 		<AssemblyName>Welcome App</AssemblyName>
 		<RootNamespace>InfoBeforeStart</RootNamespace>
-		<AllowUnsafeBlocks>True</AllowUnsafeBlocks>
-		<ApplicationIcon>Resources\angry-paimon.ico</ApplicationIcon>
-		<AssemblyVersion>2.1.0.0</AssemblyVersion>
-		<FileVersion>2.1.0.0</FileVersion>
+		<StartupObject>InfoBeforeStart.Program</StartupObject>
 		<ApplicationManifest>Properties\app.manifest</ApplicationManifest>
-		<Version>2.1.0.0</Version>
-		<Title>$(AssemblyName)</Title>
-		<SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+		<ApplicationIcon>Resources\angry-paimon.ico</ApplicationIcon>
 		<ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+
+		<Company>Sefinek</Company>
+		<Product>Stella Mod Information</Product>
+		<Title>Welcome App</Title>
+		<FileDescription>Welcome and information window before starting Genshin Stella Mod.</FileDescription>
+		<Copyright>© 2022–2025 Sefinek. Licensed under MIT</Copyright>
+		<Authors>Sefinek</Authors>
+		<NeutralLanguage>en-US</NeutralLanguage>
+
+		<Version>2.1.0.0</Version>
+		<AssemblyVersion>$(Version)</AssemblyVersion>
+		<FileVersion>$(Version)</FileVersion>
+
+		<PackageProjectUrl>https://stella.sefinek.net</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/sefinek/Genshin-Impact-ReShade</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageTags>Genshin;Stella;Mod;Info;Welcome</PackageTags>
+
+		<PlatformTarget>x64</PlatformTarget>
+		<SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+		<Prefer32Bit>false</Prefer32Bit>
+
 		<SignAssembly>true</SignAssembly>
 		<AssemblyOriginatorKeyFile>..\Stella.StartupBeacon\stella.snk</AssemblyOriginatorKeyFile>
+
+		<BaseOutputPath>..\Build\</BaseOutputPath>
 		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
-	</PropertyGroup>
 
-	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-		<DebugType>none</DebugType>
-		<IsPublishable>False</IsPublishable>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-		<DebugType>none</DebugType>
-		<IsPublishable>False</IsPublishable>
-	</PropertyGroup>
-
-	<ItemGroup>
-		<None Include="..\LICENSE">
-			<Pack>True</Pack>
-			<PackagePath>\</PackagePath>
-		</None>
-	</ItemGroup>
 
 	<ItemGroup>
 		<PackageReference Include="NAudio" Version="2.2.1" />
@@ -56,27 +54,14 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<Compile Update="Properties\ImageResources.Designer.cs">
-			<DependentUpon>ImageResources.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="Properties\Resources.Designer.cs">
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-			<DependentUpon>Resources.resx</DependentUpon>
-		</Compile>
+		<Content Include="Resources\angry-paimon.ico" />
 	</ItemGroup>
 
 	<ItemGroup>
-		<EmbeddedResource Update="Properties\ImageResources.resx">
-			<LastGenOutput>ImageResources.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
-		<EmbeddedResource Update="Properties\Resources.resx">
-			<Generator>ResXFileCodeGenerator</Generator>
-			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
-		</EmbeddedResource>
+		<None Include="..\LICENSE">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>
 	</ItemGroup>
 
 	<ItemGroup>
@@ -92,5 +77,31 @@
 		<None Update="data\sounds\meows\4.mp3">
 			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</None>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="Properties\ImageResources.Designer.cs">
+			<AutoGen>True</AutoGen>
+			<DesignTime>True</DesignTime>
+			<DependentUpon>ImageResources.resx</DependentUpon>
+		</Compile>
+		<Compile Update="Properties\Resources.Designer.cs">
+			<AutoGen>True</AutoGen>
+			<DesignTime>True</DesignTime>
+			<DependentUpon>Resources.resx</DependentUpon>
+		</Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Update="Properties\ImageResources.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>ImageResources.Designer.cs</LastGenOutput>
+			<SubType>Designer</SubType>
+		</EmbeddedResource>
+		<EmbeddedResource Update="Properties\Resources.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
+			<SubType>Designer</SubType>
+		</EmbeddedResource>
 	</ItemGroup>
 </Project>

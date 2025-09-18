@@ -3,31 +3,44 @@
 		<OutputType>WinExe</OutputType>
 		<TargetFramework>net9.0-windows10.0.26100.0</TargetFramework>
 		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
-		<RootNamespace>GenshinTest</RootNamespace>
-		<Nullable>enable</Nullable>
 		<UseWindowsForms>true</UseWindowsForms>
 		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
 		<AssemblyName>GenshinImpact</AssemblyName>
+		<RootNamespace>GenshinTest</RootNamespace>
 		<StartupObject>GenshinTest.Program</StartupObject>
-		<BaseOutputPath>..\Build</BaseOutputPath>
-		<Company>Sefinek</Company>
-		<Copyright>© 2022–2025 Sefinek. Licensed under MIT</Copyright>
-		<NeutralLanguage>en</NeutralLanguage>
-		<SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+		<ApplicationManifest>Properties\app.manifest</ApplicationManifest>
 		<ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
-		<Title>$(AssemblyName)</Title>
-		<Description>Genshin Impact Stella Test Application</Description>
+
+		<Company>Sefinek</Company>
+		<Product>Genshin Stella Mod Test</Product>
+		<Title>Genshin Impact Test</Title>
+		<FileDescription>Genshin Impact Stella Test Application</FileDescription>
+		<Copyright>© 2022–2025 Sefinek. Licensed under MIT</Copyright>
+		<Authors>Sefinek</Authors>
+		<NeutralLanguage>en-US</NeutralLanguage>
+
+		<Version>1.0.0.0</Version>
+		<AssemblyVersion>$(Version)</AssemblyVersion>
+		<FileVersion>$(Version)</FileVersion>
+
+		<PackageProjectUrl>https://stella.sefinek.net</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/sefinek/Genshin-Impact-ReShade</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageTags>Genshin;Stella;Mod;Test</PackageTags>
+
+		<PlatformTarget>x64</PlatformTarget>
+		<SupportedOSPlatformVersion>10.0.19041.0</SupportedOSPlatformVersion>
+		<Prefer32Bit>false</Prefer32Bit>
+
+		<BaseOutputPath>..\Build\</BaseOutputPath>
 		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 	</PropertyGroup>
 
-	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-		<IsPublishable>False</IsPublishable>
-		<DebugType>none</DebugType>
-	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-		<IsPublishable>False</IsPublishable>
-		<DebugType>none</DebugType>
-	</PropertyGroup>
+	<ItemGroup>
+		<None Remove=".git" />
+		<None Remove=".gitignore" />
+	</ItemGroup>
 </Project>
