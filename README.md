@@ -69,4 +69,4 @@ Don't wait, download it now! Take your gameplay to the next level. Immerse yours
 </div>
 
 ## 🔖 〢 License
-[Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE)
+[Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.txt)
