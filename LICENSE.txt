@@ -14,29 +14,30 @@ Copyright (c) 2022–2025 Sefinek
 DEFINITIONS
 ================================================================================
 
-1. "Software" means Genshin Stella Mod and all its components indicated in this
-   Agreement, including source code, binary files, assets, and documentation.
+1. "Software" means Genshin Stella Mod and all its components indicated in
+   this Agreement, including source code, binary files, assets, and
+   documentation.
 2. "User" means a natural or legal person who installs or uses the Software.
-3. "Author" or "Licensor" refers to Sefinek (https://sefinek.net),
-   the copyright holder and owner of all rights to the Software.
+3. "Author" or "Licensor" refers to Sefinek (https://sefinek.net), the
+   copyright holder and owner of all rights to the Software.
 4. "License" means this End User License Agreement (EULA).
 
 ================================================================================
 ACCEPTANCE OF TERMS
 ================================================================================
 
-By installing, copying, downloading, or using the Software,
-the User acknowledges that they have read and understood this Agreement
-and agree to comply with its terms. If the User does not agree,
-they must not install or use the Software.
+By installing, copying, downloading, or using the Software, the User
+acknowledges that they have read and understood this Agreement and agree to
+comply with its terms. If the User does not agree, they must not install or
+use the Software.
 
 ================================================================================
 TERRITORIAL SCOPE
 ================================================================================
 
-The license granted under this Agreement applies worldwide.
-Regardless of the User’s place of residence or use of the Software,
-this License is governed by Polish law.
+The license granted under this Agreement applies worldwide. Regardless of the
+User’s place of residence or use of the Software, this License is governed by
+Polish law.
 
 ================================================================================
 EXPORT / LEGAL COMPLIANCE CLAUSE
@@ -51,16 +52,16 @@ laws, or any other applicable legal provisions in their jurisdiction.
 GEOGRAPHICAL RESTRICTIONS
 ================================================================================
 
-The Author reserves the right to limit, suspend, or completely restrict
-access to the Software for users from specific countries, regions, IP addresses,
-or other geographic areas at their sole discretion.
+The Author reserves the right to limit, suspend, or completely restrict access
+to the Software for users from specific countries, regions, IP addresses, or
+other geographic areas at their sole discretion.
 
-Such decisions may be made for legal, technical, security, business,
-or other justified reasons. The Author is not obliged to disclose
-the reason for such decisions.
+Such decisions may be made for legal, technical, security, business, or other
+justified reasons. The Author is not obliged to disclose the reason for such
+decisions.
 
-These restrictions are final, and the Author shall not be held responsible
-for any consequences arising from their enforcement.
+These restrictions are final, and the Author shall not be held responsible for
+any consequences arising from their enforcement.
 
 ================================================================================
 USER RESPONSIBILITY
@@ -69,46 +70,46 @@ USER RESPONSIBILITY
 The User uses the Software solely at their own risk and responsibility.
 
 The Author bears no liability for any consequences arising from the download,
-installation, configuration, usage, updating, modification, or removal
-of the Software.
+installation, configuration, usage, updating, modification, or removal of the
+Software.
 
 The Author is not responsible for any damage, data loss, errors, crashes,
-hardware or software failures, or any other consequences resulting
-from the use of the Software.
+hardware or software failures, or any other consequences resulting from the
+use of the Software.
 
 The Author provides no warranties as to proper operation, stability,
 compatibility, or performance of the Software.
 
 The Software is provided “AS IS”, without any express or implied warranties.
 
-By using the Software, the User fully accepts these terms and waives
-any claims against the Author.
+By using the Software, the User fully accepts these terms and waives any
+claims against the Author.
 
 ================================================================================
 NO AFFILIATION WITH MIHOYO / COGNOSPHERE / HOYOVERSE
 ================================================================================
 
-Genshin Stella Mod is an entirely independent project created and maintained
-by the Author. This Software is not affiliated with, sponsored, authorized,
-or endorsed by miHoYo Co., Ltd., COGNOSPHERE PTE. LTD., HoYoverse,
-or any other entities associated with the game Genshin Impact.
+Genshin Stella Mod is an entirely independent project created and maintained by
+the Author. This Software is not affiliated with, sponsored, authorized, or
+endorsed by miHoYo Co., Ltd., COGNOSPHERE PTE. LTD., HoYoverse, or any other
+entities associated with the game Genshin Impact.
 
-All trademarks, copyrights, logos, and other intellectual property
-are the property of their respective owners. The use of such names
-in this Agreement is for informational purposes only and does not imply
-any cooperation or authorization.
+All trademarks, copyrights, logos, and other intellectual property are the
+property of their respective owners. The use of such names in this Agreement is
+for informational purposes only and does not imply any cooperation or
+authorization.
 
 ================================================================================
 TRADEMARKS AND INTELLECTUAL PROPERTY
 ================================================================================
 
-All trademarks, trade names, logos, graphics, interface designs,
-promotional materials, and other visual elements related to the Software
-are the property of the Author unless otherwise indicated.
+All trademarks, trade names, logos, graphics, interface designs, promotional
+materials, and other visual elements related to the Software are the property of
+the Author unless otherwise indicated.
 
-The User is not permitted to use these elements in any way that may imply
-an association, endorsement, or collaboration with the Author
-without prior written consent.
+The User is not permitted to use these elements in any way that may imply an
+association, endorsement, or collaboration with the Author without prior written
+consent.
 
 ================================================================================
 PROPRIETARY COMPONENTS – TERMS OF USE
@@ -120,11 +121,12 @@ The following components are subject to this End User License Agreement (EULA):
 - Stella.Utils
 - Stella.StartupBeacon
 
-By installing or using any of these components, the User agrees to the following terms:
+By installing or using any of these components, the User agrees to the following
+terms:
 
 1. LICENSE GRANT:
-   The Author grants you a limited, non-exclusive, non-transferable license
-   to USE this Software solely for personal purposes.
+   The Author grants you a limited, non-exclusive, non-transferable license to
+   USE this Software solely for personal purposes.
 
 2. PERMITTED ACTIONS:
    - Installing the Software on your computer,
@@ -141,53 +143,51 @@ By installing or using any of these components, the User agrees to the following
    - Violating the Software’s terms of use.
 
 4. OWNERSHIP:
-   All rights, title, and interest in the Software remain the property
-   of the Author. This License does not transfer any ownership rights
-   to the User.
+   All rights, title, and interest in the Software remain the property of the
+   Author. This License does not transfer any ownership rights to the User.
 
 ================================================================================
 ANTI-TAMPERING / SECURITY BYPASS PROHIBITION
 ================================================================================
 
-It is strictly forbidden to perform any actions intended to bypass,
-remove, modify, disable, or interfere with the technical protection
-mechanisms implemented in the Software.
+It is strictly forbidden to perform any actions intended to bypass, remove,
+modify, disable, or interfere with the technical protection mechanisms
+implemented in the Software.
 
-This includes, but is not limited to, attempts at analysis, reverse
-engineering, code modification, license circumvention, file integrity
-checking circumvention, or any other form of interference with
-the Software’s protective mechanisms.
+This includes, but is not limited to, attempts at analysis, reverse engineering,
+code modification, license circumvention, file integrity checking circumvention,
+or any other form of interference with the Software’s protective mechanisms.
 
-Any violation of this clause constitutes a serious breach of the License
-and may result in permanent revocation of access to the Software,
-termination of the License, or legal action against the User.
+Any violation of this clause constitutes a serious breach of the License and may
+result in permanent revocation of access to the Software, termination of the
+License, or legal action against the User.
 
-The Author reserves the right to employ additional technical or
-organizational measures to detect and prevent such actions.
+The Author reserves the right to employ additional technical or organizational
+measures to detect and prevent such actions.
 
 ================================================================================
 SOFTWARE INTEGRITY AND SECURITY
 ================================================================================
 
-The Author shall not be held responsible for the operation of the Software
-if it has been modified, integrated with third-party software,
-or executed in an environment that alters its code, structure, or configuration.
+The Author shall not be held responsible for the operation of the Software if it
+has been modified, integrated with third-party software, or executed in an
+environment that alters its code, structure, or configuration.
 
-Any modifications, cracks, patches, overlays, or other forms of interference
-may cause the Software to malfunction and will constitute a violation
-of this License Agreement.
+Any modifications, cracks, patches, overlays, or other forms of interference may
+cause the Software to malfunction and will constitute a violation of this
+License Agreement.
 
 ================================================================================
 SEPARATION OF FREE AND PAID COMPONENTS CLAUSE
 ================================================================================
 
-1. The free version of the Software may be used only for personal purposes,
-   in accordance with the terms of this License.
-2. The paid part of the Software (e.g., Stella Mod Plus) is subject
-   to separate licensing and/or subscription terms established by the Author.
-3. Users of the free version do not acquire any rights to features
-   available in the paid version unless they purchase a license or subscription
-   under the applicable conditions.
+1. The free version of the Software may be used only for personal purposes, in
+   accordance with the terms of this License.
+2. The paid part of the Software (e.g., Stella Mod Plus) is subject to separate
+   licensing and/or subscription terms established by the Author.
+3. Users of the free version do not acquire any rights to features available in
+   the paid version unless they purchase a license or subscription under the
+   applicable conditions.
 
 ================================================================================
 CC BY-NC-SA 4.0 COMPONENTS
@@ -200,247 +200,227 @@ Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
 
-Creative Commons Corporation ("Creative Commons") is not a law firm and
-does not provide legal services or legal advice. Distribution of
-Creative Commons public licenses does not create a lawyer-client or
-other relationship. Creative Commons makes its licenses and related
-information available on an "as-is" basis. Creative Commons gives no
-warranties regarding its licenses, any material licensed under their
-terms and conditions, or any related information. Creative Commons
-disclaims all liability for damages resulting from their use to the
+Creative Commons Corporation ("Creative Commons") is not a law firm and does not
+provide legal services or legal advice. Distribution of Creative Commons public
+licenses does not create a lawyer-client or other relationship. Creative Commons
+makes its licenses and related information available on an "as-is" basis.
+Creative Commons gives no warranties regarding its licenses, any material
+licensed under their terms and conditions, or any related information. Creative
+Commons disclaims all liability for damages resulting from their use to the
 fullest extent possible.
 
 Using Creative Commons Public Licenses
 
-Creative Commons public licenses provide a standard set of terms and
-conditions that creators and other rights holders may use to share
-original works of authorship and other material subject to copyright
-and certain other rights specified in the public license below. The
-following considerations are for informational purposes only, are not
-exhaustive, and do not form part of our licenses.
+Creative Commons public licenses provide a standard set of terms and conditions
+that creators and other rights holders may use to share original works of
+authorship and other material subject to copyright and certain other rights
+specified in the public license below. The following considerations are for
+informational purposes only, are not exhaustive, and do not form part of our
+licenses.
 
-     Considerations for licensors: Our public licenses are
-     intended for use by those authorized to give the public
-     permission to use material in ways otherwise restricted by
-     copyright and certain other rights. Our licenses are
-     irrevocable. Licensors should read and understand the terms
-     and conditions of the license they choose before applying it.
-     Licensors should also secure all rights necessary before
-     applying our licenses so that the public can reuse the
-     material as expected. Licensors should clearly mark any
-     material not subject to the license. This includes other CC-
-     licensed material, or material used under an exception or
-     limitation to copyright. More considerations for licensors:
+     Considerations for licensors: Our public licenses are intended for use by
+     those authorized to give the public permission to use material in ways
+     otherwise restricted by copyright and certain other rights. Our licenses
+     are irrevocable. Licensors should read and understand the terms and
+     conditions of the license they choose before applying it. Licensors should
+     also secure all rights necessary before applying our licenses so that the
+     public can reuse the material as expected. Licensors should clearly mark
+     any material not subject to the license. This includes other CC-licensed
+     material, or material used under an exception or limitation to copyright.
+     More considerations for licensors:
      wiki.creativecommons.org/Considerations_for_licensors
 
-     Considerations for the public: By using one of our public
-     licenses, a licensor grants the public permission to use the
-     licensed material under specified terms and conditions. If
-     the licensor's permission is not necessary for any reason —
-     for example, because of any applicable exception or limitation
-     to copyright — then that use is not regulated by the license.
-     Our licenses grant only permissions under copyright and certain
-     other rights that a licensor has authority to grant. Use of the
-     licensed material may still be restricted for other reasons,
-     including because others have copyright or other rights in the
-     material. A licensor may make special requests, such as asking
-     that all changes be marked or described. Although not required
-     by our licenses, you are encouraged to respect those requests
+     Considerations for the public: By using one of our public licenses, a
+     licensor grants the public permission to use the licensed material under
+     specified terms and conditions. If the licensor's permission is not
+     necessary for any reason — for example, because of any applicable exception
+     or limitation to copyright — then that use is not regulated by the license.
+     Our licenses grant only permissions under copyright and certain other
+     rights that a licensor has authority to grant. Use of the licensed material
+     may still be restricted for other reasons, including because others have
+     copyright or other rights in the material. A licensor may make special
+     requests, such as asking that all changes be marked or described. Although
+     not required by our licenses, you are encouraged to respect those requests
      where reasonable. More considerations for the public:
      wiki.creativecommons.org/Considerations_for_licensees
 
 =======================================================================
 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-Public License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public
+License
 
-By exercising the Licensed Rights (defined below), You accept and agree
-to be bound by the terms and conditions of this Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International Public License
-("Public License"). To the extent this Public License may be
-interpreted as a contract, You are granted the Licensed Rights in
-consideration of Your acceptance of these terms and conditions, and the
-Licensor grants You such rights in consideration of benefits the
-Licensor receives from making the Licensed Material available under
-these terms and conditions.
-
+By exercising the Licensed Rights (defined below), You accept and agree to be
+bound by the terms and conditions of this Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public
+License"). To the extent this Public License may be interpreted as a contract,
+You are granted the Licensed Rights in consideration of Your acceptance of these
+terms and conditions, and the Licensor grants You such rights in consideration
+of benefits the Licensor receives from making the Licensed Material available
+under these terms and conditions.
 
 Section 1 -- Definitions.
 
-  a. Adapted Material means material subject to Copyright and Similar
-     Rights that is derived from or based upon the Licensed Material
-     and in which the Licensed Material is translated, altered,
-     arranged, transformed, or otherwise modified in a manner requiring
-     permission under the Copyright and Similar Rights held by the
-     Licensor. For purposes of this Public License, where the Licensed
-     Material is a musical work, performance, or sound recording,
-     Adapted Material is always produced where the Licensed Material is
-     synched in timed relation with a moving image.
+  a. Adapted Material means material subject to Copyright and Similar Rights
+     that is derived from or based upon the Licensed Material and in which the
+     Licensed Material is translated, altered, arranged, transformed, or
+     otherwise modified in a manner requiring permission under the Copyright and
+     Similar Rights held by the Licensor. For purposes of this Public License,
+     where the Licensed Material is a musical work, performance, or sound
+     recording, Adapted Material is always produced where the Licensed Material
+     is synched in timed relation with a moving image.
 
-  b. Adapter's License means the license You apply to Your Copyright
-     and Similar Rights in Your contributions to Adapted Material in
-     accordance with the terms and conditions of this Public License.
+  b. Adapter's License means the license You apply to Your Copyright and Similar
+     Rights in Your contributions to Adapted Material in accordance with the
+     terms and conditions of this Public License.
 
   c. BY-NC-SA Compatible License means a license listed at
-     creativecommons.org/compatiblelicenses, approved by Creative
-     Commons as essentially the equivalent of this Public License.
+     creativecommons.org/compatiblelicenses, approved by Creative Commons as
+     essentially the equivalent of this Public License.
 
-  d. Copyright and Similar Rights means copyright and/or similar rights
-     closely related to copyright including, without limitation,
-     performance, broadcast, sound recording, and Sui Generis Database
-     Rights, without regard to how the rights are labeled or
-     categorized. For purposes of this Public License, the rights
-     specified in Section 2(b)(1)-(2) are not Copyright and Similar
+  d. Copyright and Similar Rights means copyright and/or similar rights closely
+     related to copyright including, without limitation, performance, broadcast,
+     sound recording, and Sui Generis Database Rights, without regard to how the
+     rights are labeled or categorized. For purposes of this Public License, the
+     rights specified in Section 2(b)(1)-(2) are not Copyright and Similar
      Rights.
 
-  e. Effective Technological Measures means those measures that, in the
-     absence of proper authority, may not be circumvented under laws
-     fulfilling obligations under Article 11 of the WIPO Copyright
-     Treaty adopted on December 20, 1996, and/or similar international
-     agreements.
+  e. Effective Technological Measures means those measures that, in the absence
+     of proper authority, may not be circumvented under laws fulfilling
+     obligations under Article 11 of the WIPO Copyright Treaty adopted on
+     December 20, 1996, and/or similar international agreements.
 
-  f. Exceptions and Limitations means fair use, fair dealing, and/or
-     any other exception or limitation to Copyright and Similar Rights
-     that applies to Your use of the Licensed Material.
+  f. Exceptions and Limitations means fair use, fair dealing, and/or any other
+     exception or limitation to Copyright and Similar Rights that applies to
+     Your use of the Licensed Material.
 
-  g. License Elements means the license attributes listed in the name
-     of a Creative Commons Public License. The License Elements of this
-     Public License are Attribution, NonCommercial, and ShareAlike.
+  g. License Elements means the license attributes listed in the name of a
+     Creative Commons Public License. The License Elements of this Public
+     License are Attribution, NonCommercial, and ShareAlike.
 
-  h. Licensed Material means the artistic or literary work, database,
-     or other material to which the Licensor applied this Public
-     License.
+  h. Licensed Material means the artistic or literary work, database, or other
+     material to which the Licensor applied this Public License.
 
-  i. Licensed Rights means the rights granted to You subject to the
-     terms and conditions of this Public License, which are limited to
-     all Copyright and Similar Rights that apply to Your use of the
-     Licensed Material and that the Licensor has authority to license.
+  i. Licensed Rights means the rights granted to You subject to the terms and
+     conditions of this Public License, which are limited to all Copyright and
+     Similar Rights that apply to Your use of the Licensed Material and that the
+     Licensor has authority to license.
 
-  j. Licensor means the individual(s) or entity(ies) granting rights
-     under this Public License.
+  j. Licensor means the individual(s) or entity(ies) granting rights under this
+     Public License.
 
   k. NonCommercial means not primarily intended for or directed towards
-     commercial advantage or monetary compensation. For purposes of
-     this Public License, the exchange of the Licensed Material for
-     other material subject to Copyright and Similar Rights by digital
-     file-sharing or similar means is NonCommercial provided there is
-     no payment of monetary compensation in connection with the
-     exchange.
+     commercial advantage or monetary compensation. For purposes of this Public
+     License, the exchange of the Licensed Material for other material subject
+     to Copyright and Similar Rights by digital file-sharing or similar means is
+     NonCommercial provided there is no payment of monetary compensation in
+     connection with the exchange.
 
-  l. Share means to provide material to the public by any means or
-     process that requires permission under the Licensed Rights, such
-     as reproduction, public display, public performance, distribution,
-     dissemination, communication, or importation, and to make material
-     available to the public including in ways that members of the
-     public may access the material from a place and at a time
-     individually chosen by them.
+  l. Share means to provide material to the public by any means or process that
+     requires permission under the Licensed Rights, such as reproduction, public
+     display, public performance, distribution, dissemination, communication, or
+     importation, and to make material available to the public including in ways
+     that members of the public may access the material from a place and at a
+     time individually chosen by them.
 
-  m. Sui Generis Database Rights means rights other than copyright
-     resulting from Directive 96/9/EC of the European Parliament and of
-     the Council of 11 March 1996 on the legal protection of databases,
-     as amended and/or succeeded, as well as other essentially
-     equivalent rights anywhere in the world.
+  m. Sui Generis Database Rights means rights other than copyright resulting
+     from Directive 96/9/EC of the European Parliament and of the Council of 11
+     March 1996 on the legal protection of databases, as amended and/or
+     succeeded, as well as other essentially equivalent rights anywhere in the
+     world.
 
-  n. You means the individual or entity exercising the Licensed Rights
-     under this Public License. Your has a corresponding meaning.
+  n. You means the individual or entity exercising the Licensed Rights under
+     this Public License. Your has a corresponding meaning.
 
 Section 2 -- Scope.
 
   a. License grant.
 
-       1. Subject to the terms and conditions of this Public License,
-          the Licensor hereby grants You a worldwide, royalty-free,
-          non-sublicensable, non-exclusive, irrevocable license to
-          exercise the Licensed Rights in the Licensed Material to:
+       1. Subject to the terms and conditions of this Public License, the
+          Licensor hereby grants You a worldwide, royalty-free, non-
+          sublicensable, non-exclusive, irrevocable license to exercise the
+          Licensed Rights in the Licensed Material to:
 
-            a. reproduce and Share the Licensed Material, in whole or
-               in part, for NonCommercial purposes only; and
+            a. reproduce and Share the Licensed Material, in whole or in part,
+               for NonCommercial purposes only; and
 
-            b. produce, reproduce, and Share Adapted Material for
-               NonCommercial purposes only.
+            b. produce, reproduce, and Share Adapted Material for NonCommercial
+               purposes only.
 
        2. Exceptions and Limitations. For the avoidance of doubt, where
-          Exceptions and Limitations apply to Your use, this Public
-          License does not apply, and You do not need to comply with
-          its terms and conditions.
+          Exceptions and Limitations apply to Your use, this Public License does
+          not apply, and You do not need to comply with its terms and
+          conditions.
 
-       3. Term. The term of this Public License is specified in Section
-          6(a).
+       3. Term. The term of this Public License is specified in Section 6(a).
 
-       4. Media and formats; technical modifications allowed. The
-          Licensor authorizes You to exercise the Licensed Rights in
-          all media and formats whether now known or hereafter created,
-          and to make technical modifications necessary to do so. The
-          Licensor waives and/or agrees not to assert any right or
-          authority to forbid You from making technical modifications
-          necessary to exercise the Licensed Rights, including
-          technical modifications necessary to circumvent Effective
-          Technological Measures. For purposes of this Public License,
-          simply making modifications authorized by this Section 2(a)
-          (4) never produces Adapted Material.
+       4. Media and formats; technical modifications allowed. The Licensor
+          authorizes You to exercise the Licensed Rights in all media and
+          formats whether now known or hereafter created, and to make technical
+          modifications necessary to do so. The Licensor waives and/or agrees
+          not to assert any right or authority to forbid You from making
+          technical modifications necessary to exercise the Licensed Rights,
+          including technical modifications necessary to circumvent Effective
+          Technological Measures. For purposes of this Public License, simply
+          making modifications authorized by this Section 2(a)(4) never produces
+          Adapted Material.
 
        5. Downstream recipients.
 
-            a. Offer from the Licensor -- Licensed Material. Every
-               recipient of the Licensed Material automatically
-               receives an offer from the Licensor to exercise the
-               Licensed Rights under the terms and conditions of this
-               Public License.
+            a. Offer from the Licensor -- Licensed Material. Every recipient of
+               the Licensed Material automatically receives an offer from the
+               Licensor to exercise the Licensed Rights under the terms and
+               conditions of this Public License.
 
-            b. Additional offer from the Licensor -- Adapted Material.
-               Every recipient of Adapted Material from You
-               automatically receives an offer from the Licensor to
-               exercise the Licensed Rights in the Adapted Material
-               under the conditions of the Adapter's License You apply.
+            b. Additional offer from the Licensor -- Adapted Material. Every
+               recipient of Adapted Material from You automatically receives an
+               offer from the Licensor to exercise the Licensed Rights in the
+               Adapted Material under the conditions of the Adapter's License You
+               apply.
 
-            c. No downstream restrictions. You may not offer or impose
-               any additional or different terms or conditions on, or
-               apply any Effective Technological Measures to, the
-               Licensed Material if doing so restricts exercise of the
-               Licensed Rights by any recipient of the Licensed
-               Material.
+            c. No downstream restrictions. You may not offer or impose any
+               additional or different terms or conditions on, or apply any
+               Effective Technological Measures to, the Licensed Material if
+               doing so restricts exercise of the Licensed Rights by any
+               recipient of the Licensed Material.
 
-       6. No endorsement. Nothing in this Public License constitutes or
-          may be construed as permission to assert or imply that You
-          are, or that Your use of the Licensed Material is, connected
-          with, or sponsored, endorsed, or granted official status by,
-          the Licensor or others designated to receive attribution as
-          provided in Section 3(a)(1)(A)(i).
+       6. No endorsement. Nothing in this Public License constitutes or may be
+          construed as permission to assert or imply that You are, or that Your
+          use of the Licensed Material is, connected with, or sponsored,
+          endorsed, or granted official status by, the Licensor or others
+          designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
   b. Other rights.
 
-       1. Moral rights, such as the right of integrity, are not
-          licensed under this Public License, nor are publicity,
-          privacy, and/or other similar personality rights; however, to
-          the extent possible, the Licensor waives and/or agrees not to
-          assert any such rights held by the Licensor to the limited
-          extent necessary to allow You to exercise the Licensed
+       1. Moral rights, such as the right of integrity, are not licensed under
+          this Public License, nor are publicity, privacy, and/or other similar
+          personality rights; however, to the extent possible, the Licensor
+          waives and/or agrees not to assert any such rights held by the Licensor
+          to the limited extent necessary to allow You to exercise the Licensed
           Rights, but not otherwise.
 
-       2. Patent and trademark rights are not licensed under this
-          Public License.
+       2. Patent and trademark rights are not licensed under this Public
+          License.
 
-       3. To the extent possible, the Licensor waives any right to
-          collect royalties from You for the exercise of the Licensed
-          Rights, whether directly or through a collecting society
-          under any voluntary or waivable statutory or compulsory
-          licensing scheme. In all other cases the Licensor expressly
-          reserves any right to collect such royalties, including when
-          the Licensed Material is used other than for NonCommercial
-          purposes.
+       3. To the extent possible, the Licensor waives any right to collect
+          royalties from You for the exercise of the Licensed Rights, whether
+          directly or through a collecting society under any voluntary or
+          waivable statutory or compulsory licensing scheme. In all other cases
+          the Licensor expressly reserves any right to collect such royalties,
+          including when the Licensed Material is used other than for
+          NonCommercial purposes.
 
 =======================================================================
 
 Creative Commons is not a party to its public licenses. Notwithstanding,
-Creative Commons may elect to apply one of its public licenses to material
-it publishes and in those instances will be considered the “Licensor.” The
-text of the Creative Commons public licenses is dedicated to the public
-domain under the CC0 Public Domain Dedication. Except for the limited
-purpose of indicating that material is shared under a Creative Commons
-public license or as otherwise permitted by the Creative Commons policies
-published at creativecommons.org/policies, Creative Commons does not
-authorize the use of the trademark "Creative Commons" or any other
-trademark or logo of Creative Commons without its prior written consent.
+Creative Commons may elect to apply one of its public licenses to material it
+publishes and in those instances will be considered the “Licensor.” The text of
+the Creative Commons public licenses is dedicated to the public domain under the
+CC0 Public Domain Dedication. Except for the limited purpose of indicating that
+material is shared under a Creative Commons public license or as otherwise
+permitted by the Creative Commons policies published at
+creativecommons.org/policies, Creative Commons does not authorize the use of the
+trademark "Creative Commons" or any other trademark or logo of Creative Commons
+without its prior written consent.
 
 Creative Commons may be contacted at creativecommons.org.
 
@@ -458,49 +438,47 @@ MIT License
 
 Copyright (c) 2022–2025 Sefinek
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ================================================================================
 WARRANTY DISCLAIMER
 ================================================================================
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT ANY WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIMS,
-DAMAGES, OR OTHER LIABILITIES, WHETHER IN CONTRACT, TORT, OR OTHERWISE,
-ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIMS, DAMAGES, OR OTHER
+LIABILITIES, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 The Author does not guarantee that the Software will be compatible with every
 operating system, hardware configuration, game version, or user environment.
-The Software’s performance may vary depending on system configuration,
-the version of Genshin Impact, drivers, libraries, or third-party software.
+The Software’s performance may vary depending on system configuration, the
+version of Genshin Impact, drivers, libraries, or third-party software.
 
 ================================================================================
 UPDATES, SUPPORT, AND DISTRIBUTION CLAUSE
 ================================================================================
 
 The Author does not guarantee that the Software will function in the future
-after updates to Genshin Impact or the operating system.
-Technical support, updates, and further development may be limited or
-discontinued at any time at the sole discretion of the Author.
+after updates to Genshin Impact or the operating system. Technical support,
+updates, and further development may be limited or discontinued at any time at
+the sole discretion of the Author.
 
 The Author also reserves the right to cease further distribution of the
 Software at any time, without any obligation of compensation to Users.
@@ -509,27 +487,26 @@ Software at any time, without any obligation of compensation to Users.
 USE OF ONLINE SERVICES
 ================================================================================
 
-Some features of the Software may require an active connection to the
-Author’s servers for license verification, updates, or synchronization
-of technical data.
+Some features of the Software may require an active connection to the Author’s
+servers for license verification, updates, or synchronization of technical data.
 
 The Author is not responsible for the unavailability of such services due to
-technical interruptions, maintenance, network failures, or other factors
-beyond their control.
+technical interruptions, maintenance, network failures, or other factors beyond
+their control.
 
 ================================================================================
 PRIVACY POLICY
 ================================================================================
 
-The use of the Software and the Launcher may involve processing of technical
-or device-identifying data of the User.
+The use of the Software and the Launcher may involve processing of technical or
+device-identifying data of the User.
 
 The Author processes such data only to the extent necessary to ensure proper
 functionality, security, updates, and license verification of the Software.
 
-Detailed information about the types of processed data, storage locations,
-legal bases, and User rights is available in the Privacy Policy published on
-the official project website: https://stella.sefinek.net/docs?page=privacy-policy
+Detailed information about the types of processed data, storage locations, legal
+bases, and User rights is available in the Privacy Policy published on the
+official project website: https://stella.sefinek.net/docs?page=privacy-policy
 
 By using the Software, the User accepts the terms of the Privacy Policy.
 
@@ -540,69 +517,52 @@ LICENSE MODIFICATION CLAUSE
 The Author reserves the right to modify the terms of this End User License
 Agreement (EULA) at any time.
 
-The revised version of the License becomes effective upon its publication
-on the Author’s official website or upon release of a new version of the
-Software.
+The revised version of the License becomes effective upon its publication on the
+Author’s official website or upon release of a new version of the Software.
 
-Users will be informed about License changes through the changelog published
-on the project’s website. After installing a launcher update, the changelog
-is also displayed in its information window.
+Users will be informed about License changes through the changelog published on
+the project’s website. After installing a launcher update, the changelog is also
+displayed in its information window.
 
-Continued use of the Software after such changes constitutes full acceptance
-of the new License terms by the User.
+Continued use of the Software after such changes constitutes full acceptance of
+the new License terms by the User.
 
 ================================================================================
 TERMINATION BY USER
 ================================================================================
 
-The User may terminate this Agreement at any time by ceasing use of the
-Software and deleting it from their device. Termination of this Agreement
-by the User does not release them from responsibility for any prior
-violations of the License terms.
+The User may terminate this Agreement at any time by ceasing use of the Software
+and deleting it from their device. Termination of this Agreement by the User
+does not release them from responsibility for any prior violations of the
+License terms.
 
 ================================================================================
 REPORTING VIOLATIONS AND DMCA CLAUSE
 ================================================================================
 
 All reports of copyright infringement, intellectual property violations,
-security issues, or unauthorized use of the Software should be sent directly
-to the Author.
+security issues, or unauthorized use of the Software should be sent directly to
+the Author.
 
 Reports can be submitted to: contact@sefinek.net
 
 The Author reserves the right to take appropriate legal action against
-individuals or entities violating this License, copyright, trademarks,
-or other intellectual property rights related to the Software.
+individuals or entities violating this License, copyright, trademarks, or other
+intellectual property rights related to the Software.
 
 Upon receiving a notice compliant with the Digital Millennium Copyright Act
-(DMCA) or equivalent legal regulations, the Author will take appropriate
-actions in good faith to protect intellectual property rights.
+(DMCA) or equivalent legal regulations, the Author will take appropriate actions
+in good faith to protect intellectual property rights.
 
 ================================================================================
 FINAL PROVISIONS
 ================================================================================
 
-1. If any provision of this Agreement is found invalid or unenforceable,
-   the remaining provisions shall remain in full force and effect.
-2. This Agreement is governed by Polish law. Any disputes arising from it
-   shall be resolved by the court having jurisdiction over the Author’s
-   registered office.
-3. This Agreement constitutes the entire understanding between the parties
-   and supersedes all prior written or oral agreements regarding the Software.
-4. In case of translation discrepancies, the Polish version of this Agreement
-   shall prevail.
-
-================================================================================
-CONTACT AND TECHNICAL SUPPORT
-================================================================================
-
-The Author may provide technical support or responses to User inquiries
-at their sole discretion and based on resource availability.
-
-Contact with the Author is possible via the ticket system at:
-https://patrons.sefinek.net
-
-Email contact: contact@sefinek.net
-
-The Author does not guarantee replies to all inquiries nor the availability
-of support within a specific time frame.
+1. If any provision of this Agreement is found invalid or unenforceable, the
+   remaining provisions shall remain in full force and effect.
+2. This Agreement is governed by Polish law. Any disputes arising from it shall
+   be resolved by the court having jurisdiction over the Author’s registered
+   office.
+3. This Agreement constitutes the entire understanding between the parties and
+   supersedes all prior written or oral agreements regarding the Software.
+4. In case of translatio
