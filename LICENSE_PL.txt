@@ -19,19 +19,19 @@ DEFINICJE
    pliki binarne, zasoby i dokumentację.
 2. "Użytkownik" oznacza osobę fizyczną lub prawną, która instaluje
    lub korzysta z Oprogramowania.
-3. "Autor" lub "Licencjodawca" to Sefinek (https://sefinek.net), właściciel
-   praw autorskich do Oprogramowania.
+3. "Autor" lub "Licencjodawca" to Sefinek (https://sefinek.net),
+   właściciel praw autorskich do Oprogramowania.
 4. "Licencja" oznacza niniejszą umowę licencyjną (EULA).
-
 
 ================================================================================
 ZGODA NA WARUNKI
 ================================================================================
-Instalując, kopiując, pobierając lub używając Oprogramowania, Użytkownik potwierdza,
-że zapoznał się z treścią niniejszej umowy, rozumie jej postanowienia i wyraża zgodę
-na ich przestrzeganie. W przypadku braku zgody – nie wolno instalować ani używać
-Oprogramowania.
 
+Instalując, kopiując, pobierając lub używając Oprogramowania,
+Użytkownik potwierdza, że zapoznał się z treścią niniejszej umowy,
+rozumie jej postanowienia i wyraża zgodę na ich przestrzeganie.
+W przypadku braku zgody – nie wolno instalować ani używać
+Oprogramowania.
 
 ================================================================================
 ZAKRES TERYTORIALNY
@@ -40,7 +40,6 @@ ZAKRES TERYTORIALNY
 Licencja udzielona niniejszą umową obowiązuje na całym świecie.
 Niezależnie od miejsca zamieszkania lub użytkowania Oprogramowania,
 do niniejszej licencji stosuje się prawo polskie.
-
 
 ================================================================================
 KLAUZULA EKSPORTOWA / ZGODNOŚĆ Z PRAWEM
@@ -52,7 +51,6 @@ Użytkownik nie może używać Oprogramowania w sposób naruszający przepisy
 o kontroli eksportu, sankcjach gospodarczych, ochronie danych ani inne
 przepisy obowiązujące w jego jurysdykcji.
 
-
 ================================================================================
 OGRANICZENIA TERYTORIALNE
 ================================================================================
@@ -63,12 +61,11 @@ państw, regionów, adresów IP lub innych obszarów geograficznych, według
 własnego uznania.
 
 Decyzje te mogą być podejmowane z powodów prawnych, technicznych,
-bezpieczeństwa, biznesowych lub innych uzasadnionych przyczyn. Autor nie
-jest zobowiązany do podawania przyczyny podjętej decyzji.
+bezpieczeństwa, biznesowych lub innych uzasadnionych przyczyn.
+Autor nie jest zobowiązany do podawania przyczyny podjętej decyzji.
 
 Ograniczenia te są ostateczne, a Autor nie ponosi odpowiedzialności za
 jakiekolwiek skutki wynikające z ich wprowadzenia.
-
 
 ================================================================================
 ODPOWIEDZIALNOŚĆ UŻYTKOWNIKA
@@ -95,22 +92,20 @@ Korzystanie z Oprogramowania oznacza pełną akceptację niniejszych
 postanowień oraz zrzeczenie się przez Użytkownika wszelkich roszczeń
 wobec Autora.
 
-
 ================================================================================
 BRAK POWIĄZAŃ Z MIHOYO / COGNOSPHERE / HOYOVERSE
 ================================================================================
 
 Genshin Stella Mod jest projektem całkowicie niezależnym, tworzonym i
 utrzymywanym przez Autora. Oprogramowanie to nie jest w żaden sposób
-powiązane, sponsorowane, autoryzowane ani wspierane przez miHoYo Co., Ltd.,
-COGNOSPHERE PTE. LTD., HoYoverse ani jakiekolwiek inne podmioty powiązane z
-grą Genshin Impact.
+powiązane, sponsorowane, autoryzowane ani wspierane przez miHoYo Co.,
+Ltd., COGNOSPHERE PTE. LTD., HoYoverse ani jakiekolwiek inne podmioty
+powiązane z grą Genshin Impact.
 
-Wszelkie znaki towarowe, prawa autorskie, logotypy i inne dobra niematerialne
-należą do ich prawnych właścicieli. Użycie tych nazw w niniejszej umowie ma
-wyłącznie charakter informacyjny i nie oznacza żadnej współpracy ani
-autoryzacji.
-
+Wszelkie znaki towarowe, prawa autorskie, logotypy i inne dobra
+niematerialne należą do ich prawnych właścicieli. Użycie tych nazw w
+niniejszej umowie ma wyłącznie charakter informacyjny i nie oznacza
+żadnej współpracy ani autoryzacji.
 
 ================================================================================
 ZNAKI TOWAROWE I WŁASNOŚĆ INTELEKTUALNA
@@ -123,7 +118,6 @@ z Oprogramowaniem stanowią własność Autora, o ile nie wskazano inaczej.
 Użytkownik nie jest uprawniony do używania tych elementów w sposób,
 który mógłby sugerować powiązanie, aprobatę lub współpracę z Autorem,
 bez jego uprzedniej pisemnej zgody.
-
 
 ================================================================================
 KOMPONENTY WŁASNOŚCIOWE - WARUNKI UŻYTKOWANIA
@@ -160,7 +154,6 @@ Instalując lub używając tych komponentów, zgadzasz się na następujące war
    własnością Autora. Ta licencja nie przenosi na Ciebie żadnych praw
    własności.
 
-
 ================================================================================
 ZAKAZ OBEJŚCIA ZABEZPIECZEŃ
 ================================================================================
@@ -183,7 +176,6 @@ Autor zastrzega sobie prawo do zastosowania dodatkowych środków
 technicznych lub organizacyjnych mających na celu wykrycie i zapobieganie
 takim działaniom.
 
-
 ================================================================================
 INTEGRALNOŚĆ I BEZPIECZEŃSTWO OPROGRAMOWANIA
 ================================================================================
@@ -194,9 +186,8 @@ osób trzecich lub uruchomione w środowisku zmieniającym jego kod,
 strukturę lub konfigurację.
 
 Wszelkie modyfikacje, cracki, patche, nakładki lub inne formy ingerencji
-mogą prowadzić do nieprawidłowego działania Oprogramowania naruszając przy
+mogą prowadzić do nieprawidłowego działania Oprogramowania, naruszając przy
 tym warunki niniejszej licencji.
-
 
 ================================================================================
 KLAUZULA O ROZDZIELENIU CZĘŚCI PŁATNEJ I DARMOWEJ
@@ -210,13 +201,12 @@ KLAUZULA O ROZDZIELENIU CZĘŚCI PŁATNEJ I DARMOWEJ
    udostępnianych w wersji płatnej, o ile nie wykupi licencji/subskrypcji
    zgodnie z odrębnymi zasadami.
 
-
 ================================================================================
 KOMPONENTY CC BY-NC-SA 4.0
 ================================================================================
 
 Następujące komponenty są licencjonowane na warunkach CC BY-NC-SA 4.0:
-   - Stella.Prepare
+- Stella.Prepare
 
 Attribution-NonCommercial-ShareAlike 4.0 International
 
@@ -253,24 +243,23 @@ exhaustive, and do not form part of our licenses.
      material not subject to the license. This includes other CC-
      licensed material, or material used under an exception or
      limitation to copyright. More considerations for licensors:
-    wiki.creativecommons.org/Considerations_for_licensors
+     wiki.creativecommons.org/Considerations_for_licensors
 
      Considerations for the public: By using one of our public
      licenses, a licensor grants the public permission to use the
      licensed material under specified terms and conditions. If
-     the licensor's permission is not necessary for any reason--for
-     example, because of any applicable exception or limitation to
-     copyright--then that use is not regulated by the license. Our
-     licenses grant only permissions under copyright and certain
-     other rights that a licensor has authority to grant. Use of
-     the licensed material may still be restricted for other
-     reasons, including because others have copyright or other
-     rights in the material. A licensor may make special requests,
-     such as asking that all changes be marked or described.
-     Although not required by our licenses, you are encouraged to
-     respect those requests where reasonable. More considerations
-     for the public:
-    wiki.creativecommons.org/Considerations_for_licensees
+     the licensor's permission is not necessary for any reason —
+     for example, because of any applicable exception or limitation
+     to copyright — then that use is not regulated by the license.
+     Our licenses grant only permissions under copyright and certain
+     other rights that a licensor has authority to grant. Use of the
+     licensed material may still be restricted for other reasons,
+     including because others have copyright or other rights in the
+     material. A licensor may make special requests, such as asking
+     that all changes be marked or described. Although not required
+     by our licenses, you are encouraged to respect those requests
+     where reasonable. More considerations for the public:
+     wiki.creativecommons.org/Considerations_for_licensees
 
 =======================================================================
 
@@ -367,7 +356,6 @@ Section 1 -- Definitions.
   n. You means the individual or entity exercising the Licensed Rights
      under this Public License. Your has a corresponding meaning.
 
-
 Section 2 -- Scope.
 
   a. License grant.
@@ -453,219 +441,30 @@ Section 2 -- Scope.
           the Licensed Material is used other than for NonCommercial
           purposes.
 
-
-Section 3 -- License Conditions.
-
-Your exercise of the Licensed Rights is expressly made subject to the
-following conditions.
-
-  a. Attribution.
-
-       1. If You Share the Licensed Material (including in modified
-          form), You must:
-
-            a. retain the following if it is supplied by the Licensor
-               with the Licensed Material:
-
-                 i. identification of the creator(s) of the Licensed
-                    Material and any others designated to receive
-                    attribution, in any reasonable manner requested by
-                    the Licensor (including by pseudonym if
-                    designated);
-
-                ii. a copyright notice;
-
-               iii. a notice that refers to this Public License;
-
-                iv. a notice that refers to the disclaimer of
-                    warranties;
-
-                 v. a URI or hyperlink to the Licensed Material to the
-                    extent reasonably practicable;
-
-            b. indicate if You modified the Licensed Material and
-               retain an indication of any previous modifications; and
-
-            c. indicate the Licensed Material is licensed under this
-               Public License, and include the text of, or the URI or
-               hyperlink to, this Public License.
-
-       2. You may satisfy the conditions in Section 3(a)(1) in any
-          reasonable manner based on the medium, means, and context in
-          which You Share the Licensed Material. For example, it may be
-          reasonable to satisfy the conditions by providing a URI or
-          hyperlink to a resource that includes the required
-          information.
-       3. If requested by the Licensor, You must remove any of the
-          information required by Section 3(a)(1)(A) to the extent
-          reasonably practicable.
-
-  b. ShareAlike.
-
-     In addition to the conditions in Section 3(a), if You Share
-     Adapted Material You produce, the following conditions also apply.
-
-       1. The Adapter's License You apply must be a Creative Commons
-          license with the same License Elements, this version or
-          later, or a BY-NC-SA Compatible License.
-
-       2. You must include the text of, or the URI or hyperlink to, the
-          Adapter's License You apply. You may satisfy this condition
-          in any reasonable manner based on the medium, means, and
-          context in which You Share Adapted Material.
-
-       3. You may not offer or impose any additional or different terms
-          or conditions on, or apply any Effective Technological
-          Measures to, Adapted Material that restrict exercise of the
-          rights granted under the Adapter's License You apply.
-
-
-Section 4 -- Sui Generis Database Rights.
-
-Where the Licensed Rights include Sui Generis Database Rights that
-apply to Your use of the Licensed Material:
-
-  a. for the avoidance of doubt, Section 2(a)(1) grants You the right
-     to extract, reuse, reproduce, and Share all or a substantial
-     portion of the contents of the database for NonCommercial purposes
-     only;
-
-  b. if You include all or a substantial portion of the database
-     contents in a database in which You have Sui Generis Database
-     Rights, then the database in which You have Sui Generis Database
-     Rights (but not its individual contents) is Adapted Material,
-     including for purposes of Section 3(b); and
-
-  c. You must comply with the conditions in Section 3(a) if You Share
-     all or a substantial portion of the contents of the database.
-
-For the avoidance of doubt, this Section 4 supplements and does not
-replace Your obligations under this Public License where the Licensed
-Rights include other Copyright and Similar Rights.
-
-
-Section 5 -- Disclaimer of Warranties and Limitation of Liability.
-
-  a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
-     EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
-     AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF
-     ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS,
-     IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION,
-     WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR
-     PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS,
-     ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT
-     KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT
-     ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.
-
-  b. TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE
-     TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION,
-     NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT,
-     INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES,
-     COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR
-     USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN
-     ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR
-     DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR
-     IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.
-
-  c. The disclaimer of warranties and limitation of liability provided
-     above shall be interpreted in a manner that, to the extent
-     possible, most closely approximates an absolute disclaimer and
-     waiver of all liability.
-
-
-Section 6 -- Term and Termination.
-
-  a. This Public License applies for the term of the Copyright and
-     Similar Rights licensed here. However, if You fail to comply with
-     this Public License, then Your rights under this Public License
-     terminate automatically.
-
-  b. Where Your right to use the Licensed Material has terminated under
-     Section 6(a), it reinstates:
-
-       1. automatically as of the date the violation is cured, provided
-          it is cured within 30 days of Your discovery of the
-          violation; or
-
-       2. upon express reinstatement by the Licensor.
-
-     For the avoidance of doubt, this Section 6(b) does not affect any
-     right the Licensor may have to seek remedies for Your violations
-     of this Public License.
-
-  c. For the avoidance of doubt, the Licensor may also offer the
-     Licensed Material under separate terms or conditions or stop
-     distributing the Licensed Material at any time; however, doing so
-     will not terminate this Public License.
-
-  d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
-     License.
-
-
-Section 7 -- Other Terms and Conditions.
-
-  a. The Licensor shall not be bound by any additional or different
-     terms or conditions communicated by You unless expressly agreed.
-
-  b. Any arrangements, understandings, or agreements regarding the
-     Licensed Material not stated herein are separate from and
-     independent of the terms and conditions of this Public License.
-
-
-Section 8 -- Interpretation.
-
-  a. For the avoidance of doubt, this Public License does not, and
-     shall not be interpreted to, reduce, limit, restrict, or impose
-     conditions on any use of the Licensed Material that could lawfully
-     be made without permission under this Public License.
-
-  b. To the extent possible, if any provision of this Public License is
-     deemed unenforceable, it shall be automatically reformed to the
-     minimum extent necessary to make it enforceable. If the provision
-     cannot be reformed, it shall be severed from this Public License
-     without affecting the enforceability of the remaining terms and
-     conditions.
-
-  c. No term or condition of this Public License will be waived and no
-     failure to comply consented to unless expressly agreed to by the
-     Licensor.
-
-  d. Nothing in this Public License constitutes or may be interpreted
-     as a limitation upon, or waiver of, any privileges and immunities
-     that apply to the Licensor or You, including from the legal
-     processes of any jurisdiction or authority.
-
 =======================================================================
 
-Creative Commons is not a party to its public
-licenses. Notwithstanding, Creative Commons may elect to apply one of
-its public licenses to material it publishes and in those instances
-will be considered the “Licensor.” The text of the Creative Commons
-public licenses is dedicated to the public domain under the CC0 Public
-Domain Dedication. Except for the limited purpose of indicating that
-material is shared under a Creative Commons public license or as
-otherwise permitted by the Creative Commons policies published at
-creativecommons.org/policies, Creative Commons does not authorize the
-use of the trademark "Creative Commons" or any other trademark or logo
-of Creative Commons without its prior written consent including,
-without limitation, in connection with any unauthorized modifications
-to any of its public licenses or any other arrangements,
-understandings, or agreements concerning use of licensed material. For
-the avoidance of doubt, this paragraph does not form part of the
-public licenses.
+Creative Commons is not a party to its public licenses. Notwithstanding,
+Creative Commons may elect to apply one of its public licenses to material
+it publishes and in those instances will be considered the “Licensor.” The
+text of the Creative Commons public licenses is dedicated to the public
+domain under the CC0 Public Domain Dedication. Except for the limited
+purpose of indicating that material is shared under a Creative Commons
+public license or as otherwise permitted by the Creative Commons policies
+published at creativecommons.org/policies, Creative Commons does not
+authorize the use of the trademark "Creative Commons" or any other
+trademark or logo of Creative Commons without its prior written consent.
 
 Creative Commons may be contacted at creativecommons.org.
-
 
 ================================================================================
 KOMPONENTY MIT LICENSE
 ================================================================================
 
 Następujące komponenty są licencjonowane na warunkach MIT License:
-   - Stella.Configuration
-   - Stella.DeviceIdentifier
-   - Stella.InfoBeforeStart
-   - Test.Genshin
+- Stella.Configuration
+- Stella.DeviceIdentifier
+- Stella.InfoBeforeStart
+- Test.Genshin
 
 MIT License
 
@@ -689,7 +488,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
 ================================================================================
 ZASTRZEŻENIA GWARANCYJNE
 ================================================================================
@@ -703,6 +501,10 @@ NIEZALEŻNIE OD TEGO, CZY WYNIKAJĄ ONE Z UMOWY, CZYNU NIEDOZWOLONEGO CZY
 W INNY SPOSÓB, A ZWIĄZANE SĄ Z OPROGRAMOWANIEM LUB KORZYSTANIEM Z NIEGO,
 BĄDŹ Z INNYMI DZIAŁANIAMI DOTYCZĄCYMI OPROGRAMOWANIA.
 
+Autor nie gwarantuje zgodności Oprogramowania z każdym systemem operacyjnym,
+konfiguracją sprzętową, wersją gry ani środowiskiem użytkownika. Działanie
+Oprogramowania może różnić się w zależności od konfiguracji systemu, wersji
+gry Genshin Impact, sterowników, bibliotek lub oprogramowania innych firm.
 
 ================================================================================
 KLAUZULA O AKTUALIZACJACH, WSPARCIU I DYSTRYBUCJI
@@ -718,7 +520,6 @@ Autor zastrzega sobie także prawo do zaprzestania dalszej dystrybucji
 Oprogramowania w dowolnym czasie, bez obowiązku rekompensaty wobec
 Użytkowników.
 
-
 ================================================================================
 KORZYSTANIE Z USŁUG ONLINE
 ================================================================================
@@ -730,7 +531,6 @@ lub synchronizacji danych technicznych.
 Autor nie ponosi odpowiedzialności za niedostępność tych usług
 spowodowaną przerwami technicznymi, konserwacją, awariami sieci
 lub czynnikami niezależnymi od niego.
-
 
 ================================================================================
 POLITYKA PRYWATNOŚCI
@@ -752,7 +552,6 @@ projektu: https://stella.sefinek.net/docs?page=privacy-policy
 Korzystanie z Oprogramowania oznacza akceptację zasad określonych
 w Polityce Prywatności.
 
-
 ================================================================================
 KLAUZULA O ZMIANIE LICENCJI
 ================================================================================
@@ -771,7 +570,6 @@ wyświetlany w jego oknie informacyjnym.
 Dalsze korzystanie z Oprogramowania po wprowadzeniu zmian oznacza
 pełną akceptację nowej wersji licencji przez Użytkownika.
 
-
 ================================================================================
 ROZWIĄZANIE UMOWY PRZEZ UŻYTKOWNIKA
 ================================================================================
@@ -781,7 +579,6 @@ poprzez zaprzestanie korzystania z Oprogramowania i jego usunięcie
 z urządzenia. Rozwiązanie umowy przez użytkownika nie zwalnia go
 z odpowiedzialności za ewentualne wcześniejsze naruszenia warunków
 licencji.
-
 
 ================================================================================
 ZGŁASZANIE NARUSZEŃ I KLAUZULA DMCA
@@ -803,7 +600,6 @@ W przypadku otrzymania zgłoszenia zgodnego z procedurą DMCA
 Autor podejmie odpowiednie działania zgodnie z obowiązującymi regulacjami
 i w dobrej wierze, w celu ochrony praw własności intelektualnej.
 
-
 ================================================================================
 POSTANOWIENIA KOŃCOWE
 ================================================================================
@@ -818,7 +614,6 @@ POSTANOWIENIA KOŃCOWE
    jak i ustne, dotyczące oprogramowania.
 4. W przypadku sporządzenia tłumaczeń niniejszej umowy na inne języki,
    wersja w języku polskim jest rozstrzygająca w razie rozbieżności.
-
 
 ================================================================================
 KONTAKT I WSPARCIE TECHNICZNE
