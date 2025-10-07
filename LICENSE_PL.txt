@@ -25,6 +25,15 @@ DEFINICJE
 
 
 ================================================================================
+ZGODA NA WARUNKI
+================================================================================
+Instalując, kopiując, pobierając lub używając Oprogramowania, Użytkownik potwierdza,
+że zapoznał się z treścią niniejszej umowy, rozumie jej postanowienia i wyraża zgodę
+na ich przestrzeganie. W przypadku braku zgody – nie wolno instalować ani używać
+Oprogramowania.
+
+
+================================================================================
 ZAKRES TERYTORIALNY
 ================================================================================
 
