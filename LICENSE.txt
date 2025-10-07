@@ -1,211 +1,199 @@
 ================================================================================
-UMOWA LICENCYJNA UŻYTKOWNIKA KOŃCOWEGO (EULA)
+END USER LICENSE AGREEMENT (EULA)
 GENSHIN STELLA MOD
 ================================================================================
 
-Data ostatniej modyfikacji dokumentu: 7 października 2025 r.
+Last modified: October 7, 2025
 
-Oryginał: język polski
-Wersje tłumaczone mają charakter informacyjny.
+Original language: Polish
+Translated versions are for informational purposes only.
 
 Copyright (c) 2022–2025 Sefinek
 
 ================================================================================
-DEFINICJE
+DEFINITIONS
 ================================================================================
 
-1. "Oprogramowanie" oznacza Genshin Stella Mod oraz wszystkie jego
-   komponenty wskazane w niniejszej umowie, w tym kod źródłowy,
-   pliki binarne, zasoby i dokumentację.
-2. "Użytkownik" oznacza osobę fizyczną lub prawną, która instaluje
-   lub korzysta z Oprogramowania.
-3. "Autor" lub "Licencjodawca" to Sefinek (https://sefinek.net),
-   właściciel praw autorskich do Oprogramowania.
-4. "Licencja" oznacza niniejszą umowę licencyjną (EULA).
+1. "Software" means Genshin Stella Mod and all its components indicated in this
+   Agreement, including source code, binary files, assets, and documentation.
+2. "User" means a natural or legal person who installs or uses the Software.
+3. "Author" or "Licensor" refers to Sefinek (https://sefinek.net),
+   the copyright holder and owner of all rights to the Software.
+4. "License" means this End User License Agreement (EULA).
 
 ================================================================================
-ZGODA NA WARUNKI
+ACCEPTANCE OF TERMS
 ================================================================================
 
-Instalując, kopiując, pobierając lub używając Oprogramowania,
-Użytkownik potwierdza, że zapoznał się z treścią niniejszej umowy,
-rozumie jej postanowienia i wyraża zgodę na ich przestrzeganie.
-W przypadku braku zgody – nie wolno instalować ani używać
-Oprogramowania.
+By installing, copying, downloading, or using the Software,
+the User acknowledges that they have read and understood this Agreement
+and agree to comply with its terms. If the User does not agree,
+they must not install or use the Software.
 
 ================================================================================
-ZAKRES TERYTORIALNY
+TERRITORIAL SCOPE
 ================================================================================
 
-Licencja udzielona niniejszą umową obowiązuje na całym świecie.
-Niezależnie od miejsca zamieszkania lub użytkowania Oprogramowania,
-do niniejszej licencji stosuje się prawo polskie.
+The license granted under this Agreement applies worldwide.
+Regardless of the User’s place of residence or use of the Software,
+this License is governed by Polish law.
 
 ================================================================================
-KLAUZULA EKSPORTOWA / ZGODNOŚĆ Z PRAWEM
+EXPORT / LEGAL COMPLIANCE CLAUSE
 ================================================================================
 
-Użytkownik zobowiązuje się korzystać z Oprogramowania wyłącznie
-zgodnie z obowiązującymi przepisami prawa krajowego i międzynarodowego.
-Użytkownik nie może używać Oprogramowania w sposób naruszający przepisy
-o kontroli eksportu, sankcjach gospodarczych, ochronie danych ani inne
-przepisy obowiązujące w jego jurysdykcji.
+The User agrees to use the Software only in accordance with applicable
+national and international laws. The User may not use the Software in any way
+that violates export control regulations, economic sanctions, data protection
+laws, or any other applicable legal provisions in their jurisdiction.
 
 ================================================================================
-OGRANICZENIA TERYTORIALNE
+GEOGRAPHICAL RESTRICTIONS
 ================================================================================
 
-Autor zastrzega sobie prawo do ograniczenia, zawieszenia lub całkowitego
-wstrzymania dostępu do Oprogramowania dla użytkowników z określonych
-państw, regionów, adresów IP lub innych obszarów geograficznych, według
-własnego uznania.
+The Author reserves the right to limit, suspend, or completely restrict
+access to the Software for users from specific countries, regions, IP addresses,
+or other geographic areas at their sole discretion.
 
-Decyzje te mogą być podejmowane z powodów prawnych, technicznych,
-bezpieczeństwa, biznesowych lub innych uzasadnionych przyczyn.
-Autor nie jest zobowiązany do podawania przyczyny podjętej decyzji.
+Such decisions may be made for legal, technical, security, business,
+or other justified reasons. The Author is not obliged to disclose
+the reason for such decisions.
 
-Ograniczenia te są ostateczne, a Autor nie ponosi odpowiedzialności za
-jakiekolwiek skutki wynikające z ich wprowadzenia.
-
-================================================================================
-ODPOWIEDZIALNOŚĆ UŻYTKOWNIKA
-================================================================================
-
-Użytkownik korzysta z Oprogramowania wyłącznie na własne ryzyko
-i odpowiedzialność.
-
-Autor nie ponosi żadnej odpowiedzialności za jakiekolwiek skutki
-wynikające z pobrania, instalacji, konfiguracji, użytkowania,
-aktualizacji, modyfikacji lub usunięcia Oprogramowania.
-
-Autor nie odpowiada za żadne szkody, utratę danych, błędy, awarie,
-uszkodzenia sprzętu, oprogramowania, systemu operacyjnego ani inne
-konsekwencje wynikające z korzystania z Oprogramowania.
-
-Autor nie udziela żadnych gwarancji dotyczących poprawnego działania,
-stabilności, zgodności ani wydajności Oprogramowania.
-
-Oprogramowanie jest dostarczane w stanie „TAKIM, JAKIM JEST”, bez
-jakichkolwiek gwarancji wyraźnych lub dorozumianych.
-
-Korzystanie z Oprogramowania oznacza pełną akceptację niniejszych
-postanowień oraz zrzeczenie się przez Użytkownika wszelkich roszczeń
-wobec Autora.
+These restrictions are final, and the Author shall not be held responsible
+for any consequences arising from their enforcement.
 
 ================================================================================
-BRAK POWIĄZAŃ Z MIHOYO / COGNOSPHERE / HOYOVERSE
+USER RESPONSIBILITY
 ================================================================================
 
-Genshin Stella Mod jest projektem całkowicie niezależnym, tworzonym i
-utrzymywanym przez Autora. Oprogramowanie to nie jest w żaden sposób
-powiązane, sponsorowane, autoryzowane ani wspierane przez miHoYo Co.,
-Ltd., COGNOSPHERE PTE. LTD., HoYoverse ani jakiekolwiek inne podmioty
-powiązane z grą Genshin Impact.
+The User uses the Software solely at their own risk and responsibility.
 
-Wszelkie znaki towarowe, prawa autorskie, logotypy i inne dobra
-niematerialne należą do ich prawnych właścicieli. Użycie tych nazw w
-niniejszej umowie ma wyłącznie charakter informacyjny i nie oznacza
-żadnej współpracy ani autoryzacji.
+The Author bears no liability for any consequences arising from the download,
+installation, configuration, usage, updating, modification, or removal
+of the Software.
 
-================================================================================
-ZNAKI TOWAROWE I WŁASNOŚĆ INTELEKTUALNA
-================================================================================
+The Author is not responsible for any damage, data loss, errors, crashes,
+hardware or software failures, or any other consequences resulting
+from the use of the Software.
 
-Wszystkie znaki towarowe, nazwy handlowe, logotypy, grafiki, projekty
-interfejsu, materiały promocyjne oraz inne elementy wizualne związane
-z Oprogramowaniem stanowią własność Autora, o ile nie wskazano inaczej.
+The Author provides no warranties as to proper operation, stability,
+compatibility, or performance of the Software.
 
-Użytkownik nie jest uprawniony do używania tych elementów w sposób,
-który mógłby sugerować powiązanie, aprobatę lub współpracę z Autorem,
-bez jego uprzedniej pisemnej zgody.
+The Software is provided “AS IS”, without any express or implied warranties.
+
+By using the Software, the User fully accepts these terms and waives
+any claims against the Author.
 
 ================================================================================
-KOMPONENTY WŁASNOŚCIOWE - WARUNKI UŻYTKOWANIA
+NO AFFILIATION WITH MIHOYO / COGNOSPHERE / HOYOVERSE
 ================================================================================
 
-Następujące komponenty podlegają licencji EULA (End User License Agreement):
+Genshin Stella Mod is an entirely independent project created and maintained
+by the Author. This Software is not affiliated with, sponsored, authorized,
+or endorsed by miHoYo Co., Ltd., COGNOSPHERE PTE. LTD., HoYoverse,
+or any other entities associated with the game Genshin Impact.
+
+All trademarks, copyrights, logos, and other intellectual property
+are the property of their respective owners. The use of such names
+in this Agreement is for informational purposes only and does not imply
+any cooperation or authorization.
+
+================================================================================
+TRADEMARKS AND INTELLECTUAL PROPERTY
+================================================================================
+
+All trademarks, trade names, logos, graphics, interface designs,
+promotional materials, and other visual elements related to the Software
+are the property of the Author unless otherwise indicated.
+
+The User is not permitted to use these elements in any way that may imply
+an association, endorsement, or collaboration with the Author
+without prior written consent.
+
+================================================================================
+PROPRIETARY COMPONENTS – TERMS OF USE
+================================================================================
+
+The following components are subject to this End User License Agreement (EULA):
 - Stella Mod Launcher
 - Genshin Stella Mod
 - Stella.Utils
 - Stella.StartupBeacon
 
-Instalując lub używając tych komponentów, zgadzasz się na następujące warunki:
+By installing or using any of these components, the User agrees to the following terms:
 
-1. UDZIELENIE LICENCJI:
-   Autor udziela Ci ograniczonej, niewyłącznej, nieprzekazywalnej licencji
-   na UŻYTKOWANIE tego oprogramowania wyłącznie do celów osobistych.
+1. LICENSE GRANT:
+   The Author grants you a limited, non-exclusive, non-transferable license
+   to USE this Software solely for personal purposes.
 
-2. DOZWOLONE DZIAŁANIA:
-   - instalowanie oprogramowania na swoim komputerze,
-   - uruchamianie i używanie oprogramowania zgodnie z przeznaczeniem,
-   - tworzenie kopii zapasowej oprogramowania dla własnych potrzeb.
+2. PERMITTED ACTIONS:
+   - Installing the Software on your computer,
+   - Running and using the Software as intended,
+   - Creating a backup copy of the Software for personal use.
 
-3. ZABRONIONE DZIAŁANIA:
-   - kopiowanie, rozpowszechnianie lub udostępnianie oprogramowania,
-   - modyfikowanie, dekompilowanie lub inżynieria wsteczna,
-   - usuwanie lub modyfikowanie informacji o prawach autorskich,
-   - używanie do celów komercyjnych bez zgody,
-   - tworzenie dzieł pochodnych,
-   - odsprzedaż lub sublicencjonowanie,
-   - nieprzestrzeganie warunków użytkowania Oprogramowania.
+3. PROHIBITED ACTIONS:
+   - Copying, distributing, or sharing the Software,
+   - Modifying, decompiling, or reverse engineering,
+   - Removing or altering copyright information,
+   - Using for commercial purposes without permission,
+   - Creating derivative works,
+   - Reselling or sublicensing,
+   - Violating the Software’s terms of use.
 
-4. WŁASNOŚĆ:
-   Wszystkie prawa, tytuł i zainteresowania w oprogramowaniu pozostają
-   własnością Autora. Ta licencja nie przenosi na Ciebie żadnych praw
-   własności.
-
-================================================================================
-ZAKAZ OBEJŚCIA ZABEZPIECZEŃ
-================================================================================
-
-Zabronione jest podejmowanie jakichkolwiek działań mających na celu
-obejście, usunięcie, modyfikację, dezaktywację lub zakłócenie działania
-zabezpieczeń technicznych zastosowanych w Oprogramowaniu.
-
-Dotyczy to w szczególności wszelkich prób analizy, inżynierii wstecznej,
-modyfikacji kodu, obchodzenia autoryzacji, omijania systemu licencji,
-sprawdzania integralności plików, a także wszelkich innych metod
-ingerencji w mechanizmy ochronne Oprogramowania.
-
-Jakiekolwiek naruszenie niniejszego postanowienia stanowi poważne
-naruszenie warunków licencji i może skutkować trwałym zablokowaniem
-dostępu do Oprogramowania, cofnięciem licencji lub podjęciem działań
-prawnych wobec Użytkownika.
-
-Autor zastrzega sobie prawo do zastosowania dodatkowych środków
-technicznych lub organizacyjnych mających na celu wykrycie i zapobieganie
-takim działaniom.
+4. OWNERSHIP:
+   All rights, title, and interest in the Software remain the property
+   of the Author. This License does not transfer any ownership rights
+   to the User.
 
 ================================================================================
-INTEGRALNOŚĆ I BEZPIECZEŃSTWO OPROGRAMOWANIA
+ANTI-TAMPERING / SECURITY BYPASS PROHIBITION
 ================================================================================
 
-Autor nie ponosi odpowiedzialności za działanie Oprogramowania w
-przypadku, gdy zostało ono zmodyfikowane, zintegrowane z oprogramowaniem
-osób trzecich lub uruchomione w środowisku zmieniającym jego kod,
-strukturę lub konfigurację.
+It is strictly forbidden to perform any actions intended to bypass,
+remove, modify, disable, or interfere with the technical protection
+mechanisms implemented in the Software.
 
-Wszelkie modyfikacje, cracki, patche, nakładki lub inne formy ingerencji
-mogą prowadzić do nieprawidłowego działania Oprogramowania, naruszając przy
-tym warunki niniejszej licencji.
+This includes, but is not limited to, attempts at analysis, reverse
+engineering, code modification, license circumvention, file integrity
+checking circumvention, or any other form of interference with
+the Software’s protective mechanisms.
 
-================================================================================
-KLAUZULA O ROZDZIELENIU CZĘŚCI PŁATNEJ I DARMOWEJ
-================================================================================
+Any violation of this clause constitutes a serious breach of the License
+and may result in permanent revocation of access to the Software,
+termination of the License, or legal action against the User.
 
-1. Wersja darmowa Oprogramowania może być używana wyłącznie do celów
-   osobistych, zgodnie z warunkami niniejszej licencji.
-2. Część płatna Oprogramowania (np. Stella Mod Plus) podlega osobnym
-   warunkom licencyjnym oraz/lub subskrypcyjnym, określonym przez Autora.
-3. Użytkownik wersji darmowej nie nabywa żadnych praw do funkcji
-   udostępnianych w wersji płatnej, o ile nie wykupi licencji/subskrypcji
-   zgodnie z odrębnymi zasadami.
+The Author reserves the right to employ additional technical or
+organizational measures to detect and prevent such actions.
 
 ================================================================================
-KOMPONENTY CC BY-NC-SA 4.0
+SOFTWARE INTEGRITY AND SECURITY
 ================================================================================
 
-Następujące komponenty są licencjonowane na warunkach CC BY-NC-SA 4.0:
+The Author shall not be held responsible for the operation of the Software
+if it has been modified, integrated with third-party software,
+or executed in an environment that alters its code, structure, or configuration.
+
+Any modifications, cracks, patches, overlays, or other forms of interference
+may cause the Software to malfunction and will constitute a violation
+of this License Agreement.
+
+================================================================================
+SEPARATION OF FREE AND PAID COMPONENTS CLAUSE
+================================================================================
+
+1. The free version of the Software may be used only for personal purposes,
+   in accordance with the terms of this License.
+2. The paid part of the Software (e.g., Stella Mod Plus) is subject
+   to separate licensing and/or subscription terms established by the Author.
+3. Users of the free version do not acquire any rights to features
+   available in the paid version unless they purchase a license or subscription
+   under the applicable conditions.
+
+================================================================================
+CC BY-NC-SA 4.0 COMPONENTS
+================================================================================
+
+The following components are licensed under the CC BY-NC-SA 4.0 license:
 - Stella.Prepare
 
 Attribution-NonCommercial-ShareAlike 4.0 International
@@ -457,10 +445,10 @@ trademark or logo of Creative Commons without its prior written consent.
 Creative Commons may be contacted at creativecommons.org.
 
 ================================================================================
-KOMPONENTY MIT LICENSE
+MIT LICENSE COMPONENTS
 ================================================================================
 
-Następujące komponenty są licencjonowane na warunkach MIT License:
+The following components are licensed under the MIT License:
 - Stella.Configuration
 - Stella.DeviceIdentifier
 - Stella.InfoBeforeStart
@@ -489,143 +477,132 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ================================================================================
-ZASTRZEŻENIA GWARANCYJNE
+WARRANTY DISCLAIMER
 ================================================================================
 
-OPROGRAMOWANIE JEST DOSTARCZANE W STANIE „TAKIM, JAKIM JEST", BEZ JAKIEJKOLWIEK
-GWARANCJI, WYRAŹNEJ CZY DOROZUMIANEJ, W TYM MIĘDZY INNYMI GWARANCJI PRZYDATNOŚCI
-HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU ORAZ NINARUSZANIA PRAW OSÓB TRZECICH.
-W ŻADNYM WYPADKU AUTORZY ANI WŁAŚCICIELE PRAW AUTORSKICH NIE PONOSZĄ
-ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK ROSZCZENIA, SZKODY CZY INNE ZOBOWIĄZANIA,
-NIEZALEŻNIE OD TEGO, CZY WYNIKAJĄ ONE Z UMOWY, CZYNU NIEDOZWOLONEGO CZY
-W INNY SPOSÓB, A ZWIĄZANE SĄ Z OPROGRAMOWANIEM LUB KORZYSTANIEM Z NIEGO,
-BĄDŹ Z INNYMI DZIAŁANIAMI DOTYCZĄCYMI OPROGRAMOWANIA.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT ANY WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIMS,
+DAMAGES, OR OTHER LIABILITIES, WHETHER IN CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
 
-Autor nie gwarantuje zgodności Oprogramowania z każdym systemem operacyjnym,
-konfiguracją sprzętową, wersją gry ani środowiskiem użytkownika. Działanie
-Oprogramowania może różnić się w zależności od konfiguracji systemu, wersji
-gry Genshin Impact, sterowników, bibliotek lub oprogramowania innych firm.
-
-================================================================================
-KLAUZULA O AKTUALIZACJACH, WSPARCIU I DYSTRYBUCJI
-================================================================================
-
-Autor nie gwarantuje, że Oprogramowanie będzie działać w przyszłości
-po aktualizacjach gry Genshin Impact lub systemu operacyjnego.
-Wsparcie techniczne, aktualizacje oraz dalszy rozwój mogą być w dowolnym
-momencie ograniczone lub całkowicie zakończone według wyłącznego uznania
-Autora.
-
-Autor zastrzega sobie także prawo do zaprzestania dalszej dystrybucji
-Oprogramowania w dowolnym czasie, bez obowiązku rekompensaty wobec
-Użytkowników.
+The Author does not guarantee that the Software will be compatible with every
+operating system, hardware configuration, game version, or user environment.
+The Software’s performance may vary depending on system configuration,
+the version of Genshin Impact, drivers, libraries, or third-party software.
 
 ================================================================================
-KORZYSTANIE Z USŁUG ONLINE
+UPDATES, SUPPORT, AND DISTRIBUTION CLAUSE
 ================================================================================
 
-Niektóre funkcje Oprogramowania mogą wymagać aktywnego połączenia
-z serwerami Autora w celu weryfikacji licencji, pobrania aktualizacji
-lub synchronizacji danych technicznych.
+The Author does not guarantee that the Software will function in the future
+after updates to Genshin Impact or the operating system.
+Technical support, updates, and further development may be limited or
+discontinued at any time at the sole discretion of the Author.
 
-Autor nie ponosi odpowiedzialności za niedostępność tych usług
-spowodowaną przerwami technicznymi, konserwacją, awariami sieci
-lub czynnikami niezależnymi od niego.
-
-================================================================================
-POLITYKA PRYWATNOŚCI
-================================================================================
-
-Korzystanie z Oprogramowania oraz Launchera może wiązać się z
-przetwarzaniem danych technicznych lub identyfikacyjnych urządzenia
-Użytkownika.
-
-Autor przetwarza dane wyłącznie w zakresie niezbędnym do zapewnienia
-prawidłowego działania, bezpieczeństwa, aktualizacji i weryfikacji
-licencji Oprogramowania.
-
-Szczegółowe informacje dotyczące rodzaju przetwarzanych danych,
-miejsca ich przechowywania, podstaw prawnych oraz praw Użytkownika
-znajdują się w Polityce Prywatności dostępnej na oficjalnej stronie
-projektu: https://stella.sefinek.net/docs?page=privacy-policy
-
-Korzystanie z Oprogramowania oznacza akceptację zasad określonych
-w Polityce Prywatności.
+The Author also reserves the right to cease further distribution of the
+Software at any time, without any obligation of compensation to Users.
 
 ================================================================================
-KLAUZULA O ZMIANIE LICENCJI
+USE OF ONLINE SERVICES
 ================================================================================
 
-Autor zastrzega sobie prawo do zmiany warunków niniejszej umowy
-licencyjnej (EULA) w dowolnym czasie.
+Some features of the Software may require an active connection to the
+Author’s servers for license verification, updates, or synchronization
+of technical data.
 
-Zmieniona wersja licencji obowiązuje od momentu jej opublikowania
-na oficjalnej stronie autora lub wraz z nową wersją Oprogramowania.
-
-Użytkownicy są informowani o zmianach warunków licencji poprzez
-changelog opublikowany na stronie internetowej projektu. Po
-zainstalowaniu aktualizacji launchera, changelog jest również
-wyświetlany w jego oknie informacyjnym.
-
-Dalsze korzystanie z Oprogramowania po wprowadzeniu zmian oznacza
-pełną akceptację nowej wersji licencji przez Użytkownika.
+The Author is not responsible for the unavailability of such services due to
+technical interruptions, maintenance, network failures, or other factors
+beyond their control.
 
 ================================================================================
-ROZWIĄZANIE UMOWY PRZEZ UŻYTKOWNIKA
+PRIVACY POLICY
 ================================================================================
 
-Użytkownik może w dowolnym momencie rozwiązać niniejszą umowę
-poprzez zaprzestanie korzystania z Oprogramowania i jego usunięcie
-z urządzenia. Rozwiązanie umowy przez użytkownika nie zwalnia go
-z odpowiedzialności za ewentualne wcześniejsze naruszenia warunków
-licencji.
+The use of the Software and the Launcher may involve processing of technical
+or device-identifying data of the User.
+
+The Author processes such data only to the extent necessary to ensure proper
+functionality, security, updates, and license verification of the Software.
+
+Detailed information about the types of processed data, storage locations,
+legal bases, and User rights is available in the Privacy Policy published on
+the official project website: https://stella.sefinek.net/docs?page=privacy-policy
+
+By using the Software, the User accepts the terms of the Privacy Policy.
 
 ================================================================================
-ZGŁASZANIE NARUSZEŃ I KLAUZULA DMCA
+LICENSE MODIFICATION CLAUSE
 ================================================================================
 
-Wszelkie zgłoszenia dotyczące naruszeń praw autorskich, własności
-intelektualnej, bezpieczeństwa lub nieuprawnionego wykorzystania
-Oprogramowania należy kierować bezpośrednio do Autora.
+The Author reserves the right to modify the terms of this End User License
+Agreement (EULA) at any time.
 
-Zgłoszenia można przesyłać na adres e-mail: contact@sefinek.net
+The revised version of the License becomes effective upon its publication
+on the Author’s official website or upon release of a new version of the
+Software.
 
-Autor zastrzega sobie prawo do podjęcia odpowiednich działań prawnych
-wobec osób lub podmiotów naruszających warunki niniejszej licencji,
-prawa autorskie, znaki towarowe lub inne dobra niematerialne związane
-z Oprogramowaniem.
+Users will be informed about License changes through the changelog published
+on the project’s website. After installing a launcher update, the changelog
+is also displayed in its information window.
 
-W przypadku otrzymania zgłoszenia zgodnego z procedurą DMCA
-(Digital Millennium Copyright Act) lub równoważnymi przepisami prawa,
-Autor podejmie odpowiednie działania zgodnie z obowiązującymi regulacjami
-i w dobrej wierze, w celu ochrony praw własności intelektualnej.
+Continued use of the Software after such changes constitutes full acceptance
+of the new License terms by the User.
 
 ================================================================================
-POSTANOWIENIA KOŃCOWE
+TERMINATION BY USER
 ================================================================================
 
-1. Jeżeli którekolwiek postanowienie niniejszej umowy zostanie uznane
-   za nieważne lub niewykonalne, pozostałe postanowienia pozostają
-   w mocy i wiążą strony.
-2. Niniejsza umowa podlega prawu polskiemu. Wszelkie spory wynikające
-   z jej postanowień będą rozstrzygane przez sąd właściwy dla siedziby Autora.
-3. Niniejsza umowa stanowi całość porozumienia pomiędzy stronami
-   i zastępuje wszelkie wcześniejsze ustalenia, zarówno pisemne,
-   jak i ustne, dotyczące oprogramowania.
-4. W przypadku sporządzenia tłumaczeń niniejszej umowy na inne języki,
-   wersja w języku polskim jest rozstrzygająca w razie rozbieżności.
+The User may terminate this Agreement at any time by ceasing use of the
+Software and deleting it from their device. Termination of this Agreement
+by the User does not release them from responsibility for any prior
+violations of the License terms.
 
 ================================================================================
-KONTAKT I WSPARCIE TECHNICZNE
+REPORTING VIOLATIONS AND DMCA CLAUSE
 ================================================================================
 
-Autor może zapewniać wsparcie techniczne lub odpowiedzi na zgłoszenia
-Użytkowników według własnego uznania i w miarę dostępności zasobów.
+All reports of copyright infringement, intellectual property violations,
+security issues, or unauthorized use of the Software should be sent directly
+to the Author.
 
-Kontakt z Autorem możliwy jest za pośrednictwem systemu ticketów na stronie:
+Reports can be submitted to: contact@sefinek.net
+
+The Author reserves the right to take appropriate legal action against
+individuals or entities violating this License, copyright, trademarks,
+or other intellectual property rights related to the Software.
+
+Upon receiving a notice compliant with the Digital Millennium Copyright Act
+(DMCA) or equivalent legal regulations, the Author will take appropriate
+actions in good faith to protect intellectual property rights.
+
+================================================================================
+FINAL PROVISIONS
+================================================================================
+
+1. If any provision of this Agreement is found invalid or unenforceable,
+   the remaining provisions shall remain in full force and effect.
+2. This Agreement is governed by Polish law. Any disputes arising from it
+   shall be resolved by the court having jurisdiction over the Author’s
+   registered office.
+3. This Agreement constitutes the entire understanding between the parties
+   and supersedes all prior written or oral agreements regarding the Software.
+4. In case of translation discrepancies, the Polish version of this Agreement
+   shall prevail.
+
+================================================================================
+CONTACT AND TECHNICAL SUPPORT
+================================================================================
+
+The Author may provide technical support or responses to User inquiries
+at their sole discretion and based on resource availability.
+
+Contact with the Author is possible via the ticket system at:
 https://patrons.sefinek.net
 
-Kontakt mailowy: contact@sefinek.net
+Email contact: contact@sefinek.net
 
-Autor nie gwarantuje odpowiedzi na wszystkie zgłoszenia ani dostępności
-wsparcia przez określony czas.
+The Author does not guarantee replies to all inquiries nor the availability
+of support within a specific time frame.
