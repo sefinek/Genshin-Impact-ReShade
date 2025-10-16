@@ -134,7 +134,6 @@ terms:
    - Creating a backup copy of the Software for personal use.
 
 3. PROHIBITED ACTIONS:
-   - Copying, distributing, or sharing the Software,
    - Modifying, decompiling, or reverse engineering,
    - Removing or altering copyright information,
    - Using for commercial purposes without permission,
