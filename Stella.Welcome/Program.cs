@@ -57,8 +57,8 @@ internal static class Program
 		}
 
 		ApplicationConfiguration.Initialize();
-		Application.ThreadException += (_, e) => _logger.Error($"ThreadException: {e.Exception.Message}");
-		AppDomain.CurrentDomain.UnhandledException += (_, e) => _logger.Error($"UnhandledException: {((Exception)e.ExceptionObject).Message}");
+		Application.ThreadException += (_, e) => _logger.Error(e.Exception);
+        AppDomain.CurrentDomain.UnhandledException += (_, e) => _logger.Error((Exception)e.ExceptionObject);
 
 		try
 		{
