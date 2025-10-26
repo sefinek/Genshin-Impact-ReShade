@@ -63,8 +63,8 @@ Decyzje te mogą być podejmowane z powodów prawnych, technicznych,
 bezpieczeństwa, biznesowych lub innych uzasadnionych przyczyn. Autor nie jest
 zobowiązany do podawania przyczyny podjętej decyzji.
 
-Ograniczenia te są ostateczne, a Autor nie ponosi odpowiedzialności za
-jakiekolwiek skutki wynikające z ich wprowadzenia.
+Ograniczenia te są ostateczne, a Autor nie ponosi odpowiedzialności za żadne
+skutki wynikające z ich wprowadzenia.
 
 ================================================================================
 ODPOWIEDZIALNOŚĆ UŻYTKOWNIKA
@@ -139,7 +139,6 @@ Instalując lub używając tych komponentów, zgadzasz się na następujące war
    - tworzenie kopii zapasowej oprogramowania dla własnych potrzeb.
 
 3. ZABRONIONE DZIAŁANIA:
-   - kopiowanie, rozpowszechnianie lub udostępnianie oprogramowania,
    - modyfikowanie, dekompilowanie lub inżynieria wsteczna,
    - usuwanie lub modyfikowanie informacji o prawach autorskich,
    - używanie do celów komercyjnych bez zgody,
@@ -181,7 +180,7 @@ Autor nie ponosi odpowiedzialności za działanie Oprogramowania w przypadku,
 gdy zostało ono zmodyfikowane, zintegrowane z oprogramowaniem osób trzecich
 lub uruchomione w środowisku zmieniającym jego kod, strukturę lub konfigurację.
 
-Wszelkie modyfikacje, cracki, patche, nakładki lub inne formy ingerencji mogą
+Wszelkie modyfikacje, cracki, patche lub inne formy ingerencji mogą
 prowadzić do nieprawidłowego działania Oprogramowania, naruszając przy tym
 warunki niniejszej licencji.
 
@@ -189,13 +188,48 @@ warunki niniejszej licencji.
 KLAUZULA O ROZDZIELENIU CZĘŚCI PŁATNEJ I DARMOWEJ
 ================================================================================
 
+Dla celów niniejszej licencji:
+- "Wersja darmowa" oznacza wersję Oprogramowania udostępnianą bezpłatnie,
+   z ograniczonym zakresem funkcji.
+- "Wersja płatna" oznacza rozszerzoną wersję Oprogramowania Stella Mod Plus,
+   do której dostęp wymaga aktywnej subskrypcji.
+
 1. Wersja darmowa Oprogramowania może być używana wyłącznie do celów osobistych,
    zgodnie z warunkami niniejszej licencji.
-2. Część płatna Oprogramowania (np. Stella Mod Plus) podlega osobnym warunkom
-   licencyjnym oraz/lub subskrypcyjnym, określonym przez Autora.
-3. Użytkownik wersji darmowej nie nabywa żadnych praw do funkcji udostępnianych
-   w wersji płatnej, o ile nie wykupi licencji/subskrypcji zgodnie z odrębnymi
-   zasadami.
+
+2. Zabronione jest podejmowanie jakichkolwiek działań mających na celu obejście
+   ograniczeń technicznych, funkcjonalnych, zabezpieczeń lub mechanizmów
+   autoryzacji oddzielających wersję darmową od płatnej. W szczególności
+   zakazane jest modyfikowanie plików, ingerowanie w kod, emulowanie serwera
+   licencyjnego, stosowanie cracków, patchy, iniekcji kodu, nakładek lub innych
+   metod umożliwiających nieautoryzowany dostęp do funkcji płatnych. Jakiekolwiek
+   próby obejścia ograniczeń będą traktowane jako poważne naruszenie niniejszej
+   licencji i mogą skutkować natychmiastowym cofnięciem dostępu do Oprogramowania.
+
+3. Licencja na wersję płatną jest przypisana do konkretnego Użytkownika oraz
+   liczby urządzeń dozwolonej w ramach wykupionego tieru subskrypcji, zgodnie
+   z zasadami określonymi przez Autora. Limit aktywacji może różnić się w
+   zależności od tieru i może zostać zmieniony w przyszłości.
+
+   Licencja może być używana wyłącznie na urządzeniach należących do tego samego
+   gospodarstwa domowego Użytkownika, rozumianego jako wspólne miejsce
+   zamieszkania lub użytkowania sprzętu przez osoby powiązane rodzinnie.
+   Zabronione jest udostępnianie, dzielenie, sublicencjonowanie lub
+   wykorzystywanie licencji przez osoby trzecie spoza gospodarstwa domowego.
+
+4. Zakup subskrypcji Stella Mod Plus nie stanowi zakupu oprogramowania 3DMigoto
+   ani nie przenosi żadnych praw do tego projektu. 3DMigoto jest niezależnym
+   komponentem stworzonym przez zewnętrznych autorów i objętym własną licencją.
+   Subskrypcja Stella Mod Plus jedynie odblokowuje dostęp do funkcji
+   integrujących 3DMigoto z Oprogramowaniem, bez udzielania licencji na samo
+   3DMigoto ani jego elementy.
+
+5. Różnice w zakresie funkcji, wydajności lub stabilności działania pomiędzy
+   wersją darmową a płatną nie stanowią wady Oprogramowania ani podstawy do
+   jakichkolwiek roszczeń wobec Autora.
+
+6. Szczegółowe zasady świadczenia usług i subskrypcji określa odrębny dokument:
+    https://stella.sefinek.net/docs?page=terms-of-use
 
 ================================================================================
 KOMPONENTY CC BY-NC-SA 4.0
