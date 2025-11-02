@@ -1,7 +1,7 @@
-================================================================================
+=================================================
 UMOWA LICENCYJNA UŻYTKOWNIKA KOŃCOWEGO (EULA)
 GENSHIN STELLA MOD
-================================================================================
+=================================================
 
 Data ostatniej modyfikacji dokumentu: 7 października 2025 r.
 
@@ -10,9 +10,9 @@ Wersje tłumaczone mają charakter informacyjny.
 
 Copyright (c) 2022–2025 Sefinek
 
-================================================================================
+=================================================
 DEFINICJE
-================================================================================
+=================================================
 
 1. "Oprogramowanie" oznacza Genshin Stella Mod oraz wszystkie jego komponenty
    wskazane w niniejszej umowie, w tym kod źródłowy, pliki binarne, zasoby i
@@ -23,26 +23,26 @@ DEFINICJE
    praw autorskich do Oprogramowania.
 4. "Licencja" oznacza niniejszą umowę licencyjną (EULA).
 
-================================================================================
+=================================================
 ZGODA NA WARUNKI
-================================================================================
+=================================================
 
 Instalując, kopiując, pobierając lub używając Oprogramowania, Użytkownik
 potwierdza, że zapoznał się z treścią niniejszej umowy, rozumie jej
 postanowienia i wyraża zgodę na ich przestrzeganie. W przypadku braku zgody –
 nie wolno instalować ani używać Oprogramowania.
 
-================================================================================
+=================================================
 ZAKRES TERYTORIALNY
-================================================================================
+=================================================
 
 Licencja udzielona niniejszą umową obowiązuje na całym świecie. Niezależnie od
 miejsca zamieszkania lub użytkowania Oprogramowania, do niniejszej licencji
 stosuje się prawo polskie.
 
-================================================================================
+=================================================
 KLAUZULA EKSPORTOWA / ZGODNOŚĆ Z PRAWEM
-================================================================================
+=================================================
 
 Użytkownik zobowiązuje się korzystać z Oprogramowania wyłącznie zgodnie z
 obowiązującymi przepisami prawa krajowego i międzynarodowego. Użytkownik nie
@@ -50,9 +50,9 @@ może używać Oprogramowania w sposób naruszający przepisy o kontroli eksport
 sankcjach gospodarczych, ochronie danych ani inne przepisy obowiązujące w jego
 jurysdykcji.
 
-================================================================================
+=================================================
 OGRANICZENIA TERYTORIALNE
-================================================================================
+=================================================
 
 Autor zastrzega sobie prawo do ograniczenia, zawieszenia lub całkowitego
 wstrzymania dostępu do Oprogramowania dla użytkowników z określonych państw,
@@ -66,9 +66,9 @@ zobowiązany do podawania przyczyny podjętej decyzji.
 Ograniczenia te są ostateczne, a Autor nie ponosi odpowiedzialności za żadne
 skutki wynikające z ich wprowadzenia.
 
-================================================================================
+=================================================
 ODPOWIEDZIALNOŚĆ UŻYTKOWNIKA
-================================================================================
+=================================================
 
 Użytkownik korzysta z Oprogramowania wyłącznie na własne ryzyko i
 odpowiedzialność.
@@ -90,9 +90,9 @@ gwarancji wyraźnych lub dorozumianych.
 Korzystanie z Oprogramowania oznacza pełną akceptację niniejszych postanowień
 oraz zrzeczenie się przez Użytkownika wszelkich roszczeń wobec Autora.
 
-================================================================================
+=================================================
 BRAK POWIĄZAŃ Z MIHOYO / COGNOSPHERE / HOYOVERSE
-================================================================================
+=================================================
 
 Genshin Stella Mod jest projektem całkowicie niezależnym, tworzonym i
 utrzymywanym przez Autora. Oprogramowanie to nie jest w żaden sposób
@@ -105,9 +105,9 @@ należą do ich prawnych właścicieli. Użycie tych nazw w niniejszej umowie ma
 wyłącznie charakter informacyjny i nie oznacza żadnej współpracy ani
 autoryzacji.
 
-================================================================================
+=================================================
 ZNAKI TOWAROWE I WŁASNOŚĆ INTELEKTUALNA
-================================================================================
+=================================================
 
 Wszystkie znaki towarowe, nazwy handlowe, logotypy, grafiki, projekty
 interfejsu, materiały promocyjne oraz inne elementy wizualne związane z
@@ -117,9 +117,9 @@ Użytkownik nie jest uprawniony do używania tych elementów w sposób, który
 mógłby sugerować powiązanie, aprobatę lub współpracę z Autorem, bez jego
 uprzedniej pisemnej zgody.
 
-================================================================================
+=================================================
 KOMPONENTY WŁASNOŚCIOWE - WARUNKI UŻYTKOWANIA
-================================================================================
+=================================================
 
 Następujące komponenty podlegają licencji EULA (End User License Agreement):
 - Stella Mod Launcher
@@ -151,9 +151,9 @@ Instalując lub używając tych komponentów, zgadzasz się na następujące war
    własnością Autora. Ta licencja nie przenosi na Ciebie żadnych praw
    własności.
 
-================================================================================
+=================================================
 ZAKAZ OBEJŚCIA ZABEZPIECZEŃ
-================================================================================
+=================================================
 
 Zabronione jest podejmowanie jakichkolwiek działań mających na celu obejście,
 usunięcie, modyfikację, dezaktywację lub zakłócenie działania zabezpieczeń
@@ -172,9 +172,9 @@ Użytkownika.
 Autor zastrzega sobie prawo do zastosowania dodatkowych środków technicznych
 lub organizacyjnych mających na celu wykrycie i zapobieganie takim działaniom.
 
-================================================================================
+=================================================
 INTEGRALNOŚĆ I BEZPIECZEŃSTWO OPROGRAMOWANIA
-================================================================================
+=================================================
 
 Autor nie ponosi odpowiedzialności za działanie Oprogramowania w przypadku,
 gdy zostało ono zmodyfikowane, zintegrowane z oprogramowaniem osób trzecich
@@ -184,9 +184,9 @@ Wszelkie modyfikacje, cracki, patche lub inne formy ingerencji mogą
 prowadzić do nieprawidłowego działania Oprogramowania, naruszając przy tym
 warunki niniejszej licencji.
 
-================================================================================
+=================================================
 KLAUZULA O ROZDZIELENIU CZĘŚCI PŁATNEJ I DARMOWEJ
-================================================================================
+=================================================
 
 Dla celów niniejszej licencji:
 - "Wersja darmowa" oznacza wersję Oprogramowania udostępnianą bezpłatnie,
@@ -231,9 +231,9 @@ Dla celów niniejszej licencji:
 6. Szczegółowe zasady świadczenia usług i subskrypcji określa odrębny dokument:
     https://stella.sefinek.net/docs?page=terms-of-use
 
-================================================================================
+=================================================
 KOMPONENTY CC BY-NC-SA 4.0
-================================================================================
+=================================================
 
 Następujące komponenty są licencjonowane na warunkach CC BY-NC-SA 4.0:
 - Stella.Prepare
@@ -466,9 +466,9 @@ without its prior written consent.
 
 Creative Commons may be contacted at creativecommons.org.
 
-================================================================================
+=================================================
 KOMPONENTY MIT LICENSE
-================================================================================
+=================================================
 
 Następujące komponenty są licencjonowane na warunkach MIT License:
 - Stella.Configuration
@@ -497,9 +497,9 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-================================================================================
+=================================================
 ZASTRZEŻENIA GWARANCYJNE
-================================================================================
+=================================================
 
 OPROGRAMOWANIE JEST DOSTARCZANE W STANIE „TAKIM, JAKIM JEST", BEZ JAKIEJKOLWIEK
 GWARANCJI, WYRAŹNEJ CZY DOROZUMIANEJ, W TYM MIĘDZY INNYMI GWARANCJI
@@ -515,9 +515,9 @@ konfiguracją sprzętową, wersją gry ani środowiskiem użytkownika. Działani
 Oprogramowania może różnić się w zależności od konfiguracji systemu, wersji
 gry Genshin Impact, sterowników, bibliotek lub oprogramowania innych firm.
 
-================================================================================
+=================================================
 KLAUZULA O AKTUALIZACJACH, WSPARCIU I DYSTRYBUCJI
-================================================================================
+=================================================
 
 Autor nie gwarantuje, że Oprogramowanie będzie działać w przyszłości po
 aktualizacjach gry Genshin Impact lub systemu operacyjnego. Wsparcie
@@ -528,9 +528,9 @@ Autor zastrzega sobie także prawo do zaprzestania dalszej dystrybucji
 Oprogramowania w dowolnym czasie, bez obowiązku rekompensaty wobec
 Użytkowników.
 
-================================================================================
+=================================================
 KORZYSTANIE Z USŁUG ONLINE
-================================================================================
+=================================================
 
 Niektóre funkcje Oprogramowania mogą wymagać aktywnego połączenia z serwerami
 Autora w celu weryfikacji licencji, pobrania aktualizacji lub synchronizacji
@@ -540,9 +540,9 @@ Autor nie ponosi odpowiedzialności za niedostępność tych usług spowodowaną
 przerwami technicznymi, konserwacją, awariami sieci lub czynnikami
 niezależnymi od niego.
 
-================================================================================
+=================================================
 POLITYKA PRYWATNOŚCI
-================================================================================
+=================================================
 
 Korzystanie z Oprogramowania oraz Launchera może wiązać się z przetwarzaniem
 danych technicznych lub identyfikacyjnych urządzenia Użytkownika.
@@ -559,9 +559,9 @@ https://stella.sefinek.net/docs?page=privacy-policy
 Korzystanie z Oprogramowania oznacza akceptację zasad określonych w Polityce
 Prywatności.
 
-================================================================================
+=================================================
 KLAUZULA O ZMIANIE LICENCJI
-================================================================================
+=================================================
 
 Autor zastrzega sobie prawo do zmiany warunków niniejszej umowy licencyjnej
 (EULA) w dowolnym czasie.
@@ -576,18 +576,18 @@ launchera owa lista jest również wyświetlana w osobnym oknie informacyjnym.
 Dalsze korzystanie z Oprogramowania po wprowadzeniu zmian oznacza pełną
 akceptację nowej wersji licencji przez Użytkownika.
 
-================================================================================
+=================================================
 ROZWIĄZANIE UMOWY PRZEZ UŻYTKOWNIKA
-================================================================================
+=================================================
 
 Użytkownik może w dowolnym momencie rozwiązać niniejszą umowę poprzez
 zaprzestanie korzystania z Oprogramowania i jego usunięcie z urządzenia.
 Rozwiązanie umowy przez użytkownika nie zwalnia go z odpowiedzialności za
 ewentualne wcześniejsze naruszenia warunków licencji.
 
-================================================================================
+=================================================
 ZGŁASZANIE NARUSZEŃ I KLAUZULA DMCA
-================================================================================
+=================================================
 
 Wszelkie zgłoszenia dotyczące naruszeń praw autorskich, własności
 intelektualnej, bezpieczeństwa lub nieuprawnionego wykorzystania Oprogramowania
@@ -604,9 +604,9 @@ Copyright Act) lub równoważnymi przepisami prawa, Autor podejmie odpowiednie
 działania zgodnie z obowiązującymi regulacjami i w dobrej wierze, w celu
 ochrony praw własności intelektualnej.
 
-================================================================================
+=================================================
 POSTANOWIENIA KOŃCOWE
-================================================================================
+=================================================
 
 1. Jeżeli którekolwiek postanowienie niniejszej umowy zostanie uznane za
    nieważne lub niewykonalne, pozostałe postanowienia pozostają w mocy i
@@ -619,9 +619,9 @@ POSTANOWIENIA KOŃCOWE
 4. W przypadku sporządzenia tłumaczeń niniejszej umowy na inne języki, wersja
    w języku polskim jest rozstrzygająca w razie rozbieżności.
 
-================================================================================
+=================================================
 KONTAKT I WSPARCIE TECHNICZNE
-================================================================================
+=================================================
 
 Autor może zapewniać wsparcie techniczne lub odpowiedzi na zgłoszenia
 Użytkowników według własnego uznania i w miarę dostępności zasobów.
