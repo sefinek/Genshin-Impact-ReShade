@@ -430,7 +430,7 @@ MIT LICENSE COMPONENTS
 The following components are licensed under the MIT License:
 - Stella.Configuration
 - Stella.DeviceIdentifier
-- Stella.InfoBeforeStart
+- Stella.Welcome
 - Test.Genshin
 
 MIT License
