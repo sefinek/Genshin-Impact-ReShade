@@ -1,7 +1,7 @@
-=================================================
+=============================================================
 END USER LICENSE AGREEMENT (EULA)
 GENSHIN STELLA MOD
-=================================================
+=============================================================
 
 Last modified: October 7, 2025
 
@@ -10,9 +10,9 @@ Translated versions are for informational purposes only.
 
 Copyright (c) 2022–2025 Sefinek
 
-=================================================
+=============================================================
 DEFINITIONS
-=================================================
+=============================================================
 
 1. "Software" means Genshin Stella Mod and all its components indicated in
    this Agreement, including source code, binary files, assets, and
@@ -22,18 +22,18 @@ DEFINITIONS
    copyright holder and owner of all rights to the Software.
 4. "License" means this End User License Agreement (EULA).
 
-=================================================
+=============================================================
 ACCEPTANCE OF TERMS
-=================================================
+=============================================================
 
 By installing, copying, downloading, or using the Software, the User
 acknowledges that they have read and understood this Agreement and agree to
 comply with its terms. If the User does not agree, they must not install or
 use the Software.
 
-=================================================
+=============================================================
 TERRITORIAL SCOPE
-=================================================
+=============================================================
 
 The license granted under this Agreement applies worldwide. Regardless of the
 User’s place of residence or use of the Software, this License is governed by
@@ -48,9 +48,9 @@ national and international laws. The User may not use the Software in any way
 that violates export control regulations, economic sanctions, data protection
 laws, or any other applicable legal provisions in their jurisdiction.
 
-=================================================
+=============================================================
 GEOGRAPHICAL RESTRICTIONS
-=================================================
+=============================================================
 
 The Author reserves the right to limit, suspend, or completely restrict access
 to the Software for users from specific countries, regions, IP addresses, or
@@ -63,9 +63,9 @@ decisions.
 These restrictions are final, and the Author shall not be held responsible for
 any consequences arising from their enforcement.
 
-=================================================
+=============================================================
 USER RESPONSIBILITY
-=================================================
+=============================================================
 
 The User uses the Software solely at their own risk and responsibility.
 
@@ -85,9 +85,9 @@ The Software is provided “AS IS”, without any express or implied warranties.
 By using the Software, the User fully accepts these terms and waives any
 claims against the Author.
 
-=================================================
+=============================================================
 NO AFFILIATION WITH MIHOYO / COGNOSPHERE / HOYOVERSE
-=================================================
+=============================================================
 
 Genshin Stella Mod is an entirely independent project created and maintained by
 the Author. This Software is not affiliated with, sponsored, authorized, or
@@ -99,9 +99,9 @@ property of their respective owners. The use of such names in this Agreement is
 for informational purposes only and does not imply any cooperation or
 authorization.
 
-=================================================
+=============================================================
 TRADEMARKS AND INTELLECTUAL PROPERTY
-=================================================
+=============================================================
 
 All trademarks, trade names, logos, graphics, interface designs, promotional
 materials, and other visual elements related to the Software are the property of
@@ -111,9 +111,9 @@ The User is not permitted to use these elements in any way that may imply an
 association, endorsement, or collaboration with the Author without prior written
 consent.
 
-=================================================
+=============================================================
 PROPRIETARY COMPONENTS – TERMS OF USE
-=================================================
+=============================================================
 
 The following components are subject to this End User License Agreement (EULA):
 - Stella Mod Launcher
@@ -145,9 +145,9 @@ terms:
    All rights, title, and interest in the Software remain the property of the
    Author. This License does not transfer any ownership rights to the User.
 
-=================================================
+=============================================================
 ANTI-TAMPERING / SECURITY BYPASS PROHIBITION
-=================================================
+=============================================================
 
 It is strictly forbidden to perform any actions intended to bypass, remove,
 modify, disable, or interfere with the technical protection mechanisms
@@ -164,9 +164,9 @@ License, or legal action against the User.
 The Author reserves the right to employ additional technical or organizational
 measures to detect and prevent such actions.
 
-=================================================
+=============================================================
 SOFTWARE INTEGRITY AND SECURITY
-=================================================
+=============================================================
 
 The Author shall not be held responsible for the operation of the Software if it
 has been modified, integrated with third-party software, or executed in an
@@ -176,9 +176,9 @@ Any modifications, cracks, patches, overlays, or other forms of interference may
 cause the Software to malfunction and will constitute a violation of this
 License Agreement.
 
-=================================================
+=============================================================
 SEPARATION OF FREE AND PAID COMPONENTS CLAUSE
-=================================================
+=============================================================
 
 1. The free version of the Software may be used only for personal purposes, in
    accordance with the terms of this License.
@@ -188,16 +188,16 @@ SEPARATION OF FREE AND PAID COMPONENTS CLAUSE
    the paid version unless they purchase a license or subscription under the
    applicable conditions.
 
-=================================================
+=============================================================
 CC BY-NC-SA 4.0 COMPONENTS
-=================================================
+=============================================================
 
 The following components are licensed under the CC BY-NC-SA 4.0 license:
 - Stella.Prepare
 
 Attribution-NonCommercial-ShareAlike 4.0 International
 
-=======================================================================
+=============================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and does not
 provide legal services or legal advice. Distribution of Creative Commons public
@@ -243,7 +243,7 @@ licenses.
      where reasonable. More considerations for the public:
      wiki.creativecommons.org/Considerations_for_licensees
 
-=======================================================================
+=============================================================
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public
 License
@@ -408,7 +408,7 @@ Section 2 -- Scope.
           including when the Licensed Material is used other than for
           NonCommercial purposes.
 
-=======================================================================
+=============================================================
 
 Creative Commons is not a party to its public licenses. Notwithstanding,
 Creative Commons may elect to apply one of its public licenses to material it
@@ -423,9 +423,9 @@ without its prior written consent.
 
 Creative Commons may be contacted at creativecommons.org.
 
-=================================================
+=============================================================
 MIT LICENSE COMPONENTS
-=================================================
+=============================================================
 
 The following components are licensed under the MIT License:
 - Stella.Configuration
@@ -454,9 +454,9 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-=================================================
+=============================================================
 WARRANTY DISCLAIMER
-=================================================
+=============================================================
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -470,9 +470,9 @@ operating system, hardware configuration, game version, or user environment.
 The Software’s performance may vary depending on system configuration, the
 version of Genshin Impact, drivers, libraries, or third-party software.
 
-=================================================
+=============================================================
 UPDATES, SUPPORT, AND DISTRIBUTION CLAUSE
-=================================================
+=============================================================
 
 The Author does not guarantee that the Software will function in the future
 after updates to Genshin Impact or the operating system. Technical support,
@@ -482,9 +482,9 @@ the sole discretion of the Author.
 The Author also reserves the right to cease further distribution of the
 Software at any time, without any obligation of compensation to Users.
 
-=================================================
+=============================================================
 USE OF ONLINE SERVICES
-=================================================
+=============================================================
 
 Some features of the Software may require an active connection to the Author’s
 servers for license verification, updates, or synchronization of technical data.
@@ -493,9 +493,9 @@ The Author is not responsible for the unavailability of such services due to
 technical interruptions, maintenance, network failures, or other factors beyond
 their control.
 
-=================================================
+=============================================================
 PRIVACY POLICY
-=================================================
+=============================================================
 
 The use of the Software and the Launcher may involve processing of technical or
 device-identifying data of the User.
@@ -509,9 +509,9 @@ official project website: https://stella.sefinek.net/docs?page=privacy-policy
 
 By using the Software, the User accepts the terms of the Privacy Policy.
 
-=================================================
+=============================================================
 LICENSE MODIFICATION CLAUSE
-=================================================
+=============================================================
 
 The Author reserves the right to modify the terms of this End User License
 Agreement (EULA) at any time.
@@ -526,18 +526,18 @@ displayed in its information window.
 Continued use of the Software after such changes constitutes full acceptance of
 the new License terms by the User.
 
-=================================================
+=============================================================
 TERMINATION BY USER
-=================================================
+=============================================================
 
 The User may terminate this Agreement at any time by ceasing use of the Software
 and deleting it from their device. Termination of this Agreement by the User
 does not release them from responsibility for any prior violations of the
 License terms.
 
-=================================================
+=============================================================
 REPORTING VIOLATIONS AND DMCA CLAUSE
-=================================================
+=============================================================
 
 All reports of copyright infringement, intellectual property violations,
 security issues, or unauthorized use of the Software should be sent directly to
@@ -553,9 +553,9 @@ Upon receiving a notice compliant with the Digital Millennium Copyright Act
 (DMCA) or equivalent legal regulations, the Author will take appropriate actions
 in good faith to protect intellectual property rights.
 
-=================================================
+=============================================================
 FINAL PROVISIONS
-=================================================
+=============================================================
 
 1. If any provision of this Agreement is found invalid or unenforceable, the
    remaining provisions shall remain in full force and effect.
