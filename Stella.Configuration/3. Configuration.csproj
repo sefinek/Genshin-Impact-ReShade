@@ -44,7 +44,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="CliWrap" Version="3.9.0" />
+		<PackageReference Include="CliWrap" Version="3.10.0" />
 		<PackageReference Include="NLog" Version="6.0.6" />
 	</ItemGroup>
 
