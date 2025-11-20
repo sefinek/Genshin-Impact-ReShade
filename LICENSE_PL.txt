@@ -3,7 +3,7 @@ UMOWA LICENCYJNA UŻYTKOWNIKA KOŃCOWEGO (EULA)
 GENSHIN STELLA MOD
 =============================================================
 
-Data ostatniej modyfikacji dokumentu: 7 października 2025 r.
+Data ostatniej modyfikacji dokumentu: 20 listopada 2025 r.
 
 Oryginał: język polski
 Wersje tłumaczone mają charakter informacyjny.
@@ -63,8 +63,9 @@ Decyzje te mogą być podejmowane z powodów prawnych, technicznych,
 bezpieczeństwa, biznesowych lub innych uzasadnionych przyczyn. Autor nie jest
 zobowiązany do podawania przyczyny podjętej decyzji.
 
-Ograniczenia te są ostateczne, a Autor nie ponosi odpowiedzialności za żadne
-skutki wynikające z ich wprowadzenia.
+Ograniczenia te są ostateczne i mogą być stosowane według uznania Autora.
+Autor nie ponosi odpowiedzialności za jakiekolwiek skutki wynikające z ich
+wprowadzenia, w zakresie dopuszczalnym przez obowiązujące prawo.
 
 =============================================================
 ODPOWIEDZIALNOŚĆ UŻYTKOWNIKA
@@ -85,10 +86,12 @@ Autor nie udziela żadnych gwarancji dotyczących poprawnego działania,
 stabilności, zgodności ani wydajności Oprogramowania.
 
 Oprogramowanie jest dostarczane w stanie „TAKIM, JAKIM JEST”, bez jakichkolwiek
-gwarancji wyraźnych lub dorozumianych.
+gwarancji wyraźnych lub dorozumianych, w najszerszym zakresie dozwolonym przez
+obowiązujące prawo.
 
-Korzystanie z Oprogramowania oznacza pełną akceptację niniejszych postanowień
-oraz zrzeczenie się przez Użytkownika wszelkich roszczeń wobec Autora.
+Korzystanie z Oprogramowania oznacza akceptację niniejszych postanowień oraz
+zrzeczenie się przez Użytkownika roszczeń wobec Autora w zakresie dopuszczalnym
+przez obowiązujące prawo.
 
 =============================================================
 BRAK POWIĄZAŃ Z MIHOYO / COGNOSPHERE / HOYOVERSE
@@ -157,7 +160,8 @@ ZAKAZ OBEJŚCIA ZABEZPIECZEŃ
 
 Zabronione jest podejmowanie jakichkolwiek działań mających na celu obejście,
 usunięcie, modyfikację, dezaktywację lub zakłócenie działania zabezpieczeń
-technicznych zastosowanych w Oprogramowaniu.
+technicznych zastosowanych w Oprogramowaniu, z wyjątkiem przypadków wyraźnie
+dozwolonych przez bezwzględnie obowiązujące przepisy prawa.
 
 Dotyczy to w szczególności wszelkich prób analizy, inżynierii wstecznej,
 modyfikacji kodu, obchodzenia autoryzacji, omijania systemu licencji,
@@ -180,9 +184,10 @@ Autor nie ponosi odpowiedzialności za działanie Oprogramowania w przypadku,
 gdy zostało ono zmodyfikowane, zintegrowane z oprogramowaniem osób trzecich
 lub uruchomione w środowisku zmieniającym jego kod, strukturę lub konfigurację.
 
-Wszelkie modyfikacje, cracki, patche lub inne formy ingerencji mogą
-prowadzić do nieprawidłowego działania Oprogramowania, naruszając przy tym
-warunki niniejszej licencji.
+Wszelkie modyfikacje, cracki, patche lub inne formy ingerencji mogą prowadzić
+do nieprawidłowego działania Oprogramowania oraz stanowią naruszenie warunków
+niniejszej licencji.
+
 
 =============================================================
 KLAUZULA O ROZDZIELENIU CZĘŚCI PŁATNEJ I DARMOWEJ
@@ -206,16 +211,17 @@ Dla celów niniejszej licencji:
    próby obejścia ograniczeń będą traktowane jako poważne naruszenie niniejszej
    licencji i mogą skutkować natychmiastowym cofnięciem dostępu do Oprogramowania.
 
-3. Licencja na wersję płatną jest przypisana do konkretnego Użytkownika oraz
+3. Licencja na Wersję płatną jest przypisana do konkretnego Użytkownika oraz
    liczby urządzeń dozwolonej w ramach wykupionego tieru subskrypcji, zgodnie
    z zasadami określonymi przez Autora. Limit aktywacji może różnić się w
    zależności od tieru i może zostać zmieniony w przyszłości.
 
-   Licencja może być używana wyłącznie na urządzeniach należących do tego samego
-   gospodarstwa domowego Użytkownika, rozumianego jako wspólne miejsce
+   Licencja płatna może być używana wyłącznie na urządzeniach należących do tego
+   samego gospodarstwa domowego Użytkownika, rozumianego jako wspólne miejsce
    zamieszkania lub użytkowania sprzętu przez osoby powiązane rodzinnie.
-   Zabronione jest udostępnianie, dzielenie, sublicencjonowanie lub
-   wykorzystywanie licencji przez osoby trzecie spoza gospodarstwa domowego.
+
+   Zabronione jest udostępnianie, dzielenie, sublicencjonowanie lub wykorzystywanie
+   licencji przez osoby trzecie spoza gospodarstwa domowego.
 
 4. Zakup subskrypcji Stella Mod Plus nie stanowi zakupu oprogramowania 3DMigoto
    ani nie przenosi żadnych praw do tego projektu. 3DMigoto jest niezależnym
@@ -229,7 +235,7 @@ Dla celów niniejszej licencji:
    jakichkolwiek roszczeń wobec Autora.
 
 6. Szczegółowe zasady świadczenia usług i subskrypcji określa odrębny dokument:
-    https://stella.sefinek.net/docs?page=terms-of-use
+   https://stella.sefinek.net/docs?page=terms-of-use
 
 =============================================================
 KOMPONENTY CC BY-NC-SA 4.0
@@ -503,12 +509,12 @@ ZASTRZEŻENIA GWARANCYJNE
 
 OPROGRAMOWANIE JEST DOSTARCZANE W STANIE „TAKIM, JAKIM JEST", BEZ JAKIEJKOLWIEK
 GWARANCJI, WYRAŹNEJ CZY DOROZUMIANEJ, W TYM MIĘDZY INNYMI GWARANCJI
-PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU ORAZ
-NIE NARUSZANIA PRAW OSÓB TRZECICH. W ŻADNYM WYPADKU AUTORZY ANI WŁAŚCICIELE
-PRAW AUTORSKICH NIE PONOSZĄ ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK ROSZCZENIA,
-SZKODY CZY INNE ZOBOWIĄZANIA, NIEZALEŻNIE OD TEGO, CZY WYNIKAJĄ ONE Z UMOWY,
-CZYNU NIEDOZWOLONEGO CZY W INNY SPOSÓB, A ZWIĄZANE SĄ Z OPROGRAMOWANIEM LUB
-KORZYSTANIEM Z NIEGO, BĄDŹ Z INNYMI DZIAŁANIAMI DOTYCZĄCYMI OPROGRAMOWANIA.
+PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU ORAZ NIE NARUSZANIA
+PRAW OSÓB TRZECICH. W ŻADNYM WYPADKU AUTORZY ANI WŁAŚCICIELE PRAW AUTORSKICH
+NIE PONOSZĄ ODPOWIEDZIALNOŚCI ZA JAKIEKOLWIEK ROSZCZENIA, SZKODY CZY INNE
+ZOBOWIĄZANIA, NIEZALEŻNIE OD TEGO, CZY WYNIKAJĄ ONE Z UMOWY, CZYNU NIEDOZWOLONEGO
+CZY W INNY SPOSÓB, A ZWIĄZANE SĄ Z OPROGRAMOWANIEM LUB KORZYSTANIEM Z NIEGO, BĄDŹ
+Z INNYMI DZIAŁANIAMI DOTYCZĄCYMI OPROGRAMOWANIA.
 
 Autor nie gwarantuje zgodności Oprogramowania z każdym systemem operacyjnym,
 konfiguracją sprzętową, wersją gry ani środowiskiem użytkownika. Działanie
@@ -549,7 +555,7 @@ danych technicznych lub identyfikacyjnych urządzenia Użytkownika.
 
 Autor przetwarza dane wyłącznie w zakresie niezbędnym do zapewnienia
 prawidłowego działania, bezpieczeństwa, aktualizacji i weryfikacji licencji
-Oprogramowania.
+Oprogramowania, zgodnie z zasadami określonymi w Polityce Prywatności.
 
 Szczegółowe informacje dotyczące rodzaju przetwarzanych danych, miejsca ich
 przechowywania, podstaw prawnych oraz praw Użytkownika znajdują się w Polityce
@@ -574,7 +580,8 @@ publikowaną na stronie internetowej projektu. Po zainstalowaniu aktualizacji
 launchera owa lista jest również wyświetlana w osobnym oknie informacyjnym.
 
 Dalsze korzystanie z Oprogramowania po wprowadzeniu zmian oznacza pełną
-akceptację nowej wersji licencji przez Użytkownika.
+akceptację nowej wersji licencji przez Użytkownika, o ile zmiany zostały
+uprzednio udostępnione do wiadomości zgodnie z niniejszą sekcją.
 
 =============================================================
 ROZWIĄZANIE UMOWY PRZEZ UŻYTKOWNIKA
@@ -628,8 +635,7 @@ Użytkowników według własnego uznania i w miarę dostępności zasobów.
 
 Kontakt z Autorem możliwy jest za pośrednictwem systemu ticketów na stronie:
 https://patrons.sefinek.net
-
 Kontakt mailowy: contact@sefinek.net
 
 Autor nie gwarantuje odpowiedzi na wszystkie zgłoszenia ani dostępności
-wsparcia przez określony czas.
+wsparcia przez określony czas. Priorytetowe wsparcie mają wyłącznie subskrybenci.

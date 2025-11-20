@@ -3,7 +3,7 @@ END USER LICENSE AGREEMENT (EULA)
 GENSHIN STELLA MOD
 =============================================================
 
-Last modified: October 7, 2025
+Last modified: November 20, 2025
 
 Original language: Polish
 Translated versions are for informational purposes only.
@@ -557,11 +557,30 @@ in good faith to protect intellectual property rights.
 FINAL PROVISIONS
 =============================================================
 
-1. If any provision of this Agreement is found invalid or unenforceable, the
-   remaining provisions shall remain in full force and effect.
-2. This Agreement is governed by Polish law. Any disputes arising from it shall
-   be resolved by the court having jurisdiction over the Author’s registered
-   office.
-3. This Agreement constitutes the entire understanding between the parties and
-   supersedes all prior written or oral agreements regarding the Software.
-4. In case of translatio
+1. If any provision of this agreement is deemed invalid or unenforceable,
+   the remaining provisions shall remain in full force and effect and shall
+   be binding upon the parties.
+2. This agreement is governed by Polish law. Any disputes arising from its
+   provisions shall be resolved by the court having jurisdiction over the
+   Author's registered office.
+3. This agreement constitutes the entire understanding between the parties
+   and supersedes all prior arrangements, both written and oral, concerning
+   the software.
+4. In the event that translations of this agreement are prepared in other
+   languages, the Polish version shall be decisive in case of discrepancies.
+
+=============================================================
+CONTACT AND TECHNICAL SUPPORT
+=============================================================
+
+The Author may provide technical support or responses to User inquiries
+at their sole discretion and subject to resource availability.
+
+Contact with the Author is possible via the ticket system at:
+https://patrons.sefinek.net
+Email contact: contact@sefinek.net
+
+The Author does not guarantee responses to all inquiries nor the availability
+of support for any specified period. Priority support is available exclusively
+to subscribers.
+
