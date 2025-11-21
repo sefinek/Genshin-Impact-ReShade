@@ -3,10 +3,8 @@ END USER LICENSE AGREEMENT (EULA)
 GENSHIN STELLA MOD
 =============================================================
 
-Last modified: November 20, 2025
-
-Original language: Polish
-Translated versions are for informational purposes only.
+• Last modified: November 21, 2025
+• Original language: Polish (translated versions are for informational purposes only)
 
 Copyright (c) 2022–2025 Sefinek
 
@@ -14,12 +12,13 @@ Copyright (c) 2022–2025 Sefinek
 DEFINITIONS
 =============================================================
 
-1. "Software" means Genshin Stella Mod and all its components indicated in
-   this Agreement, including source code, binary files, assets, and
-   documentation.
-2. "User" means a natural or legal person who installs or uses the Software.
-3. "Author" or "Licensor" refers to Sefinek (https://sefinek.net), the
-   copyright holder and owner of all rights to the Software.
+1. "Software" means Genshin Stella Mod and all of its components
+   specified in this agreement, including source code, binary files,
+   assets, and documentation.
+2. "User" means any natural or legal person who installs or
+   uses the Software.
+3. "Author" or "Licensor" refers to Sefinek (https://sefinek.net),
+   the copyright holder of the Software.
 4. "License" means this End User License Agreement (EULA).
 
 =============================================================
@@ -27,41 +26,44 @@ ACCEPTANCE OF TERMS
 =============================================================
 
 By installing, copying, downloading, or using the Software, the User
-acknowledges that they have read and understood this Agreement and agree to
-comply with its terms. If the User does not agree, they must not install or
-use the Software.
+acknowledges that they have read this agreement, understand its
+provisions, and agree to abide by them. If the User does not agree —
+they may not install or use the Software.
 
 =============================================================
 TERRITORIAL SCOPE
 =============================================================
 
-The license granted under this Agreement applies worldwide. Regardless of the
-User’s place of residence or use of the Software, this License is governed by
-Polish law.
+The license granted under this agreement applies worldwide.
+Regardless of the User's country of residence or location of Software
+use, Polish law governs this license.
 
-=================================================
-EXPORT / LEGAL COMPLIANCE CLAUSE
-=================================================
+=============================================================
+EXPORT CONTROL / LEGAL COMPLIANCE
+=============================================================
 
 The User agrees to use the Software only in accordance with applicable
-national and international laws. The User may not use the Software in any way
-that violates export control regulations, economic sanctions, data protection
-laws, or any other applicable legal provisions in their jurisdiction.
+domestic and international laws. The User may not use the Software in a
+manner that violates export control regulations, economic sanctions,
+data protection laws, or any other laws applicable within their
+jurisdiction.
 
 =============================================================
-GEOGRAPHICAL RESTRICTIONS
+TERRITORIAL RESTRICTIONS
 =============================================================
 
-The Author reserves the right to limit, suspend, or completely restrict access
-to the Software for users from specific countries, regions, IP addresses, or
-other geographic areas at their sole discretion.
+The Author reserves the right to limit, suspend, or completely block
+access to the Software for users from specific countries, regions,
+IP addresses, or other geographical areas, at their sole discretion.
 
-Such decisions may be made for legal, technical, security, business, or other
-justified reasons. The Author is not obliged to disclose the reason for such
-decisions.
+Such decisions may be made for legal, technical, security, business,
+or other justified reasons. The Author is not required to provide the
+reason for such decisions.
 
-These restrictions are final, and the Author shall not be held responsible for
-any consequences arising from their enforcement.
+These restrictions are final and may be applied at the Author's
+discretion. The Author bears no liability for any consequences
+resulting from their implementation, to the extent permitted by
+applicable law.
 
 =============================================================
 USER RESPONSIBILITY
@@ -69,130 +71,172 @@ USER RESPONSIBILITY
 
 The User uses the Software solely at their own risk and responsibility.
 
-The Author bears no liability for any consequences arising from the download,
-installation, configuration, usage, updating, modification, or removal of the
-Software.
+The Author bears no responsibility for any consequences arising from
+downloading, installing, configuring, using, updating, modifying, or
+removing the Software.
 
-The Author is not responsible for any damage, data loss, errors, crashes,
-hardware or software failures, or any other consequences resulting from the
-use of the Software.
+The Author is not liable for any damages, data loss, errors, crashes,
+hardware failures, software issues, operating system problems, or any
+other consequences resulting from the use of the Software.
 
-The Author provides no warranties as to proper operation, stability,
-compatibility, or performance of the Software.
+The Author provides no guarantees regarding proper operation,
+stability, compatibility, or performance of the Software.
 
-The Software is provided “AS IS”, without any express or implied warranties.
+The Software is provided "AS IS," without any express or implied
+warranties, to the maximum extent permitted by applicable law.
 
-By using the Software, the User fully accepts these terms and waives any
-claims against the Author.
+Using the Software constitutes acceptance of these provisions and a
+waiver by the User of any claims against the Author to the extent
+permitted by applicable law.
 
 =============================================================
 NO AFFILIATION WITH MIHOYO / COGNOSPHERE / HOYOVERSE
 =============================================================
 
-Genshin Stella Mod is an entirely independent project created and maintained by
-the Author. This Software is not affiliated with, sponsored, authorized, or
-endorsed by miHoYo Co., Ltd., COGNOSPHERE PTE. LTD., HoYoverse, or any other
-entities associated with the game Genshin Impact.
+Genshin Stella Mod is a completely independent project, created and
+maintained by the Author. This Software is not in any way affiliated
+with, sponsored, authorized, or supported by miHoYo Co., Ltd.,
+COGNOSPHERE PTE. LTD., HoYoverse, or any entities associated with the
+game Genshin Impact.
 
-All trademarks, copyrights, logos, and other intellectual property are the
-property of their respective owners. The use of such names in this Agreement is
-for informational purposes only and does not imply any cooperation or
-authorization.
+All trademarks, copyrights, logos, and other intangible assets belong
+to their respective legal owners. The use of these names within this
+agreement is for informational purposes only and does not imply any
+collaboration or authorization.
 
 =============================================================
 TRADEMARKS AND INTELLECTUAL PROPERTY
 =============================================================
 
-All trademarks, trade names, logos, graphics, interface designs, promotional
-materials, and other visual elements related to the Software are the property of
-the Author unless otherwise indicated.
+All trademarks, trade names, logos, graphics, interface designs,
+promotional materials, and other visual elements related to the
+Software are the property of the Author unless stated otherwise.
 
-The User is not permitted to use these elements in any way that may imply an
-association, endorsement, or collaboration with the Author without prior written
-consent.
+The User is not permitted to use these elements in any way that could
+suggest affiliation, endorsement, or cooperation with the Author,
+without prior written consent.
 
 =============================================================
-PROPRIETARY COMPONENTS – TERMS OF USE
+PROPRIETARY COMPONENTS — TERMS OF USE
 =============================================================
 
-The following components are subject to this End User License Agreement (EULA):
+The following components are subject to the EULA (End User License Agreement):
 - Stella Mod Launcher
 - Genshin Stella Mod
 - Stella.Utils
 - Stella.StartupBeacon
 
-By installing or using any of these components, the User agrees to the following
-terms:
+By installing or using these components, you agree to the following terms:
 
 1. LICENSE GRANT:
-   The Author grants you a limited, non-exclusive, non-transferable license to
-   USE this Software solely for personal purposes.
+   The Author grants you a limited, non-exclusive, non-transferable
+   license to USE this software solely for personal purposes.
 
 2. PERMITTED ACTIONS:
-   - Installing the Software on your computer,
-   - Running and using the Software as intended,
-   - Creating a backup copy of the Software for personal use.
+   - installing the software on your computer,
+   - running and using the software as intended,
+   - creating a backup copy for personal use.
 
 3. PROHIBITED ACTIONS:
-   - Modifying, decompiling, or reverse engineering,
-   - Removing or altering copyright information,
-   - Using for commercial purposes without permission,
-   - Creating derivative works,
-   - Reselling or sublicensing,
-   - Violating the Software’s terms of use.
+   - modifying, decompiling, or reverse engineering,
+   - removing or altering copyright information,
+   - using for commercial purposes without permission,
+   - creating derivative works,
+   - reselling or sublicensing,
+   - violating the terms of Software use.
 
 4. OWNERSHIP:
-   All rights, title, and interest in the Software remain the property of the
-   Author. This License does not transfer any ownership rights to the User.
+   All rights, title, and interest in the software remain the property
+   of the Author. This license does not transfer any ownership rights
+   to you.
 
 =============================================================
-ANTI-TAMPERING / SECURITY BYPASS PROHIBITION
+ANTI-TAMPERING / NO CIRCUMVENTION OF PROTECTION
 =============================================================
 
-It is strictly forbidden to perform any actions intended to bypass, remove,
-modify, disable, or interfere with the technical protection mechanisms
-implemented in the Software.
+It is prohibited to perform any actions intended to bypass, remove,
+alter, deactivate, or interfere with technical protections implemented
+in the Software, except where expressly allowed under mandatory law.
 
-This includes, but is not limited to, attempts at analysis, reverse engineering,
-code modification, license circumvention, file integrity checking circumvention,
-or any other form of interference with the Software’s protective mechanisms.
+This includes, but is not limited to, attempts to analyze, reverse
+engineer, modify code, bypass authorization, circumvent licensing,
+tamper with file integrity checks, or use any other methods that
+interfere with protective mechanisms of the Software.
 
-Any violation of this clause constitutes a serious breach of the License and may
-result in permanent revocation of access to the Software, termination of the
-License, or legal action against the User.
+Any violation of this provision constitutes a serious breach of the
+license and may result in permanent revocation of access to the
+Software, termination of the license, or legal action against the User.
 
-The Author reserves the right to employ additional technical or organizational
-measures to detect and prevent such actions.
+The Author reserves the right to implement additional technical or
+organizational measures to detect and prevent such activities.
 
 =============================================================
 SOFTWARE INTEGRITY AND SECURITY
 =============================================================
 
-The Author shall not be held responsible for the operation of the Software if it
-has been modified, integrated with third-party software, or executed in an
-environment that alters its code, structure, or configuration.
+The Author bears no responsibility for the operation of the Software
+if it has been modified, integrated with third-party software, or run
+in an environment that alters its code, structure, or configuration.
 
-Any modifications, cracks, patches, overlays, or other forms of interference may
-cause the Software to malfunction and will constitute a violation of this
-License Agreement.
+Any modifications, cracks, patches, or other forms of interference may
+lead to malfunction of the Software and constitute a violation of this
+license.
 
 =============================================================
-SEPARATION OF FREE AND PAID COMPONENTS CLAUSE
+CLAUSE ON SEPARATION OF FREE AND PAID VERSIONS
 =============================================================
 
-1. The free version of the Software may be used only for personal purposes, in
-   accordance with the terms of this License.
-2. The paid part of the Software (e.g., Stella Mod Plus) is subject to separate
-   licensing and/or subscription terms established by the Author.
-3. Users of the free version do not acquire any rights to features available in
-   the paid version unless they purchase a license or subscription under the
-   applicable conditions.
+For the purposes of this license:
+- "Free Version" means the version of the Software made available free of
+  charge, with a limited set of features.
+- "Paid Version" means the extended version of the Software, available
+  exclusively under an active Stella Mod Plus subscription.
+
+1. The Free Version of the Software may be used solely for personal
+   purposes and in accordance with the terms of this license.
+
+2. It is prohibited to undertake any actions intended to bypass the
+   technical or functional limitations, protections, or authorization
+   mechanisms separating the free version from the paid version.
+   This includes modifying files, tampering with code, emulating the
+   licensing server, using cracks, patches, code injections, overlays,
+   or any other methods enabling unauthorized access to paid features.
+   Any attempt to bypass these limitations will be treated as a serious
+   breach of this license and may result in immediate revocation of
+   access to the Software.
+
+3. The license for the Paid Version is assigned to a specific User and
+   to a number of devices permitted under the purchased subscription
+   tier, as defined by the Author. The activation limit may vary between
+   tiers and may be changed in the future.
+
+   The Paid Version license may be used only on devices belonging to the
+   same household of the User, understood as a shared place of residence
+   or shared use of equipment by family-related persons.
+
+   Sharing, distributing, sublicensing, or allowing use of the license
+   by third parties outside the household is prohibited.
+
+4. Purchasing a Stella Mod Plus subscription does not constitute the
+   purchase of the 3DMigoto software nor does it transfer any rights to
+   that project. 3DMigoto is an independent component created by external
+   authors and is covered by its own license. The Stella Mod Plus
+   subscription only unlocks features integrating 3DMigoto with the
+   Software and does not grant a license to 3DMigoto itself or its parts.
+
+5. Differences in features, performance, or stability between the Free
+   Version and Paid Version do not constitute a defect of the Software
+   and do not form any basis for claims against the Author.
+
+6. Detailed rules regarding services and subscriptions are defined in a
+   separate document:
+   https://stella.sefinek.net/docs?page=terms-of-use
 
 =============================================================
 CC BY-NC-SA 4.0 COMPONENTS
 =============================================================
 
-The following components are licensed under the CC BY-NC-SA 4.0 license:
+The following components are licensed under CC BY-NC-SA 4.0:
 - Stella.Prepare
 
 Attribution-NonCommercial-ShareAlike 4.0 International
@@ -412,7 +456,7 @@ Section 2 -- Scope.
 
 Creative Commons is not a party to its public licenses. Notwithstanding,
 Creative Commons may elect to apply one of its public licenses to material it
-publishes and in those instances will be considered the “Licensor.” The text of
+publishes and in those instances will be considered the "Licensor." The text of
 the Creative Commons public licenses is dedicated to the public domain under the
 CC0 Public Domain Dedication. Except for the limited purpose of indicating that
 material is shared under a Creative Commons public license or as otherwise
@@ -458,56 +502,62 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 WARRANTY DISCLAIMER
 =============================================================
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIMS, DAMAGES, OR OTHER
-LIABILITIES, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR
-IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-The Author does not guarantee that the Software will be compatible with every
+The Author does not guarantee compatibility of the Software with every
 operating system, hardware configuration, game version, or user environment.
-The Software’s performance may vary depending on system configuration, the
-version of Genshin Impact, drivers, libraries, or third-party software.
+The operation of the Software may vary depending on system configuration,
+Genshin Impact version, drivers, libraries, or third-party software.
 
 =============================================================
-UPDATES, SUPPORT, AND DISTRIBUTION CLAUSE
+UPDATES, SUPPORT, AND DISTRIBUTION
 =============================================================
 
 The Author does not guarantee that the Software will function in the future
 after updates to Genshin Impact or the operating system. Technical support,
-updates, and further development may be limited or discontinued at any time at
+updates, and further development may be limited or terminated at any time at
 the sole discretion of the Author.
 
-The Author also reserves the right to cease further distribution of the
-Software at any time, without any obligation of compensation to Users.
+The Author also reserves the right to discontinue distribution of the Software
+at any time, without any obligation to compensate Users.
 
 =============================================================
 USE OF ONLINE SERVICES
 =============================================================
 
-Some features of the Software may require an active connection to the Author’s
-servers for license verification, updates, or synchronization of technical data.
+Some features of the Software may require an active connection to the Author's
+servers for license verification, downloading updates, or synchronizing
+technical data.
 
-The Author is not responsible for the unavailability of such services due to
-technical interruptions, maintenance, network failures, or other factors beyond
-their control.
+The Author is not responsible for the unavailability of these services caused
+by technical interruptions, maintenance, network failures, or factors beyond the
+Author's control.
 
 =============================================================
 PRIVACY POLICY
 =============================================================
 
-The use of the Software and the Launcher may involve processing of technical or
-device-identifying data of the User.
+Using the Software may involve the processing of technical or
+device-identifying data belonging to the User.
 
-The Author processes such data only to the extent necessary to ensure proper
-functionality, security, updates, and license verification of the Software.
+The Author processes data only to the extent necessary to ensure the proper
+functioning, security, updates, and verification of the license or the active
+Stella Mod Plus subscription, in accordance with the rules defined in the
+Privacy Policy.
 
-Detailed information about the types of processed data, storage locations, legal
-bases, and User rights is available in the Privacy Policy published on the
-official project website: https://stella.sefinek.net/docs?page=privacy-policy
+Detailed information regarding the type of data processed, storage location,
+legal basis, and the User's rights can be found in the Privacy Policy available
+on the official project website:
+https://stella.sefinek.net/docs?page=privacy-policy
 
-By using the Software, the User accepts the terms of the Privacy Policy.
+Using the Software constitutes acceptance of the rules set forth in the
+Privacy Policy.
 
 =============================================================
 LICENSE MODIFICATION CLAUSE
@@ -516,71 +566,80 @@ LICENSE MODIFICATION CLAUSE
 The Author reserves the right to modify the terms of this End User License
 Agreement (EULA) at any time.
 
-The revised version of the License becomes effective upon its publication on the
-Author’s official website or upon release of a new version of the Software.
+The updated version of the license becomes effective upon publication on the
+Author's official website or alongside a new version of the Software.
 
-Users will be informed about License changes through the changelog published on
-the project’s website. After installing a launcher update, the changelog is also
-displayed in its information window.
+Users are informed about changes to the license terms through the changelog
+published on the project website. After installing a launcher update, the
+changelog is also displayed in a separate information window.
 
-Continued use of the Software after such changes constitutes full acceptance of
-the new License terms by the User.
+Continued use of the Software after changes are introduced constitutes full
+acceptance of the new version of the license, provided the changes were made
+available in accordance with this section.
 
 =============================================================
-TERMINATION BY USER
+TERMINATION OF THE AGREEMENT BY THE USER
 =============================================================
 
-The User may terminate this Agreement at any time by ceasing use of the Software
-and deleting it from their device. Termination of this Agreement by the User
-does not release them from responsibility for any prior violations of the
-License terms.
+The User may terminate this agreement at any time by stopping the use of the
+Software and removing it from their device. Termination does not release the
+User from responsibility for any prior violations of the license terms.
 
 =============================================================
 REPORTING VIOLATIONS AND DMCA CLAUSE
 =============================================================
 
-All reports of copyright infringement, intellectual property violations,
-security issues, or unauthorized use of the Software should be sent directly to
-the Author.
+Any reports concerning copyright infringement, intellectual property
+violations, security issues, or unauthorized use of the Software should be
+directed to the Author.
 
-Reports can be submitted to: contact@sefinek.net
+Reports may be sent to the following email address:
+contact@sefinek.net
 
-The Author reserves the right to take appropriate legal action against
-individuals or entities violating this License, copyright, trademarks, or other
-intellectual property rights related to the Software.
+The Author reserves the right to take appropriate legal action against persons
+or entities violating the terms of this license, copyright, trademarks, or
+other intellectual property associated with the Software.
 
-Upon receiving a notice compliant with the Digital Millennium Copyright Act
-(DMCA) or equivalent legal regulations, the Author will take appropriate actions
-in good faith to protect intellectual property rights.
+In the event of receiving a notification compliant with the DMCA (Digital
+Millennium Copyright Act) or equivalent legal provisions, the Author will take
+appropriate action in accordance with applicable regulations and in good faith
+to protect intellectual property rights.
 
 =============================================================
 FINAL PROVISIONS
 =============================================================
 
-1. If any provision of this agreement is deemed invalid or unenforceable,
-   the remaining provisions shall remain in full force and effect and shall
-   be binding upon the parties.
-2. This agreement is governed by Polish law. Any disputes arising from its
-   provisions shall be resolved by the court having jurisdiction over the
-   Author's registered office.
-3. This agreement constitutes the entire understanding between the parties
-   and supersedes all prior arrangements, both written and oral, concerning
-   the software.
-4. In the event that translations of this agreement are prepared in other
-   languages, the Polish version shall be decisive in case of discrepancies.
+1. If any provision of this agreement is deemed invalid or unenforceable, the
+   remaining provisions shall remain in force and binding.
+2. This agreement is governed by Polish law. Any disputes arising from it shall
+   be resolved by the court having jurisdiction over the Author's registered
+   seat.
+3. This agreement constitutes the entire understanding between the parties and
+   supersedes all prior written or oral agreements regarding the Software.
+4. In the event of translations of this agreement into other languages, the
+   Polish version shall prevail in case of discrepancies.
 
 =============================================================
-CONTACT AND TECHNICAL SUPPORT
+FINAL INFORMATION AND PROVISIONS
 =============================================================
 
 The Author may provide technical support or responses to User inquiries
-at their sole discretion and subject to resource availability.
+at their sole discretion and subject to the availability of resources.
 
-Contact with the Author is possible via the ticket system at:
-https://patrons.sefinek.net
-Email contact: contact@sefinek.net
+The Author can be contacted through the ticket system on the SPC website
+(https://patrons.sefinek.net) or via e-mail at:
+contact@sefinek.net.
 
-The Author does not guarantee responses to all inquiries nor the availability
-of support for any specified period. Priority support is available exclusively
-to subscribers.
+The Author does not guarantee responses to all inquiries nor the
+availability of support for any specific period of time. Priority support is
+available exclusively to subscribers.
 
+Installation or use of the Software constitutes the User’s acceptance of all
+provisions of this agreement. By using the Software, the User declares that
+they have read the contents of this agreement, understand its provisions, and
+accept them in full.
+
+The Author undertakes all reasonable measures to ensure a high level of
+security for the Software and the associated server infrastructure. However,
+the Author is not obliged to develop, publish, or provide new versions of the
+Software, updates, patches, extensions, or any additional functionality.

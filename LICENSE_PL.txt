@@ -3,10 +3,8 @@ UMOWA LICENCYJNA UŻYTKOWNIKA KOŃCOWEGO (EULA)
 GENSHIN STELLA MOD
 =============================================================
 
-Data ostatniej modyfikacji dokumentu: 20 listopada 2025 r.
-
-Oryginał: język polski
-Wersje tłumaczone mają charakter informacyjny.
+• Data ostatniej modyfikacji dokumentu: 21 listopada 2025 r.
+• Oryginalny język: polski (tłumaczenia mają charakter wyłącznie informacyjny)
 
 Copyright (c) 2022–2025 Sefinek
 
@@ -55,7 +53,7 @@ OGRANICZENIA TERYTORIALNE
 =============================================================
 
 Autor zastrzega sobie prawo do ograniczenia, zawieszenia lub całkowitego
-wstrzymania dostępu do Oprogramowania dla użytkowników z określonych państw,
+wstrzymania dostępu do Oprogramowania dla Użytkowników z określonych państw,
 regionów, adresów IP lub innych obszarów geograficznych, według własnego
 uznania.
 
@@ -196,8 +194,8 @@ KLAUZULA O ROZDZIELENIU CZĘŚCI PŁATNEJ I DARMOWEJ
 Dla celów niniejszej licencji:
 - "Wersja darmowa" oznacza wersję Oprogramowania udostępnianą bezpłatnie,
    z ograniczonym zakresem funkcji.
-- "Wersja płatna" oznacza rozszerzoną wersję Oprogramowania Stella Mod Plus,
-   do której dostęp wymaga aktywnej subskrypcji.
+- "Wersja płatna" oznacza rozszerzoną wersję Oprogramowania, dostępną
+   wyłącznie w ramach aktywnej subskrypcji Stella Mod Plus.
 
 1. Wersja darmowa Oprogramowania może być używana wyłącznie do celów osobistych,
    zgodnie z warunkami niniejszej licencji.
@@ -517,7 +515,7 @@ CZY W INNY SPOSÓB, A ZWIĄZANE SĄ Z OPROGRAMOWANIEM LUB KORZYSTANIEM Z NIEGO, 
 Z INNYMI DZIAŁANIAMI DOTYCZĄCYMI OPROGRAMOWANIA.
 
 Autor nie gwarantuje zgodności Oprogramowania z każdym systemem operacyjnym,
-konfiguracją sprzętową, wersją gry ani środowiskiem użytkownika. Działanie
+konfiguracją sprzętową, wersją gry ani środowiskiem Użytkownika. Działanie
 Oprogramowania może różnić się w zależności od konfiguracji systemu, wersji
 gry Genshin Impact, sterowników, bibliotek lub oprogramowania innych firm.
 
@@ -550,12 +548,13 @@ niezależnymi od niego.
 POLITYKA PRYWATNOŚCI
 =============================================================
 
-Korzystanie z Oprogramowania oraz Launchera może wiązać się z przetwarzaniem
-danych technicznych lub identyfikacyjnych urządzenia Użytkownika.
+Korzystanie z Oprogramowania może wiązać się z przetwarzaniem danych
+technicznych lub identyfikacyjnych urządzenia Użytkownika.
 
 Autor przetwarza dane wyłącznie w zakresie niezbędnym do zapewnienia
-prawidłowego działania, bezpieczeństwa, aktualizacji i weryfikacji licencji
-Oprogramowania, zgodnie z zasadami określonymi w Polityce Prywatności.
+prawidłowego działania, bezpieczeństwa, aktualizacji oraz weryfikacji licencji
+lub aktywnej subskrypcji Stella Mod Plus, zgodnie z zasadami określonymi w
+Polityce Prywatności.
 
 Szczegółowe informacje dotyczące rodzaju przetwarzanych danych, miejsca ich
 przechowywania, podstaw prawnych oraz praw Użytkownika znajdują się w Polityce
@@ -627,15 +626,27 @@ POSTANOWIENIA KOŃCOWE
    w języku polskim jest rozstrzygająca w razie rozbieżności.
 
 =============================================================
-KONTAKT I WSPARCIE TECHNICZNE
+KOŃCOWE INFORMACJE I POSTANOWIENIA
 =============================================================
 
 Autor może zapewniać wsparcie techniczne lub odpowiedzi na zgłoszenia
 Użytkowników według własnego uznania i w miarę dostępności zasobów.
 
-Kontakt z Autorem możliwy jest za pośrednictwem systemu ticketów na stronie:
-https://patrons.sefinek.net
-Kontakt mailowy: contact@sefinek.net
+Kontakt z Autorem możliwy jest za pośrednictwem systemu ticketów na stronie
+SPC (https://patrons.sefinek.net) oraz poprzez adres e-mail:
+contact@sefinek.net.
 
 Autor nie gwarantuje odpowiedzi na wszystkie zgłoszenia ani dostępności
-wsparcia przez określony czas. Priorytetowe wsparcie mają wyłącznie subskrybenci.
+wsparcia przez określony czas. Priorytetowe wsparcie mają wyłącznie
+subskrybenci.
+
+Instalacja lub korzystanie z Oprogramowania stanowi akceptację wszystkich
+postanowień niniejszej umowy przez Użytkownika. Korzystając z Oprogramowania,
+Użytkownik oświadcza, że zapoznał się z treścią niniejszej umowy, rozumie jej
+postanowienia i akceptuje je w całości.
+
+Autor podejmuje wszelkie uzasadnione działania w celu zapewnienia wysokiego
+poziomu bezpieczeństwa Oprogramowania oraz infrastruktury serwerowej.
+Niemniej jednak Autor nie jest zobowiązany do opracowywania, publikowania ani
+udostępniania nowych wersji Oprogramowania, aktualizacji, poprawek,
+rozszerzeń lub dodatkowych funkcjonalności.
