@@ -9,7 +9,7 @@ GENSHIN STELLA MOD
 Copyright (c) 2022–2025 Sefinek
 
 =============================================================
-DEFINITIONS
+§1. DEFINITIONS
 =============================================================
 
 1. "Software" means Genshin Stella Mod and all of its components
@@ -22,7 +22,7 @@ DEFINITIONS
 4. "License" means this End User License Agreement (EULA).
 
 =============================================================
-ACCEPTANCE OF TERMS
+§2. ACCEPTANCE OF TERMS
 =============================================================
 
 By installing, copying, downloading, or using the Software, the User
@@ -31,7 +31,7 @@ provisions, and agree to abide by them. If the User does not agree —
 they may not install or use the Software.
 
 =============================================================
-TERRITORIAL SCOPE
+§3. TERRITORIAL SCOPE
 =============================================================
 
 The license granted under this agreement applies worldwide.
@@ -39,7 +39,7 @@ Regardless of the User's country of residence or location of Software
 use, Polish law governs this license.
 
 =============================================================
-EXPORT CONTROL / LEGAL COMPLIANCE
+§4. EXPORT CONTROL / LEGAL COMPLIANCE
 =============================================================
 
 The User agrees to use the Software only in accordance with applicable
@@ -49,7 +49,7 @@ data protection laws, or any other laws applicable within their
 jurisdiction.
 
 =============================================================
-TERRITORIAL RESTRICTIONS
+§5. TERRITORIAL RESTRICTIONS
 =============================================================
 
 The Author reserves the right to limit, suspend, or completely block
@@ -66,7 +66,7 @@ resulting from their implementation, to the extent permitted by
 applicable law.
 
 =============================================================
-USER RESPONSIBILITY
+§6. USER RESPONSIBILITY
 =============================================================
 
 The User uses the Software solely at their own risk and responsibility.
@@ -90,7 +90,7 @@ waiver by the User of any claims against the Author to the extent
 permitted by applicable law.
 
 =============================================================
-NO AFFILIATION WITH MIHOYO / COGNOSPHERE / HOYOVERSE
+§7. NO AFFILIATION WITH MIHOYO / COGNOSPHERE / HOYOVERSE
 =============================================================
 
 Genshin Stella Mod is a completely independent project, created and
@@ -105,7 +105,7 @@ agreement is for informational purposes only and does not imply any
 collaboration or authorization.
 
 =============================================================
-TRADEMARKS AND INTELLECTUAL PROPERTY
+§8. TRADEMARKS AND INTELLECTUAL PROPERTY
 =============================================================
 
 All trademarks, trade names, logos, graphics, interface designs,
@@ -117,7 +117,7 @@ suggest affiliation, endorsement, or cooperation with the Author,
 without prior written consent.
 
 =============================================================
-PROPRIETARY COMPONENTS — TERMS OF USE
+§9. PROPRIETARY COMPONENTS — TERMS OF USE
 =============================================================
 
 The following components are subject to the EULA (End User License Agreement):
@@ -151,7 +151,7 @@ By installing or using these components, you agree to the following terms:
    to you.
 
 =============================================================
-ANTI-TAMPERING / NO CIRCUMVENTION OF PROTECTION
+§10. ANTI-TAMPERING / NO CIRCUMVENTION OF PROTECTION
 =============================================================
 
 It is prohibited to perform any actions intended to bypass, remove,
@@ -171,7 +171,7 @@ The Author reserves the right to implement additional technical or
 organizational measures to detect and prevent such activities.
 
 =============================================================
-SOFTWARE INTEGRITY AND SECURITY
+§11. SOFTWARE INTEGRITY AND SECURITY
 =============================================================
 
 The Author bears no responsibility for the operation of the Software
@@ -183,7 +183,7 @@ lead to malfunction of the Software and constitute a violation of this
 license.
 
 =============================================================
-CLAUSE ON SEPARATION OF FREE AND PAID VERSIONS
+§12. CLAUSE ON SEPARATION OF FREE AND PAID VERSIONS
 =============================================================
 
 For the purposes of this license:
@@ -233,7 +233,7 @@ For the purposes of this license:
    https://stella.sefinek.net/docs?page=terms-of-use
 
 =============================================================
-CC BY-NC-SA 4.0 COMPONENTS
+§13. CC BY-NC-SA 4.0 COMPONENTS
 =============================================================
 
 The following components are licensed under CC BY-NC-SA 4.0:
@@ -468,7 +468,7 @@ without its prior written consent.
 Creative Commons may be contacted at creativecommons.org.
 
 =============================================================
-MIT LICENSE COMPONENTS
+§14. MIT LICENSE COMPONENTS
 =============================================================
 
 The following components are licensed under the MIT License:
@@ -499,7 +499,7 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 =============================================================
-WARRANTY DISCLAIMER
+§15. WARRANTY DISCLAIMER
 =============================================================
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR
@@ -516,7 +516,7 @@ The operation of the Software may vary depending on system configuration,
 Genshin Impact version, drivers, libraries, or third-party software.
 
 =============================================================
-UPDATES, SUPPORT, AND DISTRIBUTION
+§16. UPDATES, SUPPORT, AND DISTRIBUTION
 =============================================================
 
 The Author does not guarantee that the Software will function in the future
@@ -528,7 +528,7 @@ The Author also reserves the right to discontinue distribution of the Software
 at any time, without any obligation to compensate Users.
 
 =============================================================
-USE OF ONLINE SERVICES
+§17. USE OF ONLINE SERVICES
 =============================================================
 
 Some features of the Software may require an active connection to the Author's
@@ -540,7 +540,7 @@ by technical interruptions, maintenance, network failures, or factors beyond the
 Author's control.
 
 =============================================================
-PRIVACY POLICY
+§18. PRIVACY POLICY
 =============================================================
 
 Using the Software may involve the processing of technical or
@@ -560,7 +560,7 @@ Using the Software constitutes acceptance of the rules set forth in the
 Privacy Policy.
 
 =============================================================
-LICENSE MODIFICATION CLAUSE
+§19. LICENSE MODIFICATION CLAUSE
 =============================================================
 
 The Author reserves the right to modify the terms of this End User License
@@ -578,7 +578,7 @@ acceptance of the new version of the license, provided the changes were made
 available in accordance with this section.
 
 =============================================================
-TERMINATION OF THE AGREEMENT BY THE USER
+§20. TERMINATION OF THE AGREEMENT BY THE USER
 =============================================================
 
 The User may terminate this agreement at any time by stopping the use of the
@@ -586,7 +586,7 @@ Software and removing it from their device. Termination does not release the
 User from responsibility for any prior violations of the license terms.
 
 =============================================================
-REPORTING VIOLATIONS AND DMCA CLAUSE
+§21. REPORTING VIOLATIONS AND DMCA CLAUSE
 =============================================================
 
 Any reports concerning copyright infringement, intellectual property
@@ -606,7 +606,7 @@ appropriate action in accordance with applicable regulations and in good faith
 to protect intellectual property rights.
 
 =============================================================
-FINAL PROVISIONS
+§22. FINAL PROVISIONS
 =============================================================
 
 1. If any provision of this agreement is deemed invalid or unenforceable, the
@@ -620,7 +620,7 @@ FINAL PROVISIONS
    Polish version shall prevail in case of discrepancies.
 
 =============================================================
-FINAL INFORMATION AND PROVISIONS
+§23. FINAL INFORMATION AND PROVISIONS
 =============================================================
 
 The Author may provide technical support or responses to User inquiries
