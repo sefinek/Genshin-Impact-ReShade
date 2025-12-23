@@ -3,10 +3,10 @@ UMOWA LICENCYJNA UŻYTKOWNIKA KOŃCOWEGO (EULA)
 GENSHIN STELLA MOD
 =============================================================
 
-• Data ostatniej modyfikacji dokumentu: 21 listopada 2025 r.
+• Data ostatniej modyfikacji dokumentu: 23 grudnia 2025 r.
 • Oryginalny język: polski (tłumaczenia mają charakter wyłącznie informacyjny)
 
-Copyright (c) 2022–2025 Sefinek
+Copyright (c) 2022–2026 Sefinek
 
 =============================================================
 §1. DEFINICJE
@@ -482,7 +482,7 @@ Następujące komponenty są licencjonowane na warunkach MIT License:
 
 MIT License
 
-Copyright (c) 2022–2025 Sefinek
+Copyright (c) 2022–2026 Sefinek
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

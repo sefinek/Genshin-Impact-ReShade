@@ -3,10 +3,10 @@ END USER LICENSE AGREEMENT (EULA)
 GENSHIN STELLA MOD
 =============================================================
 
-• Last modified: November 21, 2025
+• Last modified: December 23, 2025
 • Original language: Polish (translated versions are for informational purposes only)
 
-Copyright (c) 2022–2025 Sefinek
+Copyright (c) 2022–2026 Sefinek
 
 =============================================================
 §1. DEFINITIONS
@@ -479,7 +479,7 @@ The following components are licensed under the MIT License:
 
 MIT License
 
-Copyright (c) 2022–2025 Sefinek
+Copyright (c) 2022–2026 Sefinek
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
