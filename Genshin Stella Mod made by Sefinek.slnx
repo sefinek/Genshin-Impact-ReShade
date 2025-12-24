@@ -1,0 +1,19 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM" />
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Stella.Builder/Stella.Build.csproj" />
+  <Project Path="Stella.Configuration/3. Configuration.csproj" />
+  <Project Path="Stella.Core/2. Genshin Stella Mod.csproj" />
+  <Project Path="Stella.DeviceIdentifier/6. Device Identifier.csproj" />
+  <Project Path="Stella.Launcher/1. Stella Mod Launcher.csproj" />
+  <Project Path="Stella.Prepare/4. Prepare Stella.csproj" />
+  <Project Path="Stella.StartupBeacon/Stella.Beacon.csproj" />
+  <Project Path="Stella.Utils/Stella.Utils.csproj" />
+  <Project Path="Stella.Welcome/5. Welcome App.csproj" />
+  <Project Path="Test.Genshin/Test.Genshin.csproj" />
+</Solution>
