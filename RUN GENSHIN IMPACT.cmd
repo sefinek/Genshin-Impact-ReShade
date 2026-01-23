@@ -1,22 +1,21 @@
 @echo off
-title Deprecated Method
+chcp 65001 >nul
 
-echo ------------------------------ This Launch Method is No Longer Available ------------------------------
-echo.
-echo If you used the 'git clone [Repository Link]' command, you have downloaded the source code of our software.
-echo Compiling the code on your machine might not be feasible, as certain files are not publicly accessible
-echo due to security reasons.
-echo.
-echo To install the Genshin Stella Mod, please visit https://stella.sefinek.net and click on the 'Download' button.
-echo.
-echo Additionally, be aware that the YouTube video titled
-echo "How to Install Genshin Impact Reshade Mod for Enhanced Graphics Quality and Unlocked Frame Rates? 2022"
-echo is deprecated.
-echo.
-echo ~ Wishing you the best of luck!
+title Deprecated Launch Method
 
-goto done
+echo ------------------------------ This launch method is no longer available ------------------------------
+echo.
+echo If you used the "git clone [repository link]" command, you downloaded the source code of the Stella Mod software.
+echo Compiling the code on your computer may not be possible, as some files are not publicly accessible
+echo for security reasons. Read more: https://stella.sefinek.net/docs?page=faq#not-open-source
+echo.
+echo To install Genshin Stella Mod, visit https://stella.sefinek.net and click the "Download" button.
+echo Make sure you download it only from sefinek.net!
+echo Discord server: https://discord.gg/zTc745GcVj
+echo.
+echo Note: Some videos showcasing our software on YouTube may be outdated.
+echo.
+echo ~ You may now close this window. We wish you the best of luck!
 
-:done
-    pause >nul
-    exit
+pause >nul
+exit
