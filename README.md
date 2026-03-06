@@ -23,7 +23,7 @@
     <a href="https://ko-fi.com/sefinek" title="Ko-fi"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" id="kofi" height="32" alt="Support me on Ko-fi"></a>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://sefinek.net/genshin-stella-mod?download=true&referrer=github_readme" title="Download stable release"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download Stella Mod" height="144"></a>
@@ -51,7 +51,7 @@
 - [🧀 Legend](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)
 - [🧶 Credits](https://sefinek.net/genshin-stella-mod/docs?page=credits)
 
-Welcome to the official GitHub repository for [Genshin Stella Mod](https://stella.sefinek.net)!
+<div align="center">Welcome to the official GitHub repository for [Genshin Stella Mod](https://stella.sefinek.net)!</div>
 
 Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and mods provide players with an even better gaming experience than ever before!
 Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.
