@@ -66,6 +66,12 @@ Don't wait, download it now! Take your gameplay to the next level. Immerse yours
     <a href="https://sefinek.net/images/stella/gallery/v7.9.7/1-2.png" title="See preview">
         <img src="https://sefinek.net/images/stella/gallery/v7.9.7/1-2.png" alt="Screenshot number 1">
     </a>
+    <a href="https://sefinek.net/images/stella/gallery/v8.1.6/1-2.png" title="See preview">
+        <img src="https://sefinek.net/images/stella/gallery/v8.1.6/1-2.png" alt="Screenshot number 2">
+    </a>
+    <a href="https://sefinek.net/images/stella/gallery/v7.9.7/2-2.png" title="See preview">
+        <img src="https://sefinek.net/images/stella/gallery/v7.9.7/2-2.png" alt="Screenshot number 3">
+    </a>
 </div>
 
 ## 🔖 〢 License
