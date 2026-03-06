@@ -51,7 +51,7 @@
 - [🧀 Legend](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)
 - [🧶 Credits](https://sefinek.net/genshin-stella-mod/docs?page=credits)
 
-<div align="center">Welcome to the official GitHub repository for <a href="https://stella.sefinek.net">Genshin Stella Mod</a>!</div>
+<div align="center">Welcome to the official GitHub repository for <a href="https://stella.sefinek.net">Genshin Stella Mod</a>!</div><br>
 
 Enhanced graphics, meticulously crafted shaders, impressive FPS unlocking, and mods provide players with an even better gaming experience than ever before!
 Rediscover the world of Teyvat with new graphics that make your gameplay more realistic. A dedicated launcher streamlines the entire process, allowing players to jump into the action quickly and easily.
