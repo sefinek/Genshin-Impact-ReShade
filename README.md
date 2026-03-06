@@ -43,10 +43,10 @@
 - [🧶 Credits](https://sefinek.net/genshin-stella-mod/docs?page=credits)
 
 <div align="center">
-  <a href="https://sefinek.net/genshin-stella-mod?download=true&referrer=github_readme" title="Download stable release"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download" height="144"></a>
+  <a href="https://sefinek.net/genshin-stella-mod?download=true&referrer=github_readme" title="Download stable release"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download Stella Mod" height="144"></a>
   <br>
-  <a href="https://sefinek.net/genshin-stella-mod?referrer=github_readme" title="Official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Website" height="138"></a>
-  <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Discord" height="138"></a>
+  <a href="https://sefinek.net/genshin-stella-mod?referrer=github_readme" title="Official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Stella Mod Official Website" height="138"></a>
+  <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Stella Mod Discord Server" height="138"></a>
 </div>
 
 Welcome to the official GitHub repository for [Genshin Stella Mod](https://stella.sefinek.net)!
