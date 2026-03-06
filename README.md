@@ -33,7 +33,7 @@
 - [🐈 What is ReShade and FPS Unlock?](https://sefinek.net/genshin-stella-mod/docs?page=reshade-fpsunlocker)
 - [🤔 FAQ](https://sefinek.net/genshin-stella-mod/docs?page=faq)
 - [🐕‍🦺 Support](https://sefinek.net/genshin-stella-mod/docs?page=support)
-- [ ‍🔧 Troubleshooting](https://sefinek.net/genshin-stella-mod/docs?page=troubleshooting)
+- [🔧 Troubleshooting](https://sefinek.net/genshin-stella-mod/docs?page=troubleshooting)
 - [🚨 Terms of use](https://sefinek.net/genshin-stella-mod/docs?page=terms-of-use)
 - [🔒 Privacy policy](https://sefinek.net/genshin-stella-mod/docs?page=privacy-policy)
 - [📥 Installation](https://sefinek.net/genshin-stella-mod/docs?page=installation)
