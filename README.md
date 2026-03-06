@@ -58,8 +58,8 @@ Don't wait, download it now! Take your gameplay to the next level. Immerse yours
 ## 📷 〢 Screenshot (see more [here](https://sefinek.net/genshin-stella-mod/gallery?page=1))
 <div id="images">
     <a href="https://sefinek.net/images/stella/gallery/v7.9.7/1-2.png"><img src="https://sefinek.net/images/stella/gallery/v7.9.7/1-2.png" alt="Screenshot number 1"></a>
-    <a href="https://sefinek.net/images/stella/gallery/v8.1.6/1-2.png"><img src="https://sefinek.net/images/stella/gallery/v8.1.6/1-2.png" alt="Screenshot number 2"></a>
-    <a href="https://sefinek.net/images/stella/gallery/v7.9.7/2-2.png"><img src="https://sefinek.net/images/stella/gallery/v7.9.7/2-2.png" alt="Screenshot number 3"></a>
+    <a href="https://sefinek.net/images/stella/gallery/v7.9.7/2-2.png"><img src="https://sefinek.net/images/stella/gallery/v7.9.7/2-2.png" alt="Screenshot number 2"></a>
+    <a href="https://sefinek.net/images/stella/gallery/v8.1.6/1-2.png"><img src="https://sefinek.net/images/stella/gallery/v8.1.6/1-2.png" alt="Screenshot number 3"></a>
 </div>
 
 ## 🔖 〢 License
