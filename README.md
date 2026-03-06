@@ -23,6 +23,13 @@
     <a href="https://ko-fi.com/sefinek" title="Ko-fi"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" id="kofi" height="32" alt="Support me on Ko-fi"></a>
 </div>
 
+<div align="center">
+  <a href="https://sefinek.net/genshin-stella-mod?download=true&referrer=github_readme" title="Download stable release"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download Stella Mod" height="144"></a>
+  <br>
+  <a href="https://sefinek.net/genshin-stella-mod?referrer=github_readme" title="Official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Stella Mod Official Website" height="138"></a>
+  <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Stella Mod Discord Server" height="138"></a>
+</div>
+
 
 ## 📋 〢 Documentation
 - [👋 Introduction](https://sefinek.net/genshin-stella-mod/docs?page=introduction)
@@ -41,13 +48,6 @@
 - [📃 Changelogs](https://sefinek.net/genshin-stella-mod/docs?page=changelog_v8)
 - [🧀 Legend](https://sefinek.net/genshin-stella-mod/docs?page=introduction#emoji-legend)
 - [🧶 Credits](https://sefinek.net/genshin-stella-mod/docs?page=credits)
-
-<div align="center">
-  <a href="https://sefinek.net/genshin-stella-mod?download=true&referrer=github_readme" title="Download stable release"><img src="https://sefinek.net/images/stella/mafumafu/download.png" alt="Download Stella Mod" height="144"></a>
-  <br>
-  <a href="https://sefinek.net/genshin-stella-mod?referrer=github_readme" title="Official website"><img src="https://sefinek.net/images/stella/mafumafu/website.png" alt="Stella Mod Official Website" height="138"></a>
-  <a href="https://discord.com/invite/k2wfGRq4dT" title="Our Discord server"><img src="https://sefinek.net/images/stella/mafumafu/discord.png" alt="Stella Mod Discord Server" height="138"></a>
-</div>
 
 Welcome to the official GitHub repository for [Genshin Stella Mod](https://stella.sefinek.net)!
 
