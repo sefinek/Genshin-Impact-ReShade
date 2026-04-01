@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-set "file_path=D:\Projects\stella\Genshin-Impact-ReShade\Genshin Stella Mod made by Sefinek.slnx"
+set "file_path=D:\Projects\stella\Genshin-Impact-ReShade\Genshin Stella Mod.slnx"
 set "vs_path=C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\devenv.exe"
 
 for %%f in ("%file_path%") do (
